@@ -1,3 +1,0 @@
-# 219_Ensuring_information_transparency
-
-Initial placeholder.
