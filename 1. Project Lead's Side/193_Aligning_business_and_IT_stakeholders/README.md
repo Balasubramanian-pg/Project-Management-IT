@@ -1,3 +1,0 @@
-# 193_Aligning_business_and_IT_stakeholders
-
-Initial placeholder.
