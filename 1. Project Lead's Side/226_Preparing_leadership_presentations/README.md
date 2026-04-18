@@ -1,3 +1,0 @@
-# 226_Preparing_leadership_presentations
-
-Initial placeholder.
