@@ -1,3 +1,0 @@
-# 468_Ensuring_working_software_increments
-
-Initial placeholder.
