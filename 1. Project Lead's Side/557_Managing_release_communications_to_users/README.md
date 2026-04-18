@@ -1,3 +1,0 @@
-# 557_Managing_release_communications_to_users
-
-Initial placeholder.
