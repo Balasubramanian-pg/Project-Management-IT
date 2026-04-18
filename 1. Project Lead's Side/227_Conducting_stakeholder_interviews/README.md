@@ -1,3 +1,0 @@
-# 227_Conducting_stakeholder_interviews
-
-Initial placeholder.
