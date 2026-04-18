@@ -1,3 +1,0 @@
-# 83_Creating_work_breakdown_structure
-
-Initial placeholder.
