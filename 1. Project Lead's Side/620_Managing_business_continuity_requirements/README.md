@@ -1,3 +1,0 @@
-# 620_Managing_business_continuity_requirements
-
-Initial placeholder.
