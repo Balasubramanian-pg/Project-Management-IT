@@ -1,3 +1,0 @@
-# 28_Capturing_stakeholder_expectations
-
-Initial placeholder.
