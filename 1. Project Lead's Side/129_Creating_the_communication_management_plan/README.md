@@ -1,3 +1,0 @@
-# 129_Creating_the_communication_management_plan
-
-Initial placeholder.
