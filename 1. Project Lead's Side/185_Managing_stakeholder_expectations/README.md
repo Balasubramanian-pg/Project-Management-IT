@@ -1,3 +1,0 @@
-# 185_Managing_stakeholder_expectations
-
-Initial placeholder.
