@@ -1,3 +1,0 @@
-# 340_Implementing_preventive_actions
-
-Initial placeholder.
