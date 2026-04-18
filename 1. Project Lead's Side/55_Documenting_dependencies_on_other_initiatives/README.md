@@ -1,3 +1,0 @@
-# 55_Documenting_dependencies_on_other_initiatives
-
-Initial placeholder.
