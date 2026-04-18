@@ -1,3 +1,0 @@
-# 438_Coordinating_among_support_teams
-
-Initial placeholder.
