@@ -1,3 +1,0 @@
-# 133_Selecting_estimation_techniques
-
-Initial placeholder.
