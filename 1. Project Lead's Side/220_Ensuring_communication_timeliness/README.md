@@ -1,3 +1,0 @@
-# 220_Ensuring_communication_timeliness
-
-Initial placeholder.
