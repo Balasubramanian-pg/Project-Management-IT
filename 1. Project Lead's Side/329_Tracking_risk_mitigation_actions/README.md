@@ -1,3 +1,0 @@
-# 329_Tracking_risk_mitigation_actions
-
-Initial placeholder.
