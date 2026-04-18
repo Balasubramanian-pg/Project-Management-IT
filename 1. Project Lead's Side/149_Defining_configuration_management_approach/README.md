@@ -1,3 +1,0 @@
-# 149_Defining_configuration_management_approach
-
-Initial placeholder.
