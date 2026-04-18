@@ -1,3 +1,0 @@
-# 248_Tracking_planned_versus_actual_effort
-
-Initial placeholder.
