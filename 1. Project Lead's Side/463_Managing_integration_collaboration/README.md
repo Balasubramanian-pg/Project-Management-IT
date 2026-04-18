@@ -1,3 +1,0 @@
-# 463_Managing_integration_collaboration
-
-Initial placeholder.
