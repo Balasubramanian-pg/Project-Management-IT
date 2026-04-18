@@ -1,3 +1,0 @@
-# 132_Creating_the_stakeholder_management_plan
-
-Initial placeholder.
