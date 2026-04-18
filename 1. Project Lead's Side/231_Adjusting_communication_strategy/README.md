@@ -1,3 +1,0 @@
-# 231_Adjusting_communication_strategy
-
-Initial placeholder.
