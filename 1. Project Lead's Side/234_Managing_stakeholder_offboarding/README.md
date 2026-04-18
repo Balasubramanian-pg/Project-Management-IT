@@ -1,0 +1,3 @@
+# 234_Managing_stakeholder_offboarding
+
+Initial placeholder.
