@@ -1,3 +1,0 @@
-# 618_Managing_incident_reporting_requirements
-
-Initial placeholder.
