@@ -1,3 +1,0 @@
-# 41_Identifying_constraints_on_delivery
-
-Initial placeholder.
