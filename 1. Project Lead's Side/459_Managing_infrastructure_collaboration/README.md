@@ -1,3 +1,0 @@
-# 459_Managing_infrastructure_collaboration
-
-Initial placeholder.
