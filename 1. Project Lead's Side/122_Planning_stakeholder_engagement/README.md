@@ -1,3 +1,0 @@
-# 122_Planning_stakeholder_engagement
-
-Initial placeholder.
