@@ -1,3 +1,0 @@
-# 131_Creating_the_procurement_management_plan
-
-Initial placeholder.
