@@ -1,3 +1,0 @@
-# 125_Creating_the_schedule_management_plan
-
-Initial placeholder.
