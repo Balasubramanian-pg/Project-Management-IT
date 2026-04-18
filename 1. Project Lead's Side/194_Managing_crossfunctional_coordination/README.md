@@ -1,3 +1,0 @@
-# 194_Managing_crossfunctional_coordination
-
-Initial placeholder.
