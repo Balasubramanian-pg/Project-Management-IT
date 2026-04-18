@@ -1,3 +1,0 @@
-# 271_Updating_schedule_at_completion
-
-Initial placeholder.
