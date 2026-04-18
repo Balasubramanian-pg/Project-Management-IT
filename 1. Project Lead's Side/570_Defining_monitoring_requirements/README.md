@@ -1,3 +1,0 @@
-# 570_Defining_monitoring_requirements
-
-Initial placeholder.
