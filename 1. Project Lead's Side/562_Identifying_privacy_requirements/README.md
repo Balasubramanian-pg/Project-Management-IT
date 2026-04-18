@@ -1,3 +1,0 @@
-# 562_Identifying_privacy_requirements
-
-Initial placeholder.
