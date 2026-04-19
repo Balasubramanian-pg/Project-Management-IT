@@ -1,3 +1,3 @@
-# 678_Handling_idempotency
+# 678 Handling idempotency
 
-Initial version.
+Updated version.
