@@ -1,3 +1,3 @@
-# 228_Integrating_code_quality_tools
+# 228 Integrating code quality tools
 
-Initial version.
+Updated version.
