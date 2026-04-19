@@ -1,3 +1,3 @@
-# 740_Mastering_system_design
+# 740 Mastering system design
 
-Initial version.
+Updated version.
