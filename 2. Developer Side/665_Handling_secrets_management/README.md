@@ -1,3 +1,3 @@
-# 665_Handling_secrets_management
+# 665 Handling secrets management
 
-Initial version.
+Updated version.
