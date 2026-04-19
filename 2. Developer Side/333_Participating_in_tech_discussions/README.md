@@ -1,3 +1,3 @@
-# 333_Participating_in_tech_discussions
+# 333 Participating in tech discussions
 
-Initial version.
+Updated version.
