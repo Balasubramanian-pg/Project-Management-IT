@@ -1,3 +1,3 @@
-# 463_Managing_integration_collaboration
+# 463 Managing integration collaboration
 
-Initial version.
+Updated version.
