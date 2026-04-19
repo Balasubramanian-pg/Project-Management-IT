@@ -1,1 +1,1 @@
-print("Running 702_Maintaining_SLOs")
+print("Running 702 Maintaining SLOs")
