@@ -1,3 +1,3 @@
-# 277_Managing_staffing_rampdown
+# 277 Managing staffing ramp-down
 
-Initial version.
+Updated version.
