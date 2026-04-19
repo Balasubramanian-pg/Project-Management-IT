@@ -1,3 +1,3 @@
-# 190_Handling_stakeholder_conflict
+# 190 Handling stakeholder conflict
 
-Initial version.
+Updated version.
