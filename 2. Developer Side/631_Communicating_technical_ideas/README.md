@@ -1,3 +1,3 @@
-# 631_Communicating_technical_ideas
+# 631 Communicating technical ideas
 
-Initial version.
+Updated version.
