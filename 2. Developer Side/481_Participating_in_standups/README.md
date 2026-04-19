@@ -1,3 +1,3 @@
-# 481_Participating_in_standups
+# 481 Participating in standups
 
-Initial version.
+Updated version.
