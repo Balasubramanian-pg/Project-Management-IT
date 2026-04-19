@@ -1,3 +1,3 @@
-# 435_Coordinating_among_squads
+# 435 Coordinating among squads
 
-Initial version.
+Updated version.
