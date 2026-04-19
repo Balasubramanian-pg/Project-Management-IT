@@ -1,3 +1,3 @@
-# 176_Maintaining_change_logs
+# 176 Maintaining change logs
 
-Initial version.
+Updated version.
