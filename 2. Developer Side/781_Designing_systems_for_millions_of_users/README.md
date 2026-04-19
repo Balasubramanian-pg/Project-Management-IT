@@ -1,3 +1,3 @@
-# 781_Designing_systems_for_millions_of_users
+# 781 Designing systems for millions of users
 
-Initial version.
+Updated version.
