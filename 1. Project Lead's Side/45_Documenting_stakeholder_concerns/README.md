@@ -1,3 +1,3 @@
-# 45_Documenting_stakeholder_concerns
+# 45 Documenting stakeholder concerns
 
-Initial version.
+Updated version.
