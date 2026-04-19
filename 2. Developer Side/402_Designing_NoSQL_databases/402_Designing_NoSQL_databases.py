@@ -1,1 +1,1 @@
-print("Running 402_Designing_NoSQL_databases")
+print("Running 402 Designing NoSQL databases")
