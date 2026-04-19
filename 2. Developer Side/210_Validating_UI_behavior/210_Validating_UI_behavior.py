@@ -1,1 +1,1 @@
-print("Running 210_Validating_UI_behavior")
+print("Running 210 Validating UI behavior")
