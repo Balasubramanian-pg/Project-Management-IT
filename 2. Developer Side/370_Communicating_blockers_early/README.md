@@ -1,3 +1,3 @@
-# 370_Communicating_blockers_early
+# 370 Communicating blockers early
 
-Initial version.
+Updated version.
