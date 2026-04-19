@@ -1,3 +1,3 @@
-# 759_Handling_data_synchronization
+# 759 Handling data synchronization
 
-Initial version.
+Updated version.
