@@ -1,3 +1,3 @@
-# 219_Ensuring_information_transparency
+# 219 Ensuring information transparency
 
-Initial version.
+Updated version.
