@@ -1,1 +1,1 @@
-print("Running 792_Designing_resilient_architectures")
+print("Running 792 Designing resilient architectures")
