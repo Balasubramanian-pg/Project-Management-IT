@@ -1,3 +1,3 @@
-# 90_Designing_concurrency_control
+# 90 Designing concurrency control
 
-Initial version.
+Updated version.
