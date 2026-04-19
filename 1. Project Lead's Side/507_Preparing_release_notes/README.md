@@ -1,3 +1,3 @@
-# 507_Preparing_release_notes
+# 507 Preparing release notes
 
-Initial version.
+Updated version.
