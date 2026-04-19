@@ -1,3 +1,3 @@
-# 635_Learning_continuously
+# 635 Learning continuously
 
-Initial version.
+Updated version.
