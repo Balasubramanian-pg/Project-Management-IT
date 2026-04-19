@@ -1,1 +1,1 @@
-print("Running 148_Applying_YAGNI_principle")
+print("Running 148 Applying YAGNI principle")
