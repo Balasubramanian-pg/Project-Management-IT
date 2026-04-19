@@ -1,3 +1,3 @@
-# 180_Defining_meeting_agenda_standards
+# 180 Defining meeting agenda standards
 
-Initial version.
+Updated version.
