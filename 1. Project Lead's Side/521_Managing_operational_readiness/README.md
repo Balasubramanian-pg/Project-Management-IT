@@ -1,3 +1,3 @@
-# 521_Managing_operational_readiness
+# 521 Managing operational readiness
 
-Initial version.
+Updated version.
