@@ -1,3 +1,3 @@
-# 201_Confirming_decision_accountability
+# 201 Confirming decision accountability
 
-Initial version.
+Updated version.
