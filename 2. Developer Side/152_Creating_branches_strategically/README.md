@@ -1,3 +1,3 @@
-# 152_Creating_branches_strategically
+# 152 Creating branches strategically
 
-Initial version.
+Updated version.
