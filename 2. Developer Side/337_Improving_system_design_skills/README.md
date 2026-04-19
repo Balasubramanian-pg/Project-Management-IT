@@ -1,3 +1,3 @@
-# 337_Improving_system_design_skills
+# 337 Improving system design skills
 
-Initial version.
+Updated version.
