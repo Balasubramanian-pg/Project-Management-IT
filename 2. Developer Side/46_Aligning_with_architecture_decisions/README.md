@@ -1,3 +1,3 @@
-# 46_Aligning_with_architecture_decisions
+# 46 Aligning with architecture decisions
 
-Initial version.
+Updated version.
