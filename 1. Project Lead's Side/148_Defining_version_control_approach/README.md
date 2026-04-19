@@ -1,3 +1,3 @@
-# 148_Defining_version_control_approach
+# 148 Defining version control approach
 
-Initial version.
+Updated version.
