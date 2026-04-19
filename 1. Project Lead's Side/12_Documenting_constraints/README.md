@@ -1,3 +1,3 @@
-# 12_Documenting_constraints
+# 12 Documenting constraints
 
-Initial version.
+Updated version.
