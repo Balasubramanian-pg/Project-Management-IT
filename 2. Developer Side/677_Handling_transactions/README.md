@@ -1,3 +1,3 @@
-# 677_Handling_transactions
+# 677 Handling transactions
 
-Initial version.
+Updated version.
