@@ -1,3 +1,3 @@
-# 232_Deploying_to_staging
+# 232 Deploying to staging
 
-Initial version.
+Updated version.
