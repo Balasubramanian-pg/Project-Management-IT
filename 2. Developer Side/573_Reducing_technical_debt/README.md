@@ -1,3 +1,3 @@
-# 573_Reducing_technical_debt
+# 573 Reducing technical debt
 
-Initial version.
+Updated version.
