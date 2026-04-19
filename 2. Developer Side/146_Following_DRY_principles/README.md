@@ -1,3 +1,3 @@
-# 146_Following_DRY_principles
+# 146 Following DRY principles
 
-Initial version.
+Updated version.
