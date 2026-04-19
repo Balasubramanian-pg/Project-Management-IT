@@ -1,3 +1,3 @@
-# 105_Applying_design_patterns
+# 105 Applying design patterns
 
-Initial version.
+Updated version.
