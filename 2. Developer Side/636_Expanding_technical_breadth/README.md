@@ -1,3 +1,3 @@
-# 636_Expanding_technical_breadth
+# 636 Expanding technical breadth
 
-Initial version.
+Updated version.
