@@ -1,1 +1,1 @@
-print("Running 533_Designing_idempotent_systems")
+print("Running 533 Designing idempotent systems")
