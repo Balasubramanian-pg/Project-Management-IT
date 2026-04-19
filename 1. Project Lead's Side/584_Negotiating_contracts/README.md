@@ -1,3 +1,3 @@
-# 584_Negotiating_contracts
+# 584 Negotiating contracts
 
-Initial version.
+Updated version.
