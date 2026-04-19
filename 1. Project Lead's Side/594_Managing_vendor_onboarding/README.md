@@ -1,3 +1,3 @@
-# 594_Managing_vendor_onboarding
+# 594 Managing vendor onboarding
 
-Initial version.
+Updated version.
