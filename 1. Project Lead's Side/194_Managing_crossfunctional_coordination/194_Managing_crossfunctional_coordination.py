@@ -1,1 +1,1 @@
-print("Running 194_Managing_crossfunctional_coordination")
+print("Running 194 Managing cross-functional coordination")
