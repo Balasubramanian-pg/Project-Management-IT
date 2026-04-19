@@ -1,1 +1,1 @@
-print("Running 752_Handling_CDN_invalidation")
+print("Running 752 Handling CDN invalidation")
