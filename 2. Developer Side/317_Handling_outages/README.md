@@ -1,3 +1,3 @@
-# 317_Handling_outages
+# 317 Handling outages
 
-Initial version.
+Updated version.
