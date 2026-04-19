@@ -1,3 +1,3 @@
-# 07_Mapping_business_outcomes
+# 07 Mapping business outcomes
 
-Initial version.
+Updated version.
