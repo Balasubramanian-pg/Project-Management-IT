@@ -1,3 +1,3 @@
-# 245_Allocating_resources_to_tasks
+# 245 Allocating resources to tasks
 
-Initial version.
+Updated version.
