@@ -1,3 +1,3 @@
-# 492_Planning_interface_validation
+# 492 Planning interface validation
 
-Initial version.
+Updated version.
