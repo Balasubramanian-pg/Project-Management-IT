@@ -1,1 +1,1 @@
-print("Running 788_Designing_continuous_delivery_systems")
+print("Running 788 Designing continuous delivery systems")
