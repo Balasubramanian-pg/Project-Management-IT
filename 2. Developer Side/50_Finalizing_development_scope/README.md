@@ -1,3 +1,3 @@
-# 50_Finalizing_development_scope
+# 50 Finalizing development scope
 
-Initial version.
+Updated version.
