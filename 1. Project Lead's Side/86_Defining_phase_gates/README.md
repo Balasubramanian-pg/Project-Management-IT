@@ -1,3 +1,3 @@
-# 86_Defining_phase_gates
+# 86 Defining phase gates
 
-Initial version.
+Updated version.
