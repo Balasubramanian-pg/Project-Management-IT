@@ -1,3 +1,3 @@
-# 327_Sharing_knowledge_with_team
+# 327 Sharing knowledge with team
 
-Initial version.
+Updated version.
