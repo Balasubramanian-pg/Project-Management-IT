@@ -1,3 +1,3 @@
-# 56_Confirming_project_ownership
+# 56 Confirming project ownership
 
-Initial version.
+Updated version.
