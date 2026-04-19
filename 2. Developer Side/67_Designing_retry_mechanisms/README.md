@@ -1,3 +1,3 @@
-# 67_Designing_retry_mechanisms
+# 67 Designing retry mechanisms
 
-Initial version.
+Updated version.
