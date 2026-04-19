@@ -1,3 +1,3 @@
-# 458_Managing_UX_collaboration
+# 458 Managing UX collaboration
 
-Initial version.
+Updated version.
