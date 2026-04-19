@@ -1,3 +1,3 @@
-# 456_Logging_backend_events
+# 456 Logging backend events
 
-Initial version.
+Updated version.
