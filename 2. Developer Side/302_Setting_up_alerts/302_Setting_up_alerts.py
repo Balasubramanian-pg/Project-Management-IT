@@ -1,1 +1,1 @@
-print("Running 302_Setting_up_alerts")
+print("Running 302 Setting up alerts")
