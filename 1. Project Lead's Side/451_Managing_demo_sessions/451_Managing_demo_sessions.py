@@ -1,1 +1,1 @@
-print("Running 451_Managing_demo_sessions")
+print("Running 451 Managing demo sessions")
