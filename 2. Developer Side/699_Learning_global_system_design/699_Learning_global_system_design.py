@@ -1,1 +1,1 @@
-print("Running 699_Learning_global_system_design")
+print("Running 699 Learning global system design")
