@@ -1,3 +1,3 @@
-# 160_Managing_access_control
+# 160 Managing access control
 
-Initial version.
+Updated version.
