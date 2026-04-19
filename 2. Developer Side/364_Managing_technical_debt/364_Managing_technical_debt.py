@@ -1,1 +1,1 @@
-print("Running 364_Managing_technical_debt")
+print("Running 364 Managing technical debt")
