@@ -1,3 +1,3 @@
-# 537_Designing_high_availability_systems
+# 537 Designing high availability systems
 
-Initial version.
+Updated version.
