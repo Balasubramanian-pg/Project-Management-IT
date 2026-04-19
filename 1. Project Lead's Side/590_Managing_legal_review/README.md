@@ -1,3 +1,3 @@
-# 590_Managing_legal_review
+# 590 Managing legal review
 
-Initial version.
+Updated version.
