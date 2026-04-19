@@ -1,3 +1,3 @@
-# 361_Managing_focus_time
+# 361 Managing focus time
 
-Initial version.
+Updated version.
