@@ -1,3 +1,3 @@
-# 15_Establishing_project_objectives
+# 15 Establishing project objectives
 
-Initial version.
+Updated version.
