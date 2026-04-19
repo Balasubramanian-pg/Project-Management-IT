@@ -1,3 +1,3 @@
-# 97_Defining_requirements_gathering_plan
+# 97 Defining requirements gathering plan
 
-Initial version.
+Updated version.
