@@ -1,3 +1,3 @@
-# 03_Reading_user_stories_critically
+# 03 Reading user stories critically
 
-Initial version.
+Updated version.
