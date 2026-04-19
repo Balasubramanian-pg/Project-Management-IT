@@ -1,1 +1,1 @@
-print("Running 31_Recognizing_technical_dependencies")
+print("Running 31 Recognizing technical dependencies")
