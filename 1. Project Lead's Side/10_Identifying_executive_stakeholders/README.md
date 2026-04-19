@@ -1,3 +1,3 @@
-# 10_Identifying_executive_stakeholders
+# 10 Identifying executive stakeholders
 
-Initial version.
+Updated version.
