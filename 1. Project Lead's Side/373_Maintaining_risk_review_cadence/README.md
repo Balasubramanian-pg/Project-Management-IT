@@ -1,3 +1,3 @@
-# 373_Maintaining_risk_review_cadence
+# 373 Maintaining risk review cadence
 
-Initial version.
+Updated version.
