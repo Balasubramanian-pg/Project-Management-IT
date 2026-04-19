@@ -1,3 +1,3 @@
-# 752_Handling_CDN_invalidation
+# 752 Handling CDN invalidation
 
-Initial version.
+Updated version.
