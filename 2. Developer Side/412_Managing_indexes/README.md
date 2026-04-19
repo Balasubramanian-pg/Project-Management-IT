@@ -1,3 +1,3 @@
-# 412_Managing_indexes
+# 412 Managing indexes
 
-Initial version.
+Updated version.
