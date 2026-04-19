@@ -1,3 +1,3 @@
-# 531_Designing_graceful_degradation
+# 531 Designing graceful degradation
 
-Initial version.
+Updated version.
