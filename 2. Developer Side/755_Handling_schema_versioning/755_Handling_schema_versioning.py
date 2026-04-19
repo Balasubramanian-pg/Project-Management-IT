@@ -1,1 +1,1 @@
-print("Running 755_Handling_schema_versioning")
+print("Running 755 Handling schema versioning")
