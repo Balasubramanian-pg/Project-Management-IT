@@ -1,3 +1,3 @@
-# 266_Minimizing_payload_size
+# 266 Minimizing payload size
 
-Initial version.
+Updated version.
