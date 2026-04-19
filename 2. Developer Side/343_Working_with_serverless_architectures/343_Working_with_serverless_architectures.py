@@ -1,1 +1,1 @@
-print("Running 343_Working_with_serverless_architectures")
+print("Running 343 Working with serverless architectures")
