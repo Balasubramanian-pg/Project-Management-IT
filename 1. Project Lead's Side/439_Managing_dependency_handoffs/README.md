@@ -1,3 +1,3 @@
-# 439_Managing_dependency_handoffs
+# 439 Managing dependency handoffs
 
-Initial version.
+Updated version.
