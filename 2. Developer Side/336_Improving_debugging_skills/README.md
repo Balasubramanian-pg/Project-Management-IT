@@ -1,3 +1,3 @@
-# 336_Improving_debugging_skills
+# 336 Improving debugging skills
 
-Initial version.
+Updated version.
