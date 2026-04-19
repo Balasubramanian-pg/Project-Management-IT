@@ -1,3 +1,3 @@
-# 291_Rotating_credentials
+# 291 Rotating credentials
 
-Initial version.
+Updated version.
