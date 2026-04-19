@@ -1,3 +1,3 @@
-# 533_Designing_idempotent_systems
+# 533 Designing idempotent systems
 
-Initial version.
+Updated version.
