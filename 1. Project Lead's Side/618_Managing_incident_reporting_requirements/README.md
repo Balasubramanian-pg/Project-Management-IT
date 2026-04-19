@@ -1,3 +1,3 @@
-# 618_Managing_incident_reporting_requirements
+# 618 Managing incident reporting requirements
 
-Initial version.
+Updated version.
