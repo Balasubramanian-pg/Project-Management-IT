@@ -1,3 +1,3 @@
-# 469_Ensuring_design_completion
+# 469 Ensuring design completion
 
-Initial version.
+Updated version.
