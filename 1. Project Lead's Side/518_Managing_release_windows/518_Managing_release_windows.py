@@ -1,1 +1,1 @@
-print("Running 518_Managing_release_windows")
+print("Running 518 Managing release windows")
