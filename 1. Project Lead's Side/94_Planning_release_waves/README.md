@@ -1,3 +1,3 @@
-# 94_Planning_release_waves
+# 94 Planning release waves
 
-Initial version.
+Updated version.
