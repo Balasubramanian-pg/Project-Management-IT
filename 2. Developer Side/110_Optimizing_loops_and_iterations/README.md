@@ -1,3 +1,3 @@
-# 110_Optimizing_loops_and_iterations
+# 110 Optimizing loops and iterations
 
-Initial version.
+Updated version.
