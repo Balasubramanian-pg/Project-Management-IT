@@ -1,3 +1,3 @@
-# 230_Measuring_stakeholder_satisfaction
+# 230 Measuring stakeholder satisfaction
 
-Initial version.
+Updated version.
