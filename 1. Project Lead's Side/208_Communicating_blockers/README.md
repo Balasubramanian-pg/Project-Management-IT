@@ -1,3 +1,3 @@
-# 208_Communicating_blockers
+# 208 Communicating blockers
 
-Initial version.
+Updated version.
