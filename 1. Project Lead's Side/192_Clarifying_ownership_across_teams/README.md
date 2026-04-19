@@ -1,3 +1,3 @@
-# 192_Clarifying_ownership_across_teams
+# 192 Clarifying ownership across teams
 
-Initial version.
+Updated version.
