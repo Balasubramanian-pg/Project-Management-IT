@@ -1,3 +1,3 @@
-# 118_Writing_comments_effectively
+# 118 Writing comments effectively
 
-Initial version.
+Updated version.
