@@ -1,3 +1,3 @@
-# 214_Managing_vendor_expectations
+# 214 Managing vendor expectations
 
-Initial version.
+Updated version.
