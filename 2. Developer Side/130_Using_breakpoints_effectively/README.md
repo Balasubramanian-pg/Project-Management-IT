@@ -1,3 +1,3 @@
-# 130_Using_breakpoints_effectively
+# 130 Using breakpoints effectively
 
-Initial version.
+Updated version.
