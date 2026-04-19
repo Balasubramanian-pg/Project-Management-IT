@@ -1,3 +1,3 @@
-# 768_Handling_clock_skew
+# 768 Handling clock skew
 
-Initial version.
+Updated version.
