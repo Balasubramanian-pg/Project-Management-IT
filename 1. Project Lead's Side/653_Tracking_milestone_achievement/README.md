@@ -1,3 +1,3 @@
-# 653_Tracking_milestone_achievement
+# 653 Tracking milestone achievement
 
-Initial version.
+Updated version.
