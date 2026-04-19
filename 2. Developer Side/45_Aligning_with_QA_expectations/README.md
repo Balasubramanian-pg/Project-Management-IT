@@ -1,3 +1,3 @@
-# 45_Aligning_with_QA_expectations
+# 45 Aligning with QA expectations
 
-Initial version.
+Updated version.
