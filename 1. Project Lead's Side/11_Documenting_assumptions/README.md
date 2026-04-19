@@ -1,3 +1,3 @@
-# 11_Documenting_assumptions
+# 11 Documenting assumptions
 
-Initial version.
+Updated version.
