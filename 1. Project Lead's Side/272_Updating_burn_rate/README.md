@@ -1,3 +1,3 @@
-# 272_Updating_burn_rate
+# 272 Updating burn rate
 
-Initial version.
+Updated version.
