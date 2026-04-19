@@ -1,3 +1,3 @@
-# 167_Managing_sponsor_communication
+# 167 Managing sponsor communication
 
-Initial version.
+Updated version.
