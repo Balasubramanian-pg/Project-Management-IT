@@ -1,3 +1,3 @@
-# 247_Managing_secrets_securely
+# 247 Managing secrets securely
 
-Initial version.
+Updated version.
