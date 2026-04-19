@@ -1,3 +1,3 @@
-# 387_Checking_detective_controls
+# 387 Checking detective controls
 
-Initial version.
+Updated version.
