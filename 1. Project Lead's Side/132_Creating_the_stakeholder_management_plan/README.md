@@ -1,3 +1,3 @@
-# 132_Creating_the_stakeholder_management_plan
+# 132 Creating the stakeholder management plan
 
-Initial version.
+Updated version.
