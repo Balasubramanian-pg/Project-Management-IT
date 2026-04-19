@@ -1,3 +1,3 @@
-# 684_Adapting_to_new_paradigms
+# 684 Adapting to new paradigms
 
-Initial version.
+Updated version.
