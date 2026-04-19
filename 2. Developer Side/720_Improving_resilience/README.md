@@ -1,3 +1,3 @@
-# 720_Improving_resilience
+# 720 Improving resilience
 
-Initial version.
+Updated version.
