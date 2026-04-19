@@ -1,3 +1,3 @@
-# 166_Avoiding_longlived_branches
+# 166 Avoiding long-lived branches
 
-Initial version.
+Updated version.
