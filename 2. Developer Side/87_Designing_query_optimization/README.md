@@ -1,3 +1,3 @@
-# 87_Designing_query_optimization
+# 87 Designing query optimization
 
-Initial version.
+Updated version.
