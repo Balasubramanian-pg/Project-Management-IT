@@ -1,3 +1,3 @@
-# 555_Optimizing_resource_utilization
+# 555 Optimizing resource utilization
 
-Initial version.
+Updated version.
