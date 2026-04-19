@@ -1,3 +1,3 @@
-# 398_Handling_schema_changes
+# 398 Handling schema changes
 
-Initial version.
+Updated version.
