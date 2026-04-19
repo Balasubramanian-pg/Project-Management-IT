@@ -1,3 +1,3 @@
-# 174_Documenting_code_changes
+# 174 Documenting code changes
 
-Initial version.
+Updated version.
