@@ -1,3 +1,3 @@
-# 585_Managing_dependencies
+# 585 Managing dependencies
 
-Initial version.
+Updated version.
