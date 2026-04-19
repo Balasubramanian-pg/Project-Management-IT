@@ -1,3 +1,3 @@
-# 169_Managing_status_meetings
+# 169 Managing status meetings
 
-Initial version.
+Updated version.
