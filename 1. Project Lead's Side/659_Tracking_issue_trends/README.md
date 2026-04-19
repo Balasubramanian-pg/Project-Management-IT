@@ -1,3 +1,3 @@
-# 659_Tracking_issue_trends
+# 659 Tracking issue trends
 
-Initial version.
+Updated version.
