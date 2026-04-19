@@ -1,3 +1,3 @@
-# 483_Participating_in_planning_sessions
+# 483 Participating in planning sessions
 
-Initial version.
+Updated version.
