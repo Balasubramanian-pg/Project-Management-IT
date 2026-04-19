@@ -1,3 +1,3 @@
-# 734_Building_observable_systems
+# 734 Building observable systems
 
-Initial version.
+Updated version.
