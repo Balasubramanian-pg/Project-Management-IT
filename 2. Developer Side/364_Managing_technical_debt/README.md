@@ -1,3 +1,3 @@
-# 364_Managing_technical_debt
+# 364 Managing technical debt
 
-Initial version.
+Updated version.
