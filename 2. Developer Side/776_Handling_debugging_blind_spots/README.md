@@ -1,3 +1,3 @@
-# 776_Handling_debugging_blind_spots
+# 776 Handling debugging blind spots
 
-Initial version.
+Updated version.
