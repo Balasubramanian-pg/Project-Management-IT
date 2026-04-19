@@ -1,1 +1,1 @@
-print("Running 532_Managing_release_signoff")
+print("Running 532 Managing release signoff")
