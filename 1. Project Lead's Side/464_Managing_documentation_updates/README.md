@@ -1,3 +1,3 @@
-# 464_Managing_documentation_updates
+# 464 Managing documentation updates
 
-Initial version.
+Updated version.
