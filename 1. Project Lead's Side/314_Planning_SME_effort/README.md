@@ -1,3 +1,3 @@
-# 314_Planning_SME_effort
+# 314 Planning SME effort
 
-Initial version.
+Updated version.
