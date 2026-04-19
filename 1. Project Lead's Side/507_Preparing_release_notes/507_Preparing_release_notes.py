@@ -1,1 +1,1 @@
-print("Running 507_Preparing_release_notes")
+print("Running 507 Preparing release notes")
