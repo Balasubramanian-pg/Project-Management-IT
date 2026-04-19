@@ -1,3 +1,3 @@
-# 239_Managing_bluegreen_deployments
+# 239 Managing blue-green deployments
 
-Initial version.
+Updated version.
