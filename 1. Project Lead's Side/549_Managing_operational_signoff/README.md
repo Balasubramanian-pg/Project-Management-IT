@@ -1,3 +1,3 @@
-# 549_Managing_operational_signoff
+# 549 Managing operational signoff
 
-Initial version.
+Updated version.
