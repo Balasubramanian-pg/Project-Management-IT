@@ -1,3 +1,3 @@
-# 478_Managing_pipelines
+# 478 Managing pipelines
 
-Initial version.
+Updated version.
