@@ -1,3 +1,3 @@
-# 494_Managing_test_defects
+# 494 Managing test defects
 
-Initial version.
+Updated version.
