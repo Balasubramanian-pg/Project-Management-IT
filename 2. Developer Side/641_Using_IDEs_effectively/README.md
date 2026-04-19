@@ -1,3 +1,3 @@
-# 641_Using_IDEs_effectively
+# 641 Using IDEs effectively
 
-Initial version.
+Updated version.
