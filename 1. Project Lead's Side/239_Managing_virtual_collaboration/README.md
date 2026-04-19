@@ -1,3 +1,3 @@
-# 239_Managing_virtual_collaboration
+# 239 Managing virtual collaboration
 
-Initial version.
+Updated version.
