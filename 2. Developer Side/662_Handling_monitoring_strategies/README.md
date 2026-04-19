@@ -1,3 +1,3 @@
-# 662_Handling_monitoring_strategies
+# 662 Handling monitoring strategies
 
-Initial version.
+Updated version.
