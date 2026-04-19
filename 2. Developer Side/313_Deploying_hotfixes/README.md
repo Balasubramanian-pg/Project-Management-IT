@@ -1,3 +1,3 @@
-# 313_Deploying_hotfixes
+# 313 Deploying hotfixes
 
-Initial version.
+Updated version.
