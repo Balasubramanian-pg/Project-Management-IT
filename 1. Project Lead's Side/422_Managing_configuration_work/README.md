@@ -1,3 +1,3 @@
-# 422_Managing_configuration_work
+# 422 Managing configuration work
 
-Initial version.
+Updated version.
