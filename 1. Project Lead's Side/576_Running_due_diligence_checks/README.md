@@ -1,3 +1,3 @@
-# 576_Running_due_diligence_checks
+# 576 Running due diligence checks
 
-Initial version.
+Updated version.
