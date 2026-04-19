@@ -1,3 +1,3 @@
-# 624_Mentoring_juniors
+# 624 Mentoring juniors
 
-Initial version.
+Updated version.
