@@ -1,3 +1,3 @@
-# 602_Game_development_practices
+# 602 Game development practices
 
-Initial version.
+Updated version.
