@@ -1,3 +1,3 @@
-# 389_Integrating_thirdparty_services
+# 389 Integrating third-party services
 
-Initial version.
+Updated version.
