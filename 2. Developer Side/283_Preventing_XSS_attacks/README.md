@@ -1,3 +1,3 @@
-# 283_Preventing_XSS_attacks
+# 283 Preventing XSS attacks
 
-Initial version.
+Updated version.
