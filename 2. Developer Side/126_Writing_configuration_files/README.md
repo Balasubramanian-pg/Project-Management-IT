@@ -1,3 +1,3 @@
-# 126_Writing_configuration_files
+# 126 Writing configuration files
 
-Initial version.
+Updated version.
