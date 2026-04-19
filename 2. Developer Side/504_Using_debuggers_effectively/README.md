@@ -1,3 +1,3 @@
-# 504_Using_debuggers_effectively
+# 504 Using debuggers effectively
 
-Initial version.
+Updated version.
