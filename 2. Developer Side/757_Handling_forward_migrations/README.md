@@ -1,3 +1,3 @@
-# 757_Handling_forward_migrations
+# 757 Handling forward migrations
 
-Initial version.
+Updated version.
