@@ -1,3 +1,3 @@
-# 250_Improving_deployment_speed
+# 250 Improving deployment speed
 
-Initial version.
+Updated version.
