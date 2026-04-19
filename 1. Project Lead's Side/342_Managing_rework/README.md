@@ -1,3 +1,3 @@
-# 342_Managing_rework
+# 342 Managing rework
 
-Initial version.
+Updated version.
