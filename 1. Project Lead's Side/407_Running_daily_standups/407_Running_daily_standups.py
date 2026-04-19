@@ -1,1 +1,1 @@
-print("Running 407_Running_daily_standups")
+print("Running 407 Running daily standups")
