@@ -1,3 +1,3 @@
-# 542_Managing_smoke_testing
+# 542 Managing smoke testing
 
-Initial version.
+Updated version.
