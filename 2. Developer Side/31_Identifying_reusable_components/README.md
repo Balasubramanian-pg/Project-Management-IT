@@ -1,3 +1,3 @@
-# 31_Identifying_reusable_components
+# 31 Identifying reusable components
 
-Initial version.
+Updated version.
