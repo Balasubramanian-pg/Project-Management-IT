@@ -1,3 +1,3 @@
-# 260_Improving_load_handling
+# 260 Improving load handling
 
-Initial version.
+Updated version.
