@@ -1,3 +1,3 @@
-# 443_Managing_release_completion
+# 443 Managing release completion
 
-Initial version.
+Updated version.
