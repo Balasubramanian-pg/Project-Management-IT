@@ -1,3 +1,3 @@
-# 75_Approving_project_initiation
+# 75 Approving project initiation
 
-Initial version.
+Updated version.
