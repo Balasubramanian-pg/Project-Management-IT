@@ -1,3 +1,3 @@
-# 409_Running_sprint_reviews
+# 409 Running sprint reviews
 
-Initial version.
+Updated version.
