@@ -1,1 +1,1 @@
-print("Running 603_Embedded_systems_development")
+print("Running 603 Embedded systems development")
