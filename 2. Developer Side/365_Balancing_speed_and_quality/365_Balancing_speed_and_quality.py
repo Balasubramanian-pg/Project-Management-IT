@@ -1,1 +1,1 @@
-print("Running 365_Balancing_speed_and_quality")
+print("Running 365 Balancing speed and quality")
