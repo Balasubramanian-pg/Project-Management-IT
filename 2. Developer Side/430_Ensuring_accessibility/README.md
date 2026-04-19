@@ -1,3 +1,3 @@
-# 430_Ensuring_accessibility
+# 430 Ensuring accessibility
 
-Initial version.
+Updated version.
