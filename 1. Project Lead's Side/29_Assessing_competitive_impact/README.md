@@ -1,3 +1,3 @@
-# 29_Assessing_competitive_impact
+# 29 Assessing competitive impact
 
-Initial version.
+Updated version.
