@@ -1,3 +1,3 @@
-# 102_Managing_requirement_traceability
+# 102 Managing requirement traceability
 
-Initial version.
+Updated version.
