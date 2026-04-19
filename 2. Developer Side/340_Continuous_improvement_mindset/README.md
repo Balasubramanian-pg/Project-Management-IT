@@ -1,3 +1,3 @@
-# 340_Continuous_improvement_mindset
+# 340 Continuous improvement mindset
 
-Initial version.
+Updated version.
