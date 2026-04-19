@@ -1,3 +1,3 @@
-# 222_Automating_builds
+# 222 Automating builds
 
-Initial version.
+Updated version.
