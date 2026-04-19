@@ -1,1 +1,1 @@
-print("Running 606_Financial_systems_engineering")
+print("Running 606 Financial systems engineering")
