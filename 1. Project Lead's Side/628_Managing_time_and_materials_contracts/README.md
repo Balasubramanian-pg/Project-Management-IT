@@ -1,3 +1,3 @@
-# 628_Managing_time_and_materials_contracts
+# 628 Managing time and materials contracts
 
-Initial version.
+Updated version.
