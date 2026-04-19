@@ -1,3 +1,3 @@
-# 352_Managing_requirement_changes
+# 352 Managing requirement changes
 
-Initial version.
+Updated version.
