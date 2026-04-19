@@ -1,3 +1,3 @@
-# 273_Scaling_vertically
+# 273 Scaling vertically
 
-Initial version.
+Updated version.
