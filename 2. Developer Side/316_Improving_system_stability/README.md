@@ -1,3 +1,3 @@
-# 316_Improving_system_stability
+# 316 Improving system stability
 
-Initial version.
+Updated version.
