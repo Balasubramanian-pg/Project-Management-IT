@@ -1,3 +1,3 @@
-# 796_Designing_maximum_flexibility_systems
+# 796 Designing maximum flexibility systems
 
-Initial version.
+Updated version.
