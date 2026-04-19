@@ -1,3 +1,3 @@
-# 704_Reducing_MTTR
+# 704 Reducing MTTR
 
-Initial version.
+Updated version.
