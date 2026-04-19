@@ -1,3 +1,3 @@
-# 88_Sequencing_project_activities
+# 88 Sequencing project activities
 
-Initial version.
+Updated version.
