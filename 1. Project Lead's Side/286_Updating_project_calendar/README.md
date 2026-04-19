@@ -1,3 +1,3 @@
-# 286_Updating_project_calendar
+# 286 Updating project calendar
 
-Initial version.
+Updated version.
