@@ -1,1 +1,1 @@
-print("Running 315_Planning_vendor_effort")
+print("Running 315 Planning vendor effort")
