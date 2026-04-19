@@ -1,1 +1,1 @@
-print("Running 686_Learning_serverless_patterns")
+print("Running 686 Learning serverless patterns")
