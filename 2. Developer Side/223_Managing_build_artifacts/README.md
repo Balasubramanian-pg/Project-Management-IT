@@ -1,3 +1,3 @@
-# 223_Managing_build_artifacts
+# 223 Managing build artifacts
 
-Initial version.
+Updated version.
