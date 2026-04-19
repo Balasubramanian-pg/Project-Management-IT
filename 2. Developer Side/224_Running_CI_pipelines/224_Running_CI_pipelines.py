@@ -1,1 +1,1 @@
-print("Running 224_Running_CI_pipelines")
+print("Running 224 Running CI pipelines")
