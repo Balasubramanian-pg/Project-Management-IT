@@ -1,3 +1,3 @@
-# 764_Handling_gossip_protocols
+# 764 Handling gossip protocols
 
-Initial version.
+Updated version.
