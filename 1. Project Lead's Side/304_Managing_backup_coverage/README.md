@@ -1,3 +1,3 @@
-# 304_Managing_backup_coverage
+# 304 Managing backup coverage
 
-Initial version.
+Updated version.
