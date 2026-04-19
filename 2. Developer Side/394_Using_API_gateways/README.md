@@ -1,3 +1,3 @@
-# 394_Using_API_gateways
+# 394 Using API gateways
 
-Initial version.
+Updated version.
