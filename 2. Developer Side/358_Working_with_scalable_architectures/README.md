@@ -1,3 +1,3 @@
-# 358_Working_with_scalable_architectures
+# 358 Working with scalable architectures
 
-Initial version.
+Updated version.
