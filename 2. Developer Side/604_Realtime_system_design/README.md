@@ -1,3 +1,3 @@
-# 604_Realtime_system_design
+# 604 Real-time system design
 
-Initial version.
+Updated version.
