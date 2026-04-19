@@ -1,3 +1,3 @@
-# 617_Managing_penetration_testing
+# 617 Managing penetration testing
 
-Initial version.
+Updated version.
