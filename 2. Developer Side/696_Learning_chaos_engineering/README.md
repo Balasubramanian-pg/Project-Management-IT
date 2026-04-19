@@ -1,3 +1,3 @@
-# 696_Learning_chaos_engineering
+# 696 Learning chaos engineering
 
-Initial version.
+Updated version.
