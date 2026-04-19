@@ -1,3 +1,3 @@
-# 85_Defining_milestones
+# 85 Defining milestones
 
-Initial version.
+Updated version.
