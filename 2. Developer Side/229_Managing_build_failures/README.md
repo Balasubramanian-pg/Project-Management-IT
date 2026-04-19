@@ -1,3 +1,3 @@
-# 229_Managing_build_failures
+# 229 Managing build failures
 
-Initial version.
+Updated version.
