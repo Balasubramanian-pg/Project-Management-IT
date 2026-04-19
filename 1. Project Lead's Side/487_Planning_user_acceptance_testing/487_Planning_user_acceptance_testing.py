@@ -1,1 +1,1 @@
-print("Running 487_Planning_user_acceptance_testing")
+print("Running 487 Planning user acceptance testing")
