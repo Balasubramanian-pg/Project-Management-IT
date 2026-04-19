@@ -1,3 +1,3 @@
-# 237_Managing_deployment_scripts
+# 237 Managing deployment scripts
 
-Initial version.
+Updated version.
