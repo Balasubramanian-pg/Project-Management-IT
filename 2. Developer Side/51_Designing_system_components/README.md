@@ -1,3 +1,3 @@
-# 51_Designing_system_components
+# 51 Designing system components
 
-Initial version.
+Updated version.
