@@ -1,3 +1,3 @@
-# 535_Managing_consistency_models
+# 535 Managing consistency models
 
-Initial version.
+Updated version.
