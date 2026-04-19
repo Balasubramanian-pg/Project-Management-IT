@@ -1,3 +1,3 @@
-# 172_Resolving_integration_conflicts
+# 172 Resolving integration conflicts
 
-Initial version.
+Updated version.
