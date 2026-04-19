@@ -1,1 +1,1 @@
-print("Running 146_Following_DRY_principles")
+print("Running 146 Following DRY principles")
