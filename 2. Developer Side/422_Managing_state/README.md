@@ -1,3 +1,3 @@
-# 422_Managing_state
+# 422 Managing state
 
-Initial version.
+Updated version.
