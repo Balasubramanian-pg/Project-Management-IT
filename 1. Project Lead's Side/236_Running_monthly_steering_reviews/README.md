@@ -1,3 +1,3 @@
-# 236_Running_monthly_steering_reviews
+# 236 Running monthly steering reviews
 
-Initial version.
+Updated version.
