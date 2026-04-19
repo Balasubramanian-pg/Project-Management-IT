@@ -1,3 +1,3 @@
-# 424_Optimizing_rendering
+# 424 Optimizing rendering
 
-Initial version.
+Updated version.
