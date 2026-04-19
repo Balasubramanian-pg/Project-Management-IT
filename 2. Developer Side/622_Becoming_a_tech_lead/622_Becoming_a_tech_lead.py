@@ -1,1 +1,1 @@
-print("Running 622_Becoming_a_tech_lead")
+print("Running 622 Becoming a tech lead")
