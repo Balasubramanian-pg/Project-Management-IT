@@ -1,1 +1,1 @@
-print("Running 761_Handling_strong_consistency_tradeoffs")
+print("Running 761 Handling strong consistency tradeoffs")
