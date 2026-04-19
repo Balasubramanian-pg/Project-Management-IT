@@ -1,3 +1,3 @@
-# 535_Managing_hotfixes
+# 535 Managing hotfixes
 
-Initial version.
+Updated version.
