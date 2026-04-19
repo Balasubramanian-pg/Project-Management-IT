@@ -1,1 +1,1 @@
-print("Running 486_Planning_regression_testing")
+print("Running 486 Planning regression testing")
