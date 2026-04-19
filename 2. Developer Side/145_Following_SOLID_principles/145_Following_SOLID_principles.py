@@ -1,1 +1,1 @@
-print("Running 145_Following_SOLID_principles")
+print("Running 145 Following SOLID principles")
