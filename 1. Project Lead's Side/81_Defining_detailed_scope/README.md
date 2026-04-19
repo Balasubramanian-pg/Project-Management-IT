@@ -1,3 +1,3 @@
-# 81_Defining_detailed_scope
+# 81 Defining detailed scope
 
-Initial version.
+Updated version.
