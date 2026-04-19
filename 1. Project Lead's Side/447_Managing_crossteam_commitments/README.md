@@ -1,3 +1,3 @@
-# 447_Managing_crossteam_commitments
+# 447 Managing cross-team commitments
 
-Initial version.
+Updated version.
