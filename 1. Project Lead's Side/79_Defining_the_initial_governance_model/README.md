@@ -1,3 +1,3 @@
-# 79_Defining_the_initial_governance_model
+# 79 Defining the initial governance model
 
-Initial version.
+Updated version.
