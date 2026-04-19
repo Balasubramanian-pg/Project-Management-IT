@@ -1,3 +1,3 @@
-# 44_Aligning_with_product_owner
+# 44 Aligning with product owner
 
-Initial version.
+Updated version.
