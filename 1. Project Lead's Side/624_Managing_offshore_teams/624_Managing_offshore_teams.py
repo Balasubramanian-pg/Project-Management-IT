@@ -1,1 +1,1 @@
-print("Running 624_Managing_offshore_teams")
+print("Running 624 Managing offshore teams")
