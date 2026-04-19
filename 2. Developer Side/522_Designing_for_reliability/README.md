@@ -1,3 +1,3 @@
-# 522_Designing_for_reliability
+# 522 Designing for reliability
 
-Initial version.
+Updated version.
