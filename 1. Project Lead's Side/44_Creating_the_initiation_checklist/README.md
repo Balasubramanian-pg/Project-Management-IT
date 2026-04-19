@@ -1,3 +1,3 @@
-# 44_Creating_the_initiation_checklist
+# 44 Creating the initiation checklist
 
-Initial version.
+Updated version.
