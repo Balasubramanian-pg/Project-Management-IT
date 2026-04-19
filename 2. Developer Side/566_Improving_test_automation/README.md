@@ -1,3 +1,3 @@
-# 566_Improving_test_automation
+# 566 Improving test automation
 
-Initial version.
+Updated version.
