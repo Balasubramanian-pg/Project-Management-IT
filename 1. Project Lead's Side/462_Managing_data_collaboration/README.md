@@ -1,3 +1,3 @@
-# 462_Managing_data_collaboration
+# 462 Managing data collaboration
 
-Initial version.
+Updated version.
