@@ -1,3 +1,3 @@
-# 379_Reducing_cognitive_load
+# 379 Reducing cognitive load
 
-Initial version.
+Updated version.
