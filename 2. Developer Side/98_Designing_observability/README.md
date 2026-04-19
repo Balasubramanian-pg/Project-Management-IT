@@ -1,3 +1,3 @@
-# 98_Designing_observability
+# 98 Designing observability
 
-Initial version.
+Updated version.
