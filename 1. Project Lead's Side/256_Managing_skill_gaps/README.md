@@ -1,3 +1,3 @@
-# 256_Managing_skill_gaps
+# 256 Managing skill gaps
 
-Initial version.
+Updated version.
