@@ -1,3 +1,3 @@
-# 303_Managing_skill_specialization
+# 303 Managing skill specialization
 
-Initial version.
+Updated version.
