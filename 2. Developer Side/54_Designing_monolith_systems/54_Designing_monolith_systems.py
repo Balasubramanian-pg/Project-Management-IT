@@ -1,1 +1,1 @@
-print("Running 54_Designing_monolith_systems")
+print("Running 54 Designing monolith systems")
