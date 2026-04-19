@@ -1,3 +1,3 @@
-# 186_Writing_load_tests
+# 186 Writing load tests
 
-Initial version.
+Updated version.
