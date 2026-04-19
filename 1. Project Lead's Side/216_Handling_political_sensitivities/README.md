@@ -1,3 +1,3 @@
-# 216_Handling_political_sensitivities
+# 216 Handling political sensitivities
 
-Initial version.
+Updated version.
