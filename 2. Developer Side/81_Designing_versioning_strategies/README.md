@@ -1,3 +1,3 @@
-# 81_Designing_versioning_strategies
+# 81 Designing versioning strategies
 
-Initial version.
+Updated version.
