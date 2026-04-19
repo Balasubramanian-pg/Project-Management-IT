@@ -1,3 +1,3 @@
-# 419_Managing_design_sprints
+# 419 Managing design sprints
 
-Initial version.
+Updated version.
