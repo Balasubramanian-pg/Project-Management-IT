@@ -1,3 +1,3 @@
-# 347_Working_with_big_data
+# 347 Working with big data
 
-Initial version.
+Updated version.
