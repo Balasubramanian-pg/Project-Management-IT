@@ -1,1 +1,1 @@
-print("Running 351_Working_with_edge_computing")
+print("Running 351 Working with edge computing")
