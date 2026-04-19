@@ -1,3 +1,3 @@
-# 187_Planning_communication_channels
+# 187 Planning communication channels
 
-Initial version.
+Updated version.
