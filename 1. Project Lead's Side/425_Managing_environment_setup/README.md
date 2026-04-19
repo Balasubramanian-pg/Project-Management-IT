@@ -1,3 +1,3 @@
-# 425_Managing_environment_setup
+# 425 Managing environment setup
 
-Initial version.
+Updated version.
