@@ -1,3 +1,3 @@
-# 339_Learning_new_languages
+# 339 Learning new languages
 
-Initial version.
+Updated version.
