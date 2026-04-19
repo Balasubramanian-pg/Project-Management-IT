@@ -1,1 +1,1 @@
-print("Running 481_Planning_test_strategy")
+print("Running 481 Planning test strategy")
