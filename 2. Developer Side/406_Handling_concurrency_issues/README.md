@@ -1,3 +1,3 @@
-# 406_Handling_concurrency_issues
+# 406 Handling concurrency issues
 
-Initial version.
+Updated version.
