@@ -1,3 +1,3 @@
-# 95_Planning_sprint_cadence
+# 95 Planning sprint cadence
 
-Initial version.
+Updated version.
