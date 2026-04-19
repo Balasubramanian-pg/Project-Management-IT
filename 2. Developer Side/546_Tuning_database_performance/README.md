@@ -1,3 +1,3 @@
-# 546_Tuning_database_performance
+# 546 Tuning database performance
 
-Initial version.
+Updated version.
