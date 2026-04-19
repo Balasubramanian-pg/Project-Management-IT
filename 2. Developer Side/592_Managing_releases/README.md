@@ -1,3 +1,3 @@
-# 592_Managing_releases
+# 592 Managing releases
 
-Initial version.
+Updated version.
