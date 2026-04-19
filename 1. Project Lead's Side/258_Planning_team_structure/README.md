@@ -1,3 +1,3 @@
-# 258_Planning_team_structure
+# 258 Planning team structure
 
-Initial version.
+Updated version.
