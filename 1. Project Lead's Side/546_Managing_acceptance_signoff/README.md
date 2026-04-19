@@ -1,3 +1,3 @@
-# 546_Managing_acceptance_signoff
+# 546 Managing acceptance signoff
 
-Initial version.
+Updated version.
