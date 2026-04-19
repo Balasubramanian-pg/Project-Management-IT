@@ -1,3 +1,3 @@
-# 145_Setting_planning_standards
+# 145 Setting planning standards
 
-Initial version.
+Updated version.
