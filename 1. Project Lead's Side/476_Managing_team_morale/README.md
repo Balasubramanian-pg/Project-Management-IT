@@ -1,3 +1,3 @@
-# 476_Managing_team_morale
+# 476 Managing team morale
 
-Initial version.
+Updated version.
