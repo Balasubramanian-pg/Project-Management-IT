@@ -1,1 +1,1 @@
-print("Running 520_Reducing_debugging_time")
+print("Running 520 Reducing debugging time")
