@@ -1,3 +1,3 @@
-# 789_Designing_selfhealing_systems
+# 789 Designing self-healing systems
 
-Initial version.
+Updated version.
