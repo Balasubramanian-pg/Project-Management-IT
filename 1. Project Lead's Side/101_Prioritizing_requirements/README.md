@@ -1,3 +1,3 @@
-# 101_Prioritizing_requirements
+# 101 Prioritizing requirements
 
-Initial version.
+Updated version.
