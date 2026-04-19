@@ -1,3 +1,3 @@
-# 279_Managing_outsourcing_effort
+# 279 Managing outsourcing effort
 
-Initial version.
+Updated version.
