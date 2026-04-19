@@ -1,1 +1,1 @@
-print("Running 502_Managing_test_environments")
+print("Running 502 Managing test environments")
