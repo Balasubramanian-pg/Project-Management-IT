@@ -1,3 +1,3 @@
-# 523_Designing_for_availability
+# 523 Designing for availability
 
-Initial version.
+Updated version.
