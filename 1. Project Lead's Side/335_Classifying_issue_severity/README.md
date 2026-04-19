@@ -1,3 +1,3 @@
-# 335_Classifying_issue_severity
+# 335 Classifying issue severity
 
-Initial version.
+Updated version.
