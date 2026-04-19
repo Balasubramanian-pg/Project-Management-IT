@@ -1,3 +1,3 @@
-# 687_Learning_edge_computing
+# 687 Learning edge computing
 
-Initial version.
+Updated version.
