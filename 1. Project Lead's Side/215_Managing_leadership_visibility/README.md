@@ -1,3 +1,3 @@
-# 215_Managing_leadership_visibility
+# 215 Managing leadership visibility
 
-Initial version.
+Updated version.
