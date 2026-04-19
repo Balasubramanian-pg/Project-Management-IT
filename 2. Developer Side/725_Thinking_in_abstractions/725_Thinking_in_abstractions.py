@@ -1,1 +1,1 @@
-print("Running 725_Thinking_in_abstractions")
+print("Running 725 Thinking in abstractions")
