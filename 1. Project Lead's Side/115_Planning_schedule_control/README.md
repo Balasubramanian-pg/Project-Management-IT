@@ -1,3 +1,3 @@
-# 115_Planning_schedule_control
+# 115 Planning schedule control
 
-Initial version.
+Updated version.
