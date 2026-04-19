@@ -1,3 +1,3 @@
-# 618_Image_processing_systems
+# 618 Image processing systems
 
-Initial version.
+Updated version.
