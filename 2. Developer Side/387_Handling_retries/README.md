@@ -1,3 +1,3 @@
-# 387_Handling_retries
+# 387 Handling retries
 
-Initial version.
+Updated version.
