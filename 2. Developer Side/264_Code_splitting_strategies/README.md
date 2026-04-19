@@ -1,3 +1,3 @@
-# 264_Code_splitting_strategies
+# 264 Code splitting strategies
 
-Initial version.
+Updated version.
