@@ -1,1 +1,1 @@
-print("Running 306_Optimizing_team_composition")
+print("Running 306 Optimizing team composition")
