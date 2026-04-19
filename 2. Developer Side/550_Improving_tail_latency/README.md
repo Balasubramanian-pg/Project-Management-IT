@@ -1,3 +1,3 @@
-# 550_Improving_tail_latency
+# 550 Improving tail latency
 
-Initial version.
+Updated version.
