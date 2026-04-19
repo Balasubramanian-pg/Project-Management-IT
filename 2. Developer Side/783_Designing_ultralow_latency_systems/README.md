@@ -1,3 +1,3 @@
-# 783_Designing_ultralow_latency_systems
+# 783 Designing ultra-low latency systems
 
-Initial version.
+Updated version.
