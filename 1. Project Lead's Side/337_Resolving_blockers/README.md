@@ -1,3 +1,3 @@
-# 337_Resolving_blockers
+# 337 Resolving blockers
 
-Initial version.
+Updated version.
