@@ -1,3 +1,3 @@
-# 587_Negotiating_pricing
+# 587 Negotiating pricing
 
-Initial version.
+Updated version.
