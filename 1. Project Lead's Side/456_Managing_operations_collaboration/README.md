@@ -1,3 +1,3 @@
-# 456_Managing_operations_collaboration
+# 456 Managing operations collaboration
 
-Initial version.
+Updated version.
