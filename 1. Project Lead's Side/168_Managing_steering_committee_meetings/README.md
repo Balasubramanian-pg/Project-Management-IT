@@ -1,3 +1,3 @@
-# 168_Managing_steering_committee_meetings
+# 168 Managing steering committee meetings
 
-Initial version.
+Updated version.
