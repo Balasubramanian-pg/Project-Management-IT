@@ -1,3 +1,3 @@
-# 630_Managing_acceptancebased_billing
+# 630 Managing acceptance-based billing
 
-Initial version.
+Updated version.
