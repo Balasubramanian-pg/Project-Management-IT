@@ -1,3 +1,3 @@
-# 396_Managing_change_backlog
+# 396 Managing change backlog
 
-Initial version.
+Updated version.
