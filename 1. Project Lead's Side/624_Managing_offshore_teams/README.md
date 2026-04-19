@@ -1,3 +1,3 @@
-# 624_Managing_offshore_teams
+# 624 Managing offshore teams
 
-Initial version.
+Updated version.
