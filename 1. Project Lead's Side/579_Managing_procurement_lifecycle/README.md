@@ -1,3 +1,3 @@
-# 579_Managing_procurement_lifecycle
+# 579 Managing procurement lifecycle
 
-Initial version.
+Updated version.
