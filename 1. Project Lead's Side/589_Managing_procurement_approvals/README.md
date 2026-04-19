@@ -1,3 +1,3 @@
-# 589_Managing_procurement_approvals
+# 589 Managing procurement approvals
 
-Initial version.
+Updated version.
