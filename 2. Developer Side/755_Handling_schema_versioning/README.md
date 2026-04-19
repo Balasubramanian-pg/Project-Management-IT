@@ -1,3 +1,3 @@
-# 755_Handling_schema_versioning
+# 755 Handling schema versioning
 
-Initial version.
+Updated version.
