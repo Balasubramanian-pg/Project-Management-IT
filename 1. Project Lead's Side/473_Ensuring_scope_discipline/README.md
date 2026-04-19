@@ -1,3 +1,3 @@
-# 473_Ensuring_scope_discipline
+# 473 Ensuring scope discipline
 
-Initial version.
+Updated version.
