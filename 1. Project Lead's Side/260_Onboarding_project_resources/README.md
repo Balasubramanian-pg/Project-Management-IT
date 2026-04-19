@@ -1,3 +1,3 @@
-# 260_Onboarding_project_resources
+# 260 Onboarding project resources
 
-Initial version.
+Updated version.
