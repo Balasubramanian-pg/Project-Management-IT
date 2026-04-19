@@ -1,3 +1,3 @@
-# 647_Defining_risk_KPIs
+# 647 Defining risk KPIs
 
-Initial version.
+Updated version.
