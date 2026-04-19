@@ -1,3 +1,3 @@
-# 328_Learning_new_technologies
+# 328 Learning new technologies
 
-Initial version.
+Updated version.
