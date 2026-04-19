@@ -1,3 +1,3 @@
-# 551_Managing_customer_notifications
+# 551 Managing customer notifications
 
-Initial version.
+Updated version.
