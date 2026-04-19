@@ -1,3 +1,3 @@
-# 460_Securing_backend_services
+# 460 Securing backend services
 
-Initial version.
+Updated version.
