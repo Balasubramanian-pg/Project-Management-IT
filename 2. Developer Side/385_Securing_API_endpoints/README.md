@@ -1,3 +1,3 @@
-# 385_Securing_API_endpoints
+# 385 Securing API endpoints
 
-Initial version.
+Updated version.
