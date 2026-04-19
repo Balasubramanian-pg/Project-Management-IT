@@ -1,3 +1,3 @@
-# 366_Writing_maintainable_solutions
+# 366 Writing maintainable solutions
 
-Initial version.
+Updated version.
