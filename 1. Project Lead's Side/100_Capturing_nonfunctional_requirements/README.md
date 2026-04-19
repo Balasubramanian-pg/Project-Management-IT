@@ -1,3 +1,3 @@
-# 100_Capturing_nonfunctional_requirements
+# 100 Capturing nonfunctional requirements
 
-Initial version.
+Updated version.
