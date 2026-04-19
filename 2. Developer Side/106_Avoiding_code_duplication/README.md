@@ -1,3 +1,3 @@
-# 106_Avoiding_code_duplication
+# 106 Avoiding code duplication
 
-Initial version.
+Updated version.
