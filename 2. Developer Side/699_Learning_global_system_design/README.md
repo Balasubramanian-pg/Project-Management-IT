@@ -1,3 +1,3 @@
-# 699_Learning_global_system_design
+# 699 Learning global system design
 
-Initial version.
+Updated version.
