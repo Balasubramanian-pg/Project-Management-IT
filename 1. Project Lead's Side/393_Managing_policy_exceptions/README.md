@@ -1,3 +1,3 @@
-# 393_Managing_policy_exceptions
+# 393 Managing policy exceptions
 
-Initial version.
+Updated version.
