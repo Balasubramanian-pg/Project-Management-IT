@@ -1,3 +1,3 @@
-# 140_Writing_commit_messages
+# 140 Writing commit messages
 
-Initial version.
+Updated version.
