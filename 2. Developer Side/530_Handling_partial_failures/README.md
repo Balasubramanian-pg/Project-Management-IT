@@ -1,3 +1,3 @@
-# 530_Handling_partial_failures
+# 530 Handling partial failures
 
-Initial version.
+Updated version.
