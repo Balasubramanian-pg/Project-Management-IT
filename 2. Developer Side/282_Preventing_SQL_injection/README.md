@@ -1,3 +1,3 @@
-# 282_Preventing_SQL_injection
+# 282 Preventing SQL injection
 
-Initial version.
+Updated version.
