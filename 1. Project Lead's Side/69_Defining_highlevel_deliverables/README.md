@@ -1,3 +1,3 @@
-# 69_Defining_highlevel_deliverables
+# 69 Defining high-level deliverables
 
-Initial version.
+Updated version.
