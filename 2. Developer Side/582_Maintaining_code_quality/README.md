@@ -1,3 +1,3 @@
-# 582_Maintaining_code_quality
+# 582 Maintaining code quality
 
-Initial version.
+Updated version.
