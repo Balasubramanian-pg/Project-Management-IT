@@ -1,3 +1,3 @@
-# 545_Optimizing_garbage_collection
+# 545 Optimizing garbage collection
 
-Initial version.
+Updated version.
