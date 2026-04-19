@@ -1,3 +1,3 @@
-# 527_Managing_golive_command_center
+# 527 Managing go-live command center
 
-Initial version.
+Updated version.
