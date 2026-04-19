@@ -1,3 +1,3 @@
-# 177_Managing_large_repositories
+# 177 Managing large repositories
 
-Initial version.
+Updated version.
