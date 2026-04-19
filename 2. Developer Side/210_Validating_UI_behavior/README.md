@@ -1,3 +1,3 @@
-# 210_Validating_UI_behavior
+# 210 Validating UI behavior
 
-Initial version.
+Updated version.
