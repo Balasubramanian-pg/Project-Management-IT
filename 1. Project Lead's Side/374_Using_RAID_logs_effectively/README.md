@@ -1,3 +1,3 @@
-# 374_Using_RAID_logs_effectively
+# 374 Using RAID logs effectively
 
-Initial version.
+Updated version.
