@@ -1,3 +1,3 @@
-# 17_Drafting_the_executive_summary
+# 17 Drafting the executive summary
 
-Initial version.
+Updated version.
