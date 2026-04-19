@@ -1,3 +1,3 @@
-# 453_Managing_configurations
+# 453 Managing configurations
 
-Initial version.
+Updated version.
