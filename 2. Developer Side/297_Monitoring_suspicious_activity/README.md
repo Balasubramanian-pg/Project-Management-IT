@@ -1,3 +1,3 @@
-# 297_Monitoring_suspicious_activity
+# 297 Monitoring suspicious activity
 
-Initial version.
+Updated version.
