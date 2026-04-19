@@ -1,3 +1,3 @@
-# 695_Learning_reliability_engineering
+# 695 Learning reliability engineering
 
-Initial version.
+Updated version.
