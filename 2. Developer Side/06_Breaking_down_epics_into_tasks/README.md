@@ -1,3 +1,3 @@
-# 06_Breaking_down_epics_into_tasks
+# 06 Breaking down epics into tasks
 
-Initial version.
+Updated version.
