@@ -1,3 +1,3 @@
-# 511_Preparing_golive_checklist
+# 511 Preparing go-live checklist
 
-Initial version.
+Updated version.
