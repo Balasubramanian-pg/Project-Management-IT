@@ -1,3 +1,3 @@
-# 233_Managing_stakeholder_onboarding
+# 233 Managing stakeholder onboarding
 
-Initial version.
+Updated version.
