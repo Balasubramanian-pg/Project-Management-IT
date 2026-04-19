@@ -1,3 +1,3 @@
-# 34_Reviewing_legacy_constraints
+# 34 Reviewing legacy constraints
 
-Initial version.
+Updated version.
