@@ -1,3 +1,3 @@
-# 49_Validating_requirement_completeness
+# 49 Validating requirement completeness
 
-Initial version.
+Updated version.
