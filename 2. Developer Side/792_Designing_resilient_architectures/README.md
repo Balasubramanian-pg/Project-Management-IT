@@ -1,3 +1,3 @@
-# 792_Designing_resilient_architectures
+# 792 Designing resilient architectures
 
-Initial version.
+Updated version.
