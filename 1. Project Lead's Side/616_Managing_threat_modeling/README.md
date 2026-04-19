@@ -1,3 +1,3 @@
-# 616_Managing_threat_modeling
+# 616 Managing threat modeling
 
-Initial version.
+Updated version.
