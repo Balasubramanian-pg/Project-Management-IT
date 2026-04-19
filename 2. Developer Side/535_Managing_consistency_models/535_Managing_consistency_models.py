@@ -1,1 +1,1 @@
-print("Running 535_Managing_consistency_models")
+print("Running 535 Managing consistency models")
