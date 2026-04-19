@@ -1,3 +1,3 @@
-# 681_Preparing_for_AIassisted_development
+# 681 Preparing for AI-assisted development
 
-Initial version.
+Updated version.
