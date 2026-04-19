@@ -1,3 +1,3 @@
-# 117_Using_meaningful_variable_names
+# 117 Using meaningful variable names
 
-Initial version.
+Updated version.
