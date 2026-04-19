@@ -1,3 +1,3 @@
-# 272_Scaling_horizontally
+# 272 Scaling horizontally
 
-Initial version.
+Updated version.
