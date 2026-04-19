@@ -1,3 +1,3 @@
-# 606_Financial_systems_engineering
+# 606 Financial systems engineering
 
-Initial version.
+Updated version.
