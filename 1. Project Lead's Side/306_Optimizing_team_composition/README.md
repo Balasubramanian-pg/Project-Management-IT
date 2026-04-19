@@ -1,3 +1,3 @@
-# 306_Optimizing_team_composition
+# 306 Optimizing team composition
 
-Initial version.
+Updated version.
