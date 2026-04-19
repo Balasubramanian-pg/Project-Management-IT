@@ -1,1 +1,1 @@
-print("Running 192_Clarifying_ownership_across_teams")
+print("Running 192 Clarifying ownership across teams")
