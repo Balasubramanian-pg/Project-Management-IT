@@ -1,1 +1,1 @@
-print("Running 96_Defining_acceptance_criteria")
+print("Running 96 Defining acceptance criteria")
