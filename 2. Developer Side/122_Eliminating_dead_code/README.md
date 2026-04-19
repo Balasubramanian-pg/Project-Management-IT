@@ -1,3 +1,3 @@
-# 122_Eliminating_dead_code
+# 122 Eliminating dead code
 
-Initial version.
+Updated version.
