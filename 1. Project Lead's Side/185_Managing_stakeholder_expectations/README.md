@@ -1,3 +1,3 @@
-# 185_Managing_stakeholder_expectations
+# 185 Managing stakeholder expectations
 
-Initial version.
+Updated version.
