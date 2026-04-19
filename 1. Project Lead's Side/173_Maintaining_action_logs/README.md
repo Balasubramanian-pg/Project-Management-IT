@@ -1,3 +1,3 @@
-# 173_Maintaining_action_logs
+# 173 Maintaining action logs
 
-Initial version.
+Updated version.
