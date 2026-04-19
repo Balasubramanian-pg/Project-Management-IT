@@ -1,3 +1,3 @@
-# 485_Sharing_updates
+# 485 Sharing updates
 
-Initial version.
+Updated version.
