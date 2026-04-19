@@ -1,1 +1,1 @@
-print("Running 160_Planning_minimum_viable_release")
+print("Running 160 Planning minimum viable release")
