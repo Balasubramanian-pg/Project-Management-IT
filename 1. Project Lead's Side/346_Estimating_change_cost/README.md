@@ -1,3 +1,3 @@
-# 346_Estimating_change_cost
+# 346 Estimating change cost
 
-Initial version.
+Updated version.
