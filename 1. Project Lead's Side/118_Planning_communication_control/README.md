@@ -1,3 +1,3 @@
-# 118_Planning_communication_control
+# 118 Planning communication control
 
-Initial version.
+Updated version.
