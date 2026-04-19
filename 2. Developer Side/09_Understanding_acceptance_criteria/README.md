@@ -1,3 +1,3 @@
-# 09_Understanding_acceptance_criteria
+# 09 Understanding acceptance criteria
 
-Initial version.
+Updated version.
