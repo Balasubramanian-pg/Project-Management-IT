@@ -1,3 +1,3 @@
-# 355_Working_with_lowlatency_systems
+# 355 Working with low-latency systems
 
-Initial version.
+Updated version.
