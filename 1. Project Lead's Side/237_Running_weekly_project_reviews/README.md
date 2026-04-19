@@ -1,3 +1,3 @@
-# 237_Running_weekly_project_reviews
+# 237 Running weekly project reviews
 
-Initial version.
+Updated version.
