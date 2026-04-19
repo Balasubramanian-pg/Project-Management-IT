@@ -1,1 +1,1 @@
-print("Running 08_Assessing_organizational_readiness")
+print("Running 08 Assessing organizational readiness")
