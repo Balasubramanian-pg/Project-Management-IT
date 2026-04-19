@@ -1,3 +1,3 @@
-# 466_Managing_orchestration
+# 466 Managing orchestration
 
-Initial version.
+Updated version.
