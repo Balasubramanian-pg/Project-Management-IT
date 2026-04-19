@@ -1,3 +1,3 @@
-# 543_Managing_sanity_testing
+# 543 Managing sanity testing
 
-Initial version.
+Updated version.
