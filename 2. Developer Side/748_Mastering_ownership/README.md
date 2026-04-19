@@ -1,3 +1,3 @@
-# 748_Mastering_ownership
+# 748 Mastering ownership
 
-Initial version.
+Updated version.
