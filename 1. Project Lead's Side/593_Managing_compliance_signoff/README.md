@@ -1,3 +1,3 @@
-# 593_Managing_compliance_signoff
+# 593 Managing compliance signoff
 
-Initial version.
+Updated version.
