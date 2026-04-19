@@ -1,1 +1,1 @@
-print("Running 742_Mastering_security_practices")
+print("Running 742 Mastering security practices")
