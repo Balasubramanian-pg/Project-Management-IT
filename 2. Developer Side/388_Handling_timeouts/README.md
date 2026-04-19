@@ -1,3 +1,3 @@
-# 388_Handling_timeouts
+# 388 Handling timeouts
 
-Initial version.
+Updated version.
