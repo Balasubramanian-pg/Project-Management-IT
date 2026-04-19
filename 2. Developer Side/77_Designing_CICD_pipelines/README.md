@@ -1,3 +1,3 @@
-# 77_Designing_CICD_pipelines
+# 77 Designing CI/CD pipelines
 
-Initial version.
+Updated version.
