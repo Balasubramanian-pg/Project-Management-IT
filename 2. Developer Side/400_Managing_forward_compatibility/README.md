@@ -1,3 +1,3 @@
-# 400_Managing_forward_compatibility
+# 400 Managing forward compatibility
 
-Initial version.
+Updated version.
