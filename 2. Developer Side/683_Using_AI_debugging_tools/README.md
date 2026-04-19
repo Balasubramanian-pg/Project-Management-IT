@@ -1,3 +1,3 @@
-# 683_Using_AI_debugging_tools
+# 683 Using AI debugging tools
 
-Initial version.
+Updated version.
