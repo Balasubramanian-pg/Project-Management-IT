@@ -1,3 +1,3 @@
-# 191_Resolving_priority_conflicts
+# 191 Resolving priority conflicts
 
-Initial version.
+Updated version.
