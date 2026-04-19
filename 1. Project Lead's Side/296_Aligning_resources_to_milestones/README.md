@@ -1,3 +1,3 @@
-# 296_Aligning_resources_to_milestones
+# 296 Aligning resources to milestones
 
-Initial version.
+Updated version.
