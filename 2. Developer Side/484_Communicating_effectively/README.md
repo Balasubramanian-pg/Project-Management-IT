@@ -1,3 +1,3 @@
-# 484_Communicating_effectively
+# 484 Communicating effectively
 
-Initial version.
+Updated version.
