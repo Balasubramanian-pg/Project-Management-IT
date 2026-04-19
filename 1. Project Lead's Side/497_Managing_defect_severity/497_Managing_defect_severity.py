@@ -1,1 +1,1 @@
-print("Running 497_Managing_defect_severity")
+print("Running 497 Managing defect severity")
