@@ -1,3 +1,3 @@
-# 05_Asking_clarifying_questions
+# 05 Asking clarifying questions
 
-Initial version.
+Updated version.
