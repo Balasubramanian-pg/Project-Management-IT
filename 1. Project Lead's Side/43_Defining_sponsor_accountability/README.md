@@ -1,3 +1,3 @@
-# 43_Defining_sponsor_accountability
+# 43 Defining sponsor accountability
 
-Initial version.
+Updated version.
