@@ -1,3 +1,3 @@
-# 240_Managing_canary_releases
+# 240 Managing canary releases
 
-Initial version.
+Updated version.
