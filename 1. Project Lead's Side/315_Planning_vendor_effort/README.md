@@ -1,3 +1,3 @@
-# 315_Planning_vendor_effort
+# 315 Planning vendor effort
 
-Initial version.
+Updated version.
