@@ -1,3 +1,3 @@
-# 198_Mocking_external_dependencies
+# 198 Mocking external dependencies
 
-Initial version.
+Updated version.
