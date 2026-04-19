@@ -1,1 +1,1 @@
-print("Running 524_Managing_hypercare_planning")
+print("Running 524 Managing hypercare planning")
