@@ -1,3 +1,3 @@
-# 287_Maintaining_dependency_tracker
+# 287 Maintaining dependency tracker
 
-Initial version.
+Updated version.
