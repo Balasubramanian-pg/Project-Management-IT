@@ -1,3 +1,3 @@
-# 785_Designing_geodistributed_systems
+# 785 Designing geo-distributed systems
 
-Initial version.
+Updated version.
