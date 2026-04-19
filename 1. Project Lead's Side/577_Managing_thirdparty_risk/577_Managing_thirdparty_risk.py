@@ -1,1 +1,1 @@
-print("Running 577_Managing_thirdparty_risk")
+print("Running 577 Managing third-party risk")
