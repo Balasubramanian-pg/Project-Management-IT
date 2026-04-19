@@ -1,3 +1,3 @@
-# 444_Managing_exception_paths
+# 444 Managing exception paths
 
-Initial version.
+Updated version.
