@@ -1,3 +1,3 @@
-# 452_Managing_product_owner_collaboration
+# 452 Managing product owner collaboration
 
-Initial version.
+Updated version.
