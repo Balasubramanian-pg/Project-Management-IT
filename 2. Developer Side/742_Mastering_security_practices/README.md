@@ -1,3 +1,3 @@
-# 742_Mastering_security_practices
+# 742 Mastering security practices
 
-Initial version.
+Updated version.
