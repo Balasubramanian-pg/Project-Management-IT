@@ -1,3 +1,3 @@
-# 688_Learning_distributed_systems_deeply
+# 688 Learning distributed systems deeply
 
-Initial version.
+Updated version.
