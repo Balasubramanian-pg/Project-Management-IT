@@ -1,3 +1,3 @@
-# 567_Defining_encryption_needs
+# 567 Defining encryption needs
 
-Initial version.
+Updated version.
