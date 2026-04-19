@@ -1,3 +1,3 @@
-# 299_Conducting_security_reviews
+# 299 Conducting security reviews
 
-Initial version.
+Updated version.
