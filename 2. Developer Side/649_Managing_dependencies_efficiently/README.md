@@ -1,3 +1,3 @@
-# 649_Managing_dependencies_efficiently
+# 649 Managing dependencies efficiently
 
-Initial version.
+Updated version.
