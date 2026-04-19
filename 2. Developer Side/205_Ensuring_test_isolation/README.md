@@ -1,3 +1,3 @@
-# 205_Ensuring_test_isolation
+# 205 Ensuring test isolation
 
-Initial version.
+Updated version.
