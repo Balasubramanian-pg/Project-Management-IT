@@ -1,3 +1,3 @@
-# 401_Designing_relational_databases
+# 401 Designing relational databases
 
-Initial version.
+Updated version.
