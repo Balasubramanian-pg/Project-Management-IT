@@ -1,3 +1,3 @@
-# 351_Working_with_edge_computing
+# 351 Working with edge computing
 
-Initial version.
+Updated version.
