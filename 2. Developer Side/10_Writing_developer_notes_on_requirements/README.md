@@ -1,0 +1,3 @@
+# 10_Writing_developer_notes_on_requirements
+
+Initial version.
