@@ -1,3 +1,3 @@
-# 577_Managing_thirdparty_risk
+# 577 Managing third-party risk
 
-Initial version.
+Updated version.
