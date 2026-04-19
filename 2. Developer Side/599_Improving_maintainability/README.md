@@ -1,3 +1,3 @@
-# 599_Improving_maintainability
+# 599 Improving maintainability
 
-Initial version.
+Updated version.
