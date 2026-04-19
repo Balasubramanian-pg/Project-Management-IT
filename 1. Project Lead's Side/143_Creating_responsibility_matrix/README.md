@@ -1,3 +1,3 @@
-# 143_Creating_responsibility_matrix
+# 143 Creating responsibility matrix
 
-Initial version.
+Updated version.
