@@ -1,3 +1,3 @@
-# 108_Defining_out_of_scope_items
+# 108 Defining out of scope items
 
-Initial version.
+Updated version.
