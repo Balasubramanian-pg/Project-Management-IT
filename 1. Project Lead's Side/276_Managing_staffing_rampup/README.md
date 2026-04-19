@@ -1,3 +1,3 @@
-# 276_Managing_staffing_rampup
+# 276 Managing staffing ramp-up
 
-Initial version.
+Updated version.
