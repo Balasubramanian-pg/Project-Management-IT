@@ -1,3 +1,3 @@
-# 694_Learning_developer_experience_design
+# 694 Learning developer experience design
 
-Initial version.
+Updated version.
