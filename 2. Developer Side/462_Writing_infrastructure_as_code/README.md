@@ -1,3 +1,3 @@
-# 462_Writing_infrastructure_as_code
+# 462 Writing infrastructure as code
 
-Initial version.
+Updated version.
