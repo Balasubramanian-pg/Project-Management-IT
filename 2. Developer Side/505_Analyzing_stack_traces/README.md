@@ -1,3 +1,3 @@
-# 505_Analyzing_stack_traces
+# 505 Analyzing stack traces
 
-Initial version.
+Updated version.
