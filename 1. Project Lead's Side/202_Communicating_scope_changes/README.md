@@ -1,3 +1,3 @@
-# 202_Communicating_scope_changes
+# 202 Communicating scope changes
 
-Initial version.
+Updated version.
