@@ -1,3 +1,3 @@
-# 468_Managing_scaling
+# 468 Managing scaling
 
-Initial version.
+Updated version.
