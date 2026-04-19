@@ -1,3 +1,3 @@
-# 42_Identifying_logging_requirements
+# 42 Identifying logging requirements
 
-Initial version.
+Updated version.
