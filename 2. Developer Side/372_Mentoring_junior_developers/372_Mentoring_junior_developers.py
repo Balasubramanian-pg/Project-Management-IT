@@ -1,1 +1,1 @@
-print("Running 372_Mentoring_junior_developers")
+print("Running 372 Mentoring junior developers")
