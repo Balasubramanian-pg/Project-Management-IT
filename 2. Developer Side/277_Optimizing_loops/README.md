@@ -1,3 +1,3 @@
-# 277_Optimizing_loops
+# 277 Optimizing loops
 
-Initial version.
+Updated version.
