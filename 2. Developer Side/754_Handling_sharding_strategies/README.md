@@ -1,3 +1,3 @@
-# 754_Handling_sharding_strategies
+# 754 Handling sharding strategies
 
-Initial version.
+Updated version.
