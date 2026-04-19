@@ -1,1 +1,1 @@
-print("Running 70_Clarifying_what_success_looks_like")
+print("Running 70 Clarifying what success looks like")
