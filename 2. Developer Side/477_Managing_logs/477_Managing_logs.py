@@ -1,1 +1,1 @@
-print("Running 477_Managing_logs")
+print("Running 477 Managing logs")
