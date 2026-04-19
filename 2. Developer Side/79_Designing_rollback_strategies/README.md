@@ -1,3 +1,3 @@
-# 79_Designing_rollback_strategies
+# 79 Designing rollback strategies
 
-Initial version.
+Updated version.
