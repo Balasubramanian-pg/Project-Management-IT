@@ -1,3 +1,3 @@
-# 24_Preparing_a_concept_note
+# 24 Preparing a concept note
 
-Initial version.
+Updated version.
