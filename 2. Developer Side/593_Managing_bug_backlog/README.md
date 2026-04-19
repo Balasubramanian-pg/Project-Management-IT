@@ -1,3 +1,3 @@
-# 593_Managing_bug_backlog
+# 593 Managing bug backlog
 
-Initial version.
+Updated version.
