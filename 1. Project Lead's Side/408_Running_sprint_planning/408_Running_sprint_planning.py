@@ -1,1 +1,1 @@
-print("Running 408_Running_sprint_planning")
+print("Running 408 Running sprint planning")
