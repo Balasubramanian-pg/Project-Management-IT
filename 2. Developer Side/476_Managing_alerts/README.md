@@ -1,3 +1,3 @@
-# 476_Managing_alerts
+# 476 Managing alerts
 
-Initial version.
+Updated version.
