@@ -1,3 +1,3 @@
-# 257_Using_caching_effectively
+# 257 Using caching effectively
 
-Initial version.
+Updated version.
