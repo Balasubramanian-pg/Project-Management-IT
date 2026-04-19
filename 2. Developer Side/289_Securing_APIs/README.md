@@ -1,3 +1,3 @@
-# 289_Securing_APIs
+# 289 Securing APIs
 
-Initial version.
+Updated version.
