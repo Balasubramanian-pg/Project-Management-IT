@@ -1,3 +1,3 @@
-# 313_Planning_business_owner_effort
+# 313 Planning business owner effort
 
-Initial version.
+Updated version.
