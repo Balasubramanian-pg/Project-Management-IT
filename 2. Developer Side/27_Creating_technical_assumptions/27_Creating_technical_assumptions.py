@@ -1,1 +1,1 @@
-print("Running 27_Creating_technical_assumptions")
+print("Running 27 Creating technical assumptions")
