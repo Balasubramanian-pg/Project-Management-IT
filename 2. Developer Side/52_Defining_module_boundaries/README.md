@@ -1,3 +1,3 @@
-# 52_Defining_module_boundaries
+# 52 Defining module boundaries
 
-Initial version.
+Updated version.
