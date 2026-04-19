@@ -1,3 +1,3 @@
-# 367_Monitoring_escaped_defects
+# 367 Monitoring escaped defects
 
-Initial version.
+Updated version.
