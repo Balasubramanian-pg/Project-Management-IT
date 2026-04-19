@@ -1,3 +1,3 @@
-# 717_Reducing_production_bugs
+# 717 Reducing production bugs
 
-Initial version.
+Updated version.
