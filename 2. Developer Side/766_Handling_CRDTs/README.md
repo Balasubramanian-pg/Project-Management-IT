@@ -1,3 +1,3 @@
-# 766_Handling_CRDTs
+# 766 Handling CRDTs
 
-Initial version.
+Updated version.
