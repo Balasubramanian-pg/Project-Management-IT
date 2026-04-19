@@ -1,3 +1,3 @@
-# 211_Managing_sponsor_expectations
+# 211 Managing sponsor expectations
 
-Initial version.
+Updated version.
