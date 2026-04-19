@@ -1,3 +1,3 @@
-# 87_Estimating_activity_durations
+# 87 Estimating activity durations
 
-Initial version.
+Updated version.
