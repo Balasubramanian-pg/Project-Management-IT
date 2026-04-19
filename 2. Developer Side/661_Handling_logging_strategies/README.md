@@ -1,3 +1,3 @@
-# 661_Handling_logging_strategies
+# 661 Handling logging strategies
 
-Initial version.
+Updated version.
