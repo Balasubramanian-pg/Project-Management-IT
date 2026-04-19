@@ -1,3 +1,3 @@
-# 406_Synchronizing_team_activities
+# 406 Synchronizing team activities
 
-Initial version.
+Updated version.
