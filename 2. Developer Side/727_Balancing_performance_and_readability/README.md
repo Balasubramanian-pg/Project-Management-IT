@@ -1,3 +1,3 @@
-# 727_Balancing_performance_and_readability
+# 727 Balancing performance and readability
 
-Initial version.
+Updated version.
