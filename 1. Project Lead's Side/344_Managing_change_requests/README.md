@@ -1,3 +1,3 @@
-# 344_Managing_change_requests
+# 344 Managing change requests
 
-Initial version.
+Updated version.
