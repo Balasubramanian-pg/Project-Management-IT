@@ -1,3 +1,3 @@
-# 480_Managing_deployments
+# 480 Managing deployments
 
-Initial version.
+Updated version.
