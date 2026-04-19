@@ -1,3 +1,3 @@
-# 213_Managing_operations_expectations
+# 213 Managing operations expectations
 
-Initial version.
+Updated version.
