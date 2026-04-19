@@ -1,3 +1,3 @@
-# 72_Designing_logging_architecture
+# 72 Designing logging architecture
 
-Initial version.
+Updated version.
