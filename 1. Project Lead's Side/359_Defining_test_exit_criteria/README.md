@@ -1,3 +1,3 @@
-# 359_Defining_test_exit_criteria
+# 359 Defining test exit criteria
 
-Initial version.
+Updated version.
