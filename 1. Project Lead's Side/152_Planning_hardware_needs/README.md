@@ -1,3 +1,3 @@
-# 152_Planning_hardware_needs
+# 152 Planning hardware needs
 
-Initial version.
+Updated version.
