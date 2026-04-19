@@ -1,3 +1,3 @@
-# 779_Handling_cost_optimization_tradeoffs
+# 779 Handling cost optimization tradeoffs
 
-Initial version.
+Updated version.
