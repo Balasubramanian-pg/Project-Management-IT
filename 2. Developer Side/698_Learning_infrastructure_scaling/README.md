@@ -1,3 +1,3 @@
-# 698_Learning_infrastructure_scaling
+# 698 Learning infrastructure scaling
 
-Initial version.
+Updated version.
