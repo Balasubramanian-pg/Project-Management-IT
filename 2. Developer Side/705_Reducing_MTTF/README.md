@@ -1,3 +1,3 @@
-# 705_Reducing_MTTF
+# 705 Reducing MTTF
 
-Initial version.
+Updated version.
