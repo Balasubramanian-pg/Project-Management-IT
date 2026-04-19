@@ -1,3 +1,3 @@
-# 226_Preparing_leadership_presentations
+# 226 Preparing leadership presentations
 
-Initial version.
+Updated version.
