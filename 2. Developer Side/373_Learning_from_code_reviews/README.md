@@ -1,3 +1,3 @@
-# 373_Learning_from_code_reviews
+# 373 Learning from code reviews
 
-Initial version.
+Updated version.
