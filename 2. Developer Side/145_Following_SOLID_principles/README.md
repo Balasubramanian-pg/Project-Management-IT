@@ -1,3 +1,3 @@
-# 145_Following_SOLID_principles
+# 145 Following SOLID principles
 
-Initial version.
+Updated version.
