@@ -1,3 +1,3 @@
-# 27_Creating_technical_assumptions
+# 27 Creating technical assumptions
 
-Initial version.
+Updated version.
