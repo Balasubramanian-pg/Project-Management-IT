@@ -1,3 +1,3 @@
-# 447_Managing_sessions
+# 447 Managing sessions
 
-Initial version.
+Updated version.
