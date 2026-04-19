@@ -1,3 +1,3 @@
-# 675_Handling_concurrency
+# 675 Handling concurrency
 
-Initial version.
+Updated version.
