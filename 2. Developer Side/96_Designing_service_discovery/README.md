@@ -1,3 +1,3 @@
-# 96_Designing_service_discovery
+# 96 Designing service discovery
 
-Initial version.
+Updated version.
