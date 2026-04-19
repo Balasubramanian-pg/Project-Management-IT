@@ -1,3 +1,3 @@
-# 02_Identifying_business_problems
+# 02 Identifying business problems
 
-Initial version.
+Updated version.
