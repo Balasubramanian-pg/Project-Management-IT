@@ -1,1 +1,1 @@
-print("Running 70_Designing_authorization_rules")
+print("Running 70 Designing authorization rules")
