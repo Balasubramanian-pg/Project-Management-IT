@@ -1,3 +1,3 @@
-# 233_Deploying_to_production
+# 233 Deploying to production
 
-Initial version.
+Updated version.
