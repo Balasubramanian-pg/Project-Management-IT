@@ -1,3 +1,3 @@
-# 382_Managing_exception_handling
+# 382 Managing exception handling
 
-Initial version.
+Updated version.
