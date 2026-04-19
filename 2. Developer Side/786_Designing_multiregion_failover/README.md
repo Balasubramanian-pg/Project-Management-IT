@@ -1,3 +1,3 @@
-# 786_Designing_multiregion_failover
+# 786 Designing multi-region failover
 
-Initial version.
+Updated version.
