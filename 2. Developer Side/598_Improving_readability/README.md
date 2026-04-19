@@ -1,3 +1,3 @@
-# 598_Improving_readability
+# 598 Improving readability
 
-Initial version.
+Updated version.
