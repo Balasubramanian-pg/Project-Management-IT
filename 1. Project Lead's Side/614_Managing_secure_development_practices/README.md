@@ -1,3 +1,3 @@
-# 614_Managing_secure_development_practices
+# 614 Managing secure development practices
 
-Initial version.
+Updated version.
