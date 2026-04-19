@@ -1,3 +1,3 @@
-# 84_Designing_schema_evolution
+# 84 Designing schema evolution
 
-Initial version.
+Updated version.
