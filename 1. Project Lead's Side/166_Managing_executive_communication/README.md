@@ -1,3 +1,3 @@
-# 166_Managing_executive_communication
+# 166 Managing executive communication
 
-Initial version.
+Updated version.
