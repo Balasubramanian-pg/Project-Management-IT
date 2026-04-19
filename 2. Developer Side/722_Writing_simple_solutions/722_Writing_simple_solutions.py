@@ -1,1 +1,1 @@
-print("Running 722_Writing_simple_solutions")
+print("Running 722 Writing simple solutions")
