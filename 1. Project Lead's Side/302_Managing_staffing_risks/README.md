@@ -1,3 +1,3 @@
-# 302_Managing_staffing_risks
+# 302 Managing staffing risks
 
-Initial version.
+Updated version.
