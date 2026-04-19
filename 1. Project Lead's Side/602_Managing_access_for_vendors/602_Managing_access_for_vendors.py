@@ -1,1 +1,1 @@
-print("Running 602_Managing_access_for_vendors")
+print("Running 602 Managing access for vendors")
