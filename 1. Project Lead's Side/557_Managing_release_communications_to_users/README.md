@@ -1,3 +1,3 @@
-# 557_Managing_release_communications_to_users
+# 557 Managing release communications to users
 
-Initial version.
+Updated version.
