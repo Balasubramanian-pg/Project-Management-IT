@@ -1,3 +1,3 @@
-# 156_Rebasing_branches
+# 156 Rebasing branches
 
-Initial version.
+Updated version.
