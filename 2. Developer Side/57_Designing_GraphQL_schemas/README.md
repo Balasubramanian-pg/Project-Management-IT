@@ -1,3 +1,3 @@
-# 57_Designing_GraphQL_schemas
+# 57 Designing GraphQL schemas
 
-Initial version.
+Updated version.
