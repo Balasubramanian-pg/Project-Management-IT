@@ -1,3 +1,3 @@
-# 139_Managing_feature_branches
+# 139 Managing feature branches
 
-Initial version.
+Updated version.
