@@ -1,3 +1,3 @@
-# 583_Comparing_vendor_capabilities
+# 583 Comparing vendor capabilities
 
-Initial version.
+Updated version.
