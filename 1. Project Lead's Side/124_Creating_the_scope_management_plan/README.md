@@ -1,3 +1,3 @@
-# 124_Creating_the_scope_management_plan
+# 124 Creating the scope management plan
 
-Initial version.
+Updated version.
