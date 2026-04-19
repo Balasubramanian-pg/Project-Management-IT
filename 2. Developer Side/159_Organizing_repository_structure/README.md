@@ -1,3 +1,3 @@
-# 159_Organizing_repository_structure
+# 159 Organizing repository structure
 
-Initial version.
+Updated version.
