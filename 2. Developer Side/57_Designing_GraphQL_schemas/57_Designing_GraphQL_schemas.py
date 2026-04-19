@@ -1,1 +1,1 @@
-print("Running 57_Designing_GraphQL_schemas")
+print("Running 57 Designing GraphQL schemas")
