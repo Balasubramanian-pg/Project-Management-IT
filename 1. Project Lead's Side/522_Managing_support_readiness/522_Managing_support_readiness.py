@@ -1,1 +1,1 @@
-print("Running 522_Managing_support_readiness")
+print("Running 522 Managing support readiness")
