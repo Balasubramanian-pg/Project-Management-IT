@@ -1,3 +1,3 @@
-# 549_Reducing_latency_spikes
+# 549 Reducing latency spikes
 
-Initial version.
+Updated version.
