@@ -1,3 +1,3 @@
-# 267_Compressing_responses
+# 267 Compressing responses
 
-Initial version.
+Updated version.
