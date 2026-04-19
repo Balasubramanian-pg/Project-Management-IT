@@ -1,3 +1,3 @@
-# 179_Defining_governance_cadence
+# 179 Defining governance cadence
 
-Initial version.
+Updated version.
