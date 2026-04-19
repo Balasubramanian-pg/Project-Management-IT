@@ -1,3 +1,3 @@
-# 453_Managing_business_analyst_collaboration
+# 453 Managing business analyst collaboration
 
-Initial version.
+Updated version.
