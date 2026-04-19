@@ -1,3 +1,3 @@
-# 595_Managing_vendor_offboarding
+# 595 Managing vendor offboarding
 
-Initial version.
+Updated version.
