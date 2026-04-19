@@ -1,3 +1,3 @@
-# 164_Building_stakeholder_personas
+# 164 Building stakeholder personas
 
-Initial version.
+Updated version.
