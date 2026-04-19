@@ -1,3 +1,3 @@
-# 770_Handling_region_outages
+# 770 Handling region outages
 
-Initial version.
+Updated version.
