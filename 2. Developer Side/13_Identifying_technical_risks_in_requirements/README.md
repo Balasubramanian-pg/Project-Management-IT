@@ -1,3 +1,3 @@
-# 13_Identifying_technical_risks_in_requirements
+# 13 Identifying technical risks in requirements
 
-Initial version.
+Updated version.
