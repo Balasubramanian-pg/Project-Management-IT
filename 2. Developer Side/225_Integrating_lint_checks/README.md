@@ -1,3 +1,3 @@
-# 225_Integrating_lint_checks
+# 225 Integrating lint checks
 
-Initial version.
+Updated version.
