@@ -1,1 +1,1 @@
-print("Running 77_Designing_CICD_pipelines")
+print("Running 77 Designing CI/CD pipelines")
