@@ -1,3 +1,3 @@
-# 41_Identifying_retry_logic_requirements
+# 41 Identifying retry logic requirements
 
-Initial version.
+Updated version.
