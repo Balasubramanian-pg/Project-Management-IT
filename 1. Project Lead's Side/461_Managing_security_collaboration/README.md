@@ -1,3 +1,3 @@
-# 461_Managing_security_collaboration
+# 461 Managing security collaboration
 
-Initial version.
+Updated version.
