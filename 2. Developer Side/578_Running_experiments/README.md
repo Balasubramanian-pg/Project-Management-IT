@@ -1,3 +1,3 @@
-# 578_Running_experiments
+# 578 Running experiments
 
-Initial version.
+Updated version.
