@@ -1,1 +1,1 @@
-print("Running 698_Learning_infrastructure_scaling")
+print("Running 698 Learning infrastructure scaling")
