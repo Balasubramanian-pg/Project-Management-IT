@@ -1,3 +1,3 @@
-# 169_Managing_release_branches
+# 169 Managing release branches
 
-Initial version.
+Updated version.
