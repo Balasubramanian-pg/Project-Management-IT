@@ -1,3 +1,3 @@
-# 540_Managing_outage_coordination
+# 540 Managing outage coordination
 
-Initial version.
+Updated version.
