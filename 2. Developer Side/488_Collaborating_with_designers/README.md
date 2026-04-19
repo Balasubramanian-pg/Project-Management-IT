@@ -1,3 +1,3 @@
-# 488_Collaborating_with_designers
+# 488 Collaborating with designers
 
-Initial version.
+Updated version.
