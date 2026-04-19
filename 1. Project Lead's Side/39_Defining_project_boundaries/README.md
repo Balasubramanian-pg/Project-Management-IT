@@ -1,3 +1,3 @@
-# 39_Defining_project_boundaries
+# 39 Defining project boundaries
 
-Initial version.
+Updated version.
