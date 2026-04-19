@@ -1,3 +1,3 @@
-# 66_Evaluating_build_versus_configure_options
+# 66 Evaluating build versus configure options
 
-Initial version.
+Updated version.
