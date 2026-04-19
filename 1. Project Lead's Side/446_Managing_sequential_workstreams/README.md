@@ -1,3 +1,3 @@
-# 446_Managing_sequential_workstreams
+# 446 Managing sequential workstreams
 
-Initial version.
+Updated version.
