@@ -1,3 +1,3 @@
-# 726_Thinking_in_tradeoffs
+# 726 Thinking in tradeoffs
 
-Initial version.
+Updated version.
