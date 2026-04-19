@@ -1,1 +1,1 @@
-print("Running 693_Learning_platform_engineering")
+print("Running 693 Learning platform engineering")
