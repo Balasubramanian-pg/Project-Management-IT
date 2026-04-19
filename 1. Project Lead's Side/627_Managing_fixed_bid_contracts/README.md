@@ -1,3 +1,3 @@
-# 627_Managing_fixed_bid_contracts
+# 627 Managing fixed bid contracts
 
-Initial version.
+Updated version.
