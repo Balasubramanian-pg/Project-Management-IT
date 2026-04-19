@@ -1,3 +1,3 @@
-# 08_Identifying_edge_cases_early
+# 08 Identifying edge cases early
 
-Initial version.
+Updated version.
