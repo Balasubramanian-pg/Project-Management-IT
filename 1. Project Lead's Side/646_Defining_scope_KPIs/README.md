@@ -1,3 +1,3 @@
-# 646_Defining_scope_KPIs
+# 646 Defining scope KPIs
 
-Initial version.
+Updated version.
