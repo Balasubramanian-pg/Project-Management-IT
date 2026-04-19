@@ -1,3 +1,3 @@
-# 245_Managing_release_versions
+# 245 Managing release versions
 
-Initial version.
+Updated version.
