@@ -1,3 +1,3 @@
-# 623_Leading_design_discussions
+# 623 Leading design discussions
 
-Initial version.
+Updated version.
