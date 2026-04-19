@@ -1,3 +1,3 @@
-# 363_Prioritizing_tasks_effectively
+# 363 Prioritizing tasks effectively
 
-Initial version.
+Updated version.
