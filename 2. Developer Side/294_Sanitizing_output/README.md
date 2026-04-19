@@ -1,3 +1,3 @@
-# 294_Sanitizing_output
+# 294 Sanitizing output
 
-Initial version.
+Updated version.
