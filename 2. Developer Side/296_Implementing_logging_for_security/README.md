@@ -1,3 +1,3 @@
-# 296_Implementing_logging_for_security
+# 296 Implementing logging for security
 
-Initial version.
+Updated version.
