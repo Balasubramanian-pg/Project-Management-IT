@@ -1,3 +1,3 @@
-# 605_Highfrequency_systems
+# 605 High-frequency systems
 
-Initial version.
+Updated version.
