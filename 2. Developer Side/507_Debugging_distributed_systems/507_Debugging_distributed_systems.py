@@ -1,1 +1,1 @@
-print("Running 507_Debugging_distributed_systems")
+print("Running 507 Debugging distributed systems")
