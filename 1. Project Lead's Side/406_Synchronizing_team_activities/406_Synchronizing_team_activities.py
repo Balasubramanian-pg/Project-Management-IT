@@ -1,1 +1,1 @@
-print("Running 406_Synchronizing_team_activities")
+print("Running 406 Synchronizing team activities")
