@@ -1,3 +1,3 @@
-# 673_Handling_timeouts
+# 673 Handling timeouts
 
-Initial version.
+Updated version.
