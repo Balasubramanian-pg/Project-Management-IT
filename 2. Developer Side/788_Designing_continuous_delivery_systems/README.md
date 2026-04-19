@@ -1,3 +1,3 @@
-# 788_Designing_continuous_delivery_systems
+# 788 Designing continuous delivery systems
 
-Initial version.
+Updated version.
