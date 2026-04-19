@@ -1,3 +1,3 @@
-# 744_Mastering_reliability_patterns
+# 744 Mastering reliability patterns
 
-Initial version.
+Updated version.
