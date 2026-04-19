@@ -1,3 +1,3 @@
-# 495_Supporting_teammates
+# 495 Supporting teammates
 
-Initial version.
+Updated version.
