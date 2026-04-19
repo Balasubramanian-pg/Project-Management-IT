@@ -1,3 +1,3 @@
-# 203_Communicating_schedule_changes
+# 203 Communicating schedule changes
 
-Initial version.
+Updated version.
