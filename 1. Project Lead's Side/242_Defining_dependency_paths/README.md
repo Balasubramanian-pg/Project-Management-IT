@@ -1,3 +1,3 @@
-# 242_Defining_dependency_paths
+# 242 Defining dependency paths
 
-Initial version.
+Updated version.
