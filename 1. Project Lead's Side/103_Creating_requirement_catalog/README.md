@@ -1,3 +1,3 @@
-# 103_Creating_requirement_catalog
+# 103 Creating requirement catalog
 
-Initial version.
+Updated version.
