@@ -1,3 +1,3 @@
-# 155_Squashing_commits
+# 155 Squashing commits
 
-Initial version.
+Updated version.
