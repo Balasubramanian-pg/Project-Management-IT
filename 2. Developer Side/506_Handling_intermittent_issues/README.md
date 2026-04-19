@@ -1,3 +1,3 @@
-# 506_Handling_intermittent_issues
+# 506 Handling intermittent issues
 
-Initial version.
+Updated version.
