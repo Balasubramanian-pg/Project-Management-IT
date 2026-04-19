@@ -1,1 +1,1 @@
-print("Running 756_Handling_backward_migrations")
+print("Running 756 Handling backward migrations")
