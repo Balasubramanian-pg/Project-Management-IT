@@ -1,3 +1,3 @@
-# 758_Handling_dual_writes
+# 758 Handling dual writes
 
-Initial version.
+Updated version.
