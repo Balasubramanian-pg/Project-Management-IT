@@ -1,1 +1,1 @@
-print("Running 09_Understanding_acceptance_criteria")
+print("Running 09 Understanding acceptance criteria")
