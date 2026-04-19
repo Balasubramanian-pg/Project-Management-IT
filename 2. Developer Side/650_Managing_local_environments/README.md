@@ -1,3 +1,3 @@
-# 650_Managing_local_environments
+# 650 Managing local environments
 
-Initial version.
+Updated version.
