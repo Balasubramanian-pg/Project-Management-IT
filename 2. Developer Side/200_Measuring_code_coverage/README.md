@@ -1,3 +1,3 @@
-# 200_Measuring_code_coverage
+# 200 Measuring code coverage
 
-Initial version.
+Updated version.
