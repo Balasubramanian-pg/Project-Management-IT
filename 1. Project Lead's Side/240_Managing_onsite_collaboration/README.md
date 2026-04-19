@@ -1,3 +1,3 @@
-# 240_Managing_onsite_collaboration
+# 240 Managing onsite collaboration
 
-Initial version.
+Updated version.
