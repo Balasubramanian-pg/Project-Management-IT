@@ -1,3 +1,3 @@
-# 224_Running_CI_pipelines
+# 224 Running CI pipelines
 
-Initial version.
+Updated version.
