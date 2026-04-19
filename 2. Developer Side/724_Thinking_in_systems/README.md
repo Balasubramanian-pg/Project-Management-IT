@@ -1,3 +1,3 @@
-# 724_Thinking_in_systems
+# 724 Thinking in systems
 
-Initial version.
+Updated version.
