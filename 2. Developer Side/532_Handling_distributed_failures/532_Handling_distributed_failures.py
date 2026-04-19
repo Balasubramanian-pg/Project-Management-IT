@@ -1,1 +1,1 @@
-print("Running 532_Handling_distributed_failures")
+print("Running 532 Handling distributed failures")
