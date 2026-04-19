@@ -1,3 +1,3 @@
-# 62_Designing_message_queues
+# 62 Designing message queues
 
-Initial version.
+Updated version.
