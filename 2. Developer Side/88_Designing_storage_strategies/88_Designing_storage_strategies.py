@@ -1,1 +1,1 @@
-print("Running 88_Designing_storage_strategies")
+print("Running 88 Designing storage strategies")
