@@ -1,1 +1,1 @@
-print("Running 253_Optimizing_database_queries")
+print("Running 253 Optimizing database queries")
