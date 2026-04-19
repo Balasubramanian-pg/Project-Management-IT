@@ -1,1 +1,1 @@
-print("Running 618_Image_processing_systems")
+print("Running 618 Image processing systems")
