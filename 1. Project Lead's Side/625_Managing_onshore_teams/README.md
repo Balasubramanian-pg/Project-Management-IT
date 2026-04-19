@@ -1,3 +1,3 @@
-# 625_Managing_onshore_teams
+# 625 Managing onshore teams
 
-Initial version.
+Updated version.
