@@ -1,3 +1,3 @@
-# 629_Managing_milestone_billing
+# 629 Managing milestone billing
 
-Initial version.
+Updated version.
