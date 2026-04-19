@@ -1,3 +1,3 @@
-# 454_Managing_architect_collaboration
+# 454 Managing architect collaboration
 
-Initial version.
+Updated version.
