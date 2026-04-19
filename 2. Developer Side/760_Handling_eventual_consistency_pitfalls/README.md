@@ -1,3 +1,3 @@
-# 760_Handling_eventual_consistency_pitfalls
+# 760 Handling eventual consistency pitfalls
 
-Initial version.
+Updated version.
