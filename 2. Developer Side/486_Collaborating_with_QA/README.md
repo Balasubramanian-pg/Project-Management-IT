@@ -1,3 +1,3 @@
-# 486_Collaborating_with_QA
+# 486 Collaborating with QA
 
-Initial version.
+Updated version.
