@@ -1,3 +1,3 @@
-# 526_Implementing_failover
+# 526 Implementing failover
 
-Initial version.
+Updated version.
