@@ -1,3 +1,3 @@
-# 609_Managing_control_testing
+# 609 Managing control testing
 
-Initial version.
+Updated version.
