@@ -1,1 +1,1 @@
-print("Running 545_Managing_release_governance")
+print("Running 545 Managing release governance")
