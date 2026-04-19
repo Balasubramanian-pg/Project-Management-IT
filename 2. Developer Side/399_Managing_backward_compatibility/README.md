@@ -1,3 +1,3 @@
-# 399_Managing_backward_compatibility
+# 399 Managing backward compatibility
 
-Initial version.
+Updated version.
