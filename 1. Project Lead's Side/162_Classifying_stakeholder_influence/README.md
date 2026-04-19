@@ -1,3 +1,3 @@
-# 162_Classifying_stakeholder_influence
+# 162 Classifying stakeholder influence
 
-Initial version.
+Updated version.
