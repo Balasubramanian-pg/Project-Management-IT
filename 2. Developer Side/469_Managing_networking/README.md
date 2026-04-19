@@ -1,3 +1,3 @@
-# 469_Managing_networking
+# 469 Managing networking
 
-Initial version.
+Updated version.
