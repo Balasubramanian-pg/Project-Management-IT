@@ -1,3 +1,3 @@
-# 495_Triaging_defects
+# 495 Triaging defects
 
-Initial version.
+Updated version.
