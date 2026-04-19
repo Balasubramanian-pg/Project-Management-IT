@@ -1,3 +1,3 @@
-# 56_Designing_REST_endpoints
+# 56 Designing REST endpoints
 
-Initial version.
+Updated version.
