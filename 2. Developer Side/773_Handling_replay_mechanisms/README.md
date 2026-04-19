@@ -1,3 +1,3 @@
-# 773_Handling_replay_mechanisms
+# 773 Handling replay mechanisms
 
-Initial version.
+Updated version.
