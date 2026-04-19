@@ -1,1 +1,1 @@
-print("Running 155_Squashing_commits")
+print("Running 155 Squashing commits")
