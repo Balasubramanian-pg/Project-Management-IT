@@ -1,3 +1,3 @@
-# 359_Working_with_resilient_systems
+# 359 Working with resilient systems
 
-Initial version.
+Updated version.
