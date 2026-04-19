@@ -1,3 +1,3 @@
-# 02_Translating_requirements_into_technical_tasks
+# 02 Translating requirements into technical tasks
 
-Initial version.
+Updated version.
