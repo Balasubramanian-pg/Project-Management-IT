@@ -1,3 +1,3 @@
-# 408_Managing_data_integrity
+# 408 Managing data integrity
 
-Initial version.
+Updated version.
