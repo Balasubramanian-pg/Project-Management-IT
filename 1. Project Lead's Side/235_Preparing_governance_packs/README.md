@@ -1,3 +1,3 @@
-# 235_Preparing_governance_packs
+# 235 Preparing governance packs
 
-Initial version.
+Updated version.
