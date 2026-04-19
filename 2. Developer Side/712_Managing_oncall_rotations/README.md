@@ -1,3 +1,3 @@
-# 712_Managing_oncall_rotations
+# 712 Managing on-call rotations
 
-Initial version.
+Updated version.
