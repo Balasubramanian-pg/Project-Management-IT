@@ -1,3 +1,3 @@
-# 11_Validating_feasibility_of_requirements
+# 11 Validating feasibility of requirements
 
-Initial version.
+Updated version.
