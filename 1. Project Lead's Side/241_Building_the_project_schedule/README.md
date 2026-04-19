@@ -1,3 +1,3 @@
-# 241_Building_the_project_schedule
+# 241 Building the project schedule
 
-Initial version.
+Updated version.
