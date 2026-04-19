@@ -1,3 +1,3 @@
-# 508_Preparing_deployment_checklist
+# 508 Preparing deployment checklist
 
-Initial version.
+Updated version.
