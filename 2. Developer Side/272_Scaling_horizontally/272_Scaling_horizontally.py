@@ -1,1 +1,1 @@
-print("Running 272_Scaling_horizontally")
+print("Running 272 Scaling horizontally")
