@@ -1,3 +1,3 @@
-# 450_Managing_caching
+# 450 Managing caching
 
-Initial version.
+Updated version.
