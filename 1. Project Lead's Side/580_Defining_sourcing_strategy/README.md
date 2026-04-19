@@ -1,3 +1,3 @@
-# 580_Defining_sourcing_strategy
+# 580 Defining sourcing strategy
 
-Initial version.
+Updated version.
