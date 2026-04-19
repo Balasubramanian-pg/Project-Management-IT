@@ -1,1 +1,1 @@
-print("Running 236_Using_Kubernetes_basics")
+print("Running 236 Using Kubernetes basics")
