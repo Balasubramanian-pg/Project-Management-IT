@@ -1,3 +1,3 @@
-# 256_Improving_throughput
+# 256 Improving throughput
 
-Initial version.
+Updated version.
