@@ -1,3 +1,3 @@
-# 784_Designing_high_throughput_systems
+# 784 Designing high throughput systems
 
-Initial version.
+Updated version.
