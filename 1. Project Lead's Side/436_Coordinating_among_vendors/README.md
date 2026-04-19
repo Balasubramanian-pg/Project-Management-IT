@@ -1,3 +1,3 @@
-# 436_Coordinating_among_vendors
+# 436 Coordinating among vendors
 
-Initial version.
+Updated version.
