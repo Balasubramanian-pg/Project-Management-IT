@@ -1,3 +1,3 @@
-# 408_Running_sprint_planning
+# 408 Running sprint planning
 
-Initial version.
+Updated version.
