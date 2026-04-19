@@ -1,3 +1,3 @@
-# 67_Assessing_risk_tolerance
+# 67 Assessing risk tolerance
 
-Initial version.
+Updated version.
