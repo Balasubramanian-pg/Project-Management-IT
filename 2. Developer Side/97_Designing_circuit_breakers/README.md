@@ -1,3 +1,3 @@
-# 97_Designing_circuit_breakers
+# 97 Designing circuit breakers
 
-Initial version.
+Updated version.
