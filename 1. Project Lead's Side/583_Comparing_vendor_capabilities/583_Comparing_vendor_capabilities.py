@@ -1,1 +1,1 @@
-print("Running 583_Comparing_vendor_capabilities")
+print("Running 583 Comparing vendor capabilities")
