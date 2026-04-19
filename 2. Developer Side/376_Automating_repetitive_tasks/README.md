@@ -1,3 +1,3 @@
-# 376_Automating_repetitive_tasks
+# 376 Automating repetitive tasks
 
-Initial version.
+Updated version.
