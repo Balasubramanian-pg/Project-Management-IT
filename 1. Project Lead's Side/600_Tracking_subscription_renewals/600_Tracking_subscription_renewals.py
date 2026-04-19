@@ -1,1 +1,1 @@
-print("Running 600_Tracking_subscription_renewals")
+print("Running 600 Tracking subscription renewals")
