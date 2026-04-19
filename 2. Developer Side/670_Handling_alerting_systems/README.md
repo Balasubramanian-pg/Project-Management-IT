@@ -1,3 +1,3 @@
-# 670_Handling_alerting_systems
+# 670 Handling alerting systems
 
-Initial version.
+Updated version.
