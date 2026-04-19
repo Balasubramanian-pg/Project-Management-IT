@@ -1,3 +1,3 @@
-# 514_Planning_blue_green_deployment
+# 514 Planning blue green deployment
 
-Initial version.
+Updated version.
