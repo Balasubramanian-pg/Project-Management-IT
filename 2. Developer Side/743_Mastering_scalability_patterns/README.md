@@ -1,3 +1,3 @@
-# 743_Mastering_scalability_patterns
+# 743 Mastering scalability patterns
 
-Initial version.
+Updated version.
