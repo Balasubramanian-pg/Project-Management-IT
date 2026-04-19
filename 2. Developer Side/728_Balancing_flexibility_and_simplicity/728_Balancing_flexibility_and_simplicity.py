@@ -1,1 +1,1 @@
-print("Running 728_Balancing_flexibility_and_simplicity")
+print("Running 728 Balancing flexibility and simplicity")
