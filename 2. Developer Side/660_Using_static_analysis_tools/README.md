@@ -1,3 +1,3 @@
-# 660_Using_static_analysis_tools
+# 660 Using static analysis tools
 
-Initial version.
+Updated version.
