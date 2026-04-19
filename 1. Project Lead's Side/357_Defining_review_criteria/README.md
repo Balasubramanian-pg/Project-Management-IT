@@ -1,3 +1,3 @@
-# 357_Defining_review_criteria
+# 357 Defining review criteria
 
-Initial version.
+Updated version.
