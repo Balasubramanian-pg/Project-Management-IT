@@ -1,1 +1,1 @@
-print("Running 294_Sanitizing_output")
+print("Running 294 Sanitizing output")
