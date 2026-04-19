@@ -1,3 +1,3 @@
-# 292_Managing_purchase_approvals
+# 292 Managing purchase approvals
 
-Initial version.
+Updated version.
