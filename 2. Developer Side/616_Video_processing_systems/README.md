@@ -1,3 +1,3 @@
-# 616_Video_processing_systems
+# 616 Video processing systems
 
-Initial version.
+Updated version.
