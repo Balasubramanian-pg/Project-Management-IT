@@ -1,3 +1,3 @@
-# 178_Managing_monorepos
+# 178 Managing monorepos
 
-Initial version.
+Updated version.
