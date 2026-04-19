@@ -1,3 +1,3 @@
-# 71_Designing_encryption_strategies
+# 71 Designing encryption strategies
 
-Initial version.
+Updated version.
