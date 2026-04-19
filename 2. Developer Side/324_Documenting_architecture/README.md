@@ -1,3 +1,3 @@
-# 324_Documenting_architecture
+# 324 Documenting architecture
 
-Initial version.
+Updated version.
