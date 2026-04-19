@@ -1,3 +1,3 @@
-# 325_Documenting_decisions
+# 325 Documenting decisions
 
-Initial version.
+Updated version.
