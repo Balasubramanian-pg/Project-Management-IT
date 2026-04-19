@@ -1,3 +1,3 @@
-# 193_Improving_test_reliability
+# 193 Improving test reliability
 
-Initial version.
+Updated version.
