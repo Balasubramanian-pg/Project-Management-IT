@@ -1,3 +1,3 @@
-# 119_Planning_resource_control
+# 119 Planning resource control
 
-Initial version.
+Updated version.
