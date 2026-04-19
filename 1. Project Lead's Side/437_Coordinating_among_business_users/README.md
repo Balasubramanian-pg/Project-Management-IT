@@ -1,3 +1,3 @@
-# 437_Coordinating_among_business_users
+# 437 Coordinating among business users
 
-Initial version.
+Updated version.
