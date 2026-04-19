@@ -1,3 +1,3 @@
-# 236_Using_Kubernetes_basics
+# 236 Using Kubernetes basics
 
-Initial version.
+Updated version.
