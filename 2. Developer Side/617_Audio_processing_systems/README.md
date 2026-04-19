@@ -1,3 +1,3 @@
-# 617_Audio_processing_systems
+# 617 Audio processing systems
 
-Initial version.
+Updated version.
