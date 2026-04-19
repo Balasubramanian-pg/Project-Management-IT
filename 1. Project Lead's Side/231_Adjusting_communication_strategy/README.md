@@ -1,3 +1,3 @@
-# 231_Adjusting_communication_strategy
+# 231 Adjusting communication strategy
 
-Initial version.
+Updated version.
