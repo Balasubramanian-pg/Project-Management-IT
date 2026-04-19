@@ -1,3 +1,3 @@
-# 58_Designing_database_schemas
+# 58 Designing database schemas
 
-Initial version.
+Updated version.
