@@ -1,3 +1,3 @@
-# 597_Managing_code_health_metrics
+# 597 Managing code health metrics
 
-Initial version.
+Updated version.
