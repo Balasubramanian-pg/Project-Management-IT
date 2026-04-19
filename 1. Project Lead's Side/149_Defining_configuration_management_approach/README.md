@@ -1,3 +1,3 @@
-# 149_Defining_configuration_management_approach
+# 149 Defining configuration management approach
 
-Initial version.
+Updated version.
