@@ -1,1 +1,1 @@
-print("Running 687_Learning_edge_computing")
+print("Running 687 Learning edge computing")
