@@ -1,1 +1,1 @@
-print("Running 260_Onboarding_project_resources")
+print("Running 260 Onboarding project resources")
