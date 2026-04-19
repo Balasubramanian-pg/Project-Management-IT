@@ -1,3 +1,3 @@
-# 330_Practicing_problem_solving
+# 330 Practicing problem solving
 
-Initial version.
+Updated version.
