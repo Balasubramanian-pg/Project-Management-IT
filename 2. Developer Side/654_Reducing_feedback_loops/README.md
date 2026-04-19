@@ -1,3 +1,3 @@
-# 654_Reducing_feedback_loops
+# 654 Reducing feedback loops
 
-Initial version.
+Updated version.
