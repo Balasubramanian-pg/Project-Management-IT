@@ -1,3 +1,3 @@
-# 497_Managing_defect_severity
+# 497 Managing defect severity
 
-Initial version.
+Updated version.
