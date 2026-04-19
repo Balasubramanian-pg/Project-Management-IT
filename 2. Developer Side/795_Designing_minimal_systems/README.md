@@ -1,3 +1,3 @@
-# 795_Designing_minimal_systems
+# 795 Designing minimal systems
 
-Initial version.
+Updated version.
