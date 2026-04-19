@@ -1,3 +1,3 @@
-# 357_Working_with_faulttolerant_systems
+# 357 Working with fault-tolerant systems
 
-Initial version.
+Updated version.
