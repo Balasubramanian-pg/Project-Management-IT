@@ -1,3 +1,3 @@
-# 31_Recognizing_technical_dependencies
+# 31 Recognizing technical dependencies
 
-Initial version.
+Updated version.
