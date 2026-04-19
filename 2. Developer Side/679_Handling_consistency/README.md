@@ -1,3 +1,3 @@
-# 679_Handling_consistency
+# 679 Handling consistency
 
-Initial version.
+Updated version.
