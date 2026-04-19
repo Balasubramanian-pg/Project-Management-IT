@@ -1,3 +1,3 @@
-# 370_Managing_compliance_gaps
+# 370 Managing compliance gaps
 
-Initial version.
+Updated version.
