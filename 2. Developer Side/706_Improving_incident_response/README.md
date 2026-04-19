@@ -1,3 +1,3 @@
-# 706_Improving_incident_response
+# 706 Improving incident response
 
-Initial version.
+Updated version.
