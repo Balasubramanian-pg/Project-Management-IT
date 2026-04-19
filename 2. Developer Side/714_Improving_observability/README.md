@@ -1,3 +1,3 @@
-# 714_Improving_observability
+# 714 Improving observability
 
-Initial version.
+Updated version.
