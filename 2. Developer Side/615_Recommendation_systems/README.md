@@ -1,3 +1,3 @@
-# 615_Recommendation_systems
+# 615 Recommendation systems
 
-Initial version.
+Updated version.
