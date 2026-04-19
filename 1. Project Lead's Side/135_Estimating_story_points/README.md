@@ -1,3 +1,3 @@
-# 135_Estimating_story_points
+# 135 Estimating story points
 
-Initial version.
+Updated version.
