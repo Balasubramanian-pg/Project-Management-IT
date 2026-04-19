@@ -1,3 +1,3 @@
-# 318_Managing_downtime
+# 318 Managing downtime
 
-Initial version.
+Updated version.
