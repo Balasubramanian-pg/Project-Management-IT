@@ -1,3 +1,3 @@
-# 235_Using_Docker_effectively
+# 235 Using Docker effectively
 
-Initial version.
+Updated version.
