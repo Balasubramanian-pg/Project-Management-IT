@@ -1,1 +1,1 @@
-print("Running 217_Managing_governance_artifacts")
+print("Running 217 Managing governance artifacts")
