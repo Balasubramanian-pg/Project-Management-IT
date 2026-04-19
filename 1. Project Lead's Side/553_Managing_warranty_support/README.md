@@ -1,3 +1,3 @@
-# 553_Managing_warranty_support
+# 553 Managing warranty support
 
-Initial version.
+Updated version.
