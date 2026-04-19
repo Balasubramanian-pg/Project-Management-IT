@@ -1,1 +1,1 @@
-print("Running 726_Thinking_in_tradeoffs")
+print("Running 726 Thinking in tradeoffs")
