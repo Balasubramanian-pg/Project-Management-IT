@@ -1,3 +1,3 @@
-# 193_Aligning_business_and_IT_stakeholders
+# 193 Aligning business and IT stakeholders
 
-Initial version.
+Updated version.
