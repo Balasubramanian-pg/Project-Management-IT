@@ -1,3 +1,3 @@
-# 352_Working_with_IoT_systems
+# 352 Working with IoT systems
 
-Initial version.
+Updated version.
