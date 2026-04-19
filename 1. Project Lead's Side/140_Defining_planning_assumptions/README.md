@@ -1,3 +1,3 @@
-# 140_Defining_planning_assumptions
+# 140 Defining planning assumptions
 
-Initial version.
+Updated version.
