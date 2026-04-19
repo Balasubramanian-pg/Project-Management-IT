@@ -1,3 +1,3 @@
-# 762_Handling_distributed_locks
+# 762 Handling distributed locks
 
-Initial version.
+Updated version.
