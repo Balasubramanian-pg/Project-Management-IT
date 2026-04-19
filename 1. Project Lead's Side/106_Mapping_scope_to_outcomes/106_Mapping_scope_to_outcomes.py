@@ -1,1 +1,1 @@
-print("Running 106_Mapping_scope_to_outcomes")
+print("Running 106 Mapping scope to outcomes")
