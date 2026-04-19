@@ -1,3 +1,3 @@
-# 572_Refactoring_legacy_systems
+# 572 Refactoring legacy systems
 
-Initial version.
+Updated version.
