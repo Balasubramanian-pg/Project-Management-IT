@@ -1,3 +1,3 @@
-# 348_Approving_or_rejecting_change
+# 348 Approving or rejecting change
 
-Initial version.
+Updated version.
