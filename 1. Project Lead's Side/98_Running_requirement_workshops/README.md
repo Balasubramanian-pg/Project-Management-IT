@@ -1,3 +1,3 @@
-# 98_Running_requirement_workshops
+# 98 Running requirement workshops
 
-Initial version.
+Updated version.
