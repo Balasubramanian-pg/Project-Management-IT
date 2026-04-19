@@ -1,3 +1,3 @@
-# 487_Planning_user_acceptance_testing
+# 487 Planning user acceptance testing
 
-Initial version.
+Updated version.
