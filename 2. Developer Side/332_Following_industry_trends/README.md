@@ -1,3 +1,3 @@
-# 332_Following_industry_trends
+# 332 Following industry trends
 
-Initial version.
+Updated version.
