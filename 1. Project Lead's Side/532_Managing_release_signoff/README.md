@@ -1,3 +1,3 @@
-# 532_Managing_release_signoff
+# 532 Managing release signoff
 
-Initial version.
+Updated version.
