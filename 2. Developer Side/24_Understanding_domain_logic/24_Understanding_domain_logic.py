@@ -1,1 +1,1 @@
-print("Running 24_Understanding_domain_logic")
+print("Running 24 Understanding domain logic")
