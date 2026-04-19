@@ -1,3 +1,3 @@
-# 215_Collaborating_with_QA
+# 215 Collaborating with QA
 
-Initial version.
+Updated version.
