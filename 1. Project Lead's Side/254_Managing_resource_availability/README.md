@@ -1,3 +1,3 @@
-# 254_Managing_resource_availability
+# 254 Managing resource availability
 
-Initial version.
+Updated version.
