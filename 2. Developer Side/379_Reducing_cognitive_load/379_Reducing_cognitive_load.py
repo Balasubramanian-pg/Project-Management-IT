@@ -1,1 +1,1 @@
-print("Running 379_Reducing_cognitive_load")
+print("Running 379 Reducing cognitive load")
