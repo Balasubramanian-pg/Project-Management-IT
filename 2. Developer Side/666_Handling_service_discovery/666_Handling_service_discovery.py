@@ -1,1 +1,1 @@
-print("Running 666_Handling_service_discovery")
+print("Running 666 Handling service discovery")
