@@ -1,3 +1,3 @@
-# 295_Managing_delivery_cadence
+# 295 Managing delivery cadence
 
-Initial version.
+Updated version.
