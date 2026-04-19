@@ -1,3 +1,3 @@
-# 305_Using_observability_tools
+# 305 Using observability tools
 
-Initial version.
+Updated version.
