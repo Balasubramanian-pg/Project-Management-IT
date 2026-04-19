@@ -1,3 +1,3 @@
-# 116_Planning_cost_control
+# 116 Planning cost control
 
-Initial version.
+Updated version.
