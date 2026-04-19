@@ -1,3 +1,3 @@
-# 697_Learning_platform_automation
+# 697 Learning platform automation
 
-Initial version.
+Updated version.
