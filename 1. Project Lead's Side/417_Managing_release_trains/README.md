@@ -1,3 +1,3 @@
-# 417_Managing_release_trains
+# 417 Managing release trains
 
-Initial version.
+Updated version.
