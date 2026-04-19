@@ -1,3 +1,3 @@
-# 306_Tracing_distributed_systems
+# 306 Tracing distributed systems
 
-Initial version.
+Updated version.
