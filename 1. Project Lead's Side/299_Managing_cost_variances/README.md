@@ -1,3 +1,3 @@
-# 299_Managing_cost_variances
+# 299 Managing cost variances
 
-Initial version.
+Updated version.
