@@ -1,3 +1,3 @@
-# 171_Coordinating_team_merges
+# 171 Coordinating team merges
 
-Initial version.
+Updated version.
