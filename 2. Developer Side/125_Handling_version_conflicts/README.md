@@ -1,3 +1,3 @@
-# 125_Handling_version_conflicts
+# 125 Handling version conflicts
 
-Initial version.
+Updated version.
