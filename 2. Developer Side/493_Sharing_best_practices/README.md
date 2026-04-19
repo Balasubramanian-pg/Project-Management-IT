@@ -1,3 +1,3 @@
-# 493_Sharing_best_practices
+# 493 Sharing best practices
 
-Initial version.
+Updated version.
