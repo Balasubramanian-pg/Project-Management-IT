@@ -1,3 +1,3 @@
-# 102_Writing_readable_functions
+# 102 Writing readable functions
 
-Initial version.
+Updated version.
