@@ -1,3 +1,3 @@
-# 32_Mapping_dependencies_between_modules
+# 32 Mapping dependencies between modules
 
-Initial version.
+Updated version.
