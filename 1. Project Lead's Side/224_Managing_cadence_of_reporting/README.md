@@ -1,3 +1,3 @@
-# 224_Managing_cadence_of_reporting
+# 224 Managing cadence of reporting
 
-Initial version.
+Updated version.
