@@ -1,3 +1,3 @@
-# 350_Managing_configuration_changes
+# 350 Managing configuration changes
 
-Initial version.
+Updated version.
