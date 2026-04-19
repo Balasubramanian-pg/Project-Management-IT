@@ -1,3 +1,3 @@
-# 534_Managing_rollback_decisions
+# 534 Managing rollback decisions
 
-Initial version.
+Updated version.
