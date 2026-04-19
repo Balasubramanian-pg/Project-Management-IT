@@ -1,3 +1,3 @@
-# 176_Maintaining_commit_discipline
+# 176 Maintaining commit discipline
 
-Initial version.
+Updated version.
