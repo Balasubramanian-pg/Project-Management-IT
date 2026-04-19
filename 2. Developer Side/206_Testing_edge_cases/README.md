@@ -1,3 +1,3 @@
-# 206_Testing_edge_cases
+# 206 Testing edge cases
 
-Initial version.
+Updated version.
