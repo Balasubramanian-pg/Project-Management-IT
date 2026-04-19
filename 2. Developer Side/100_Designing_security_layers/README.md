@@ -1,3 +1,3 @@
-# 100_Designing_security_layers
+# 100 Designing security layers
 
-Initial version.
+Updated version.
