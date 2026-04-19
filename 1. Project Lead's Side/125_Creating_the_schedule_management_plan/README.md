@@ -1,3 +1,3 @@
-# 125_Creating_the_schedule_management_plan
+# 125 Creating the schedule management plan
 
-Initial version.
+Updated version.
