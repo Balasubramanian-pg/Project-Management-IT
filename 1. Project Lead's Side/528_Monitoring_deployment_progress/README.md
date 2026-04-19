@@ -1,3 +1,3 @@
-# 528_Monitoring_deployment_progress
+# 528 Monitoring deployment progress
 
-Initial version.
+Updated version.
