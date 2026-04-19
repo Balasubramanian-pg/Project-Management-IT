@@ -1,3 +1,3 @@
-# 271_Updating_schedule_at_completion
+# 271 Updating schedule at completion
 
-Initial version.
+Updated version.
