@@ -1,3 +1,3 @@
-# 174_Maintaining_issue_logs
+# 174 Maintaining issue logs
 
-Initial version.
+Updated version.
