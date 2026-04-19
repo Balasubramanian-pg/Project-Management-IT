@@ -1,3 +1,3 @@
-# 407_Running_daily_standups
+# 407 Running daily standups
 
-Initial version.
+Updated version.
