@@ -1,3 +1,3 @@
-# 298_Managing_overtime
+# 298 Managing overtime
 
-Initial version.
+Updated version.
