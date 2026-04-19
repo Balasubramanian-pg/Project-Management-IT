@@ -1,3 +1,3 @@
-# 725_Thinking_in_abstractions
+# 725 Thinking in abstractions
 
-Initial version.
+Updated version.
