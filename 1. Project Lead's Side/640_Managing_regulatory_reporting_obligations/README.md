@@ -1,3 +1,3 @@
-# 640_Managing_regulatory_reporting_obligations
+# 640 Managing regulatory reporting obligations
 
-Initial version.
+Updated version.
