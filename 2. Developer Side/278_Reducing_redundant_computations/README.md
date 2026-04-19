@@ -1,3 +1,3 @@
-# 278_Reducing_redundant_computations
+# 278 Reducing redundant computations
 
-Initial version.
+Updated version.
