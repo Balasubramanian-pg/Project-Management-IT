@@ -1,3 +1,3 @@
-# 610_Managing_policy_adherence
+# 610 Managing policy adherence
 
-Initial version.
+Updated version.
