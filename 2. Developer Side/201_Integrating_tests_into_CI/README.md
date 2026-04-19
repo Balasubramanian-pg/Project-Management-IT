@@ -1,3 +1,3 @@
-# 201_Integrating_tests_into_CI
+# 201 Integrating tests into CI
 
-Initial version.
+Updated version.
