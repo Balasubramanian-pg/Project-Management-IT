@@ -1,1 +1,1 @@
-print("Running 626_Managing_pricing_models")
+print("Running 626 Managing pricing models")
