@@ -1,3 +1,3 @@
-# 793_Designing_evolvable_systems
+# 793 Designing evolvable systems
 
-Initial version.
+Updated version.
