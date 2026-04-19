@@ -1,3 +1,3 @@
-# 622_Managing_outsourced_delivery
+# 622 Managing outsourced delivery
 
-Initial version.
+Updated version.
