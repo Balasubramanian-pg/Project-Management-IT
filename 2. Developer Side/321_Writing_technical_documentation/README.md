@@ -1,3 +1,3 @@
-# 321_Writing_technical_documentation
+# 321 Writing technical documentation
 
-Initial version.
+Updated version.
