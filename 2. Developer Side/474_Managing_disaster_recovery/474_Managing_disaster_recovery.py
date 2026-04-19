@@ -1,1 +1,1 @@
-print("Running 474_Managing_disaster_recovery")
+print("Running 474 Managing disaster recovery")
