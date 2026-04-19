@@ -1,3 +1,3 @@
-# 23_Running_a_go_nogo_review
+# 23 Running a go no-go review
 
-Initial version.
+Updated version.
