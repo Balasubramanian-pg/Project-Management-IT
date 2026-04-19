@@ -1,3 +1,3 @@
-# 576_Exploring_new_technologies
+# 576 Exploring new technologies
 
-Initial version.
+Updated version.
