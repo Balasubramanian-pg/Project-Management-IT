@@ -1,1 +1,1 @@
-print("Running 66_Evaluating_build_versus_configure_options")
+print("Running 66 Evaluating build versus configure options")
