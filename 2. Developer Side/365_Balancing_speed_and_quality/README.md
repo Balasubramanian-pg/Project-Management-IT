@@ -1,3 +1,3 @@
-# 365_Balancing_speed_and_quality
+# 365 Balancing speed and quality
 
-Initial version.
+Updated version.
