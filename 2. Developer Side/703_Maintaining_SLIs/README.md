@@ -1,3 +1,3 @@
-# 703_Maintaining_SLIs
+# 703 Maintaining SLIs
 
-Initial version.
+Updated version.
