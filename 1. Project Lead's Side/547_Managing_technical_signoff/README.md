@@ -1,3 +1,3 @@
-# 547_Managing_technical_signoff
+# 547 Managing technical signoff
 
-Initial version.
+Updated version.
