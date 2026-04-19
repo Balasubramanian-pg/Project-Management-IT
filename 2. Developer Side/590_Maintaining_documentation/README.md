@@ -1,3 +1,3 @@
-# 590_Maintaining_documentation
+# 590 Maintaining documentation
 
-Initial version.
+Updated version.
