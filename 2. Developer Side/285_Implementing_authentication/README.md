@@ -1,3 +1,3 @@
-# 285_Implementing_authentication
+# 285 Implementing authentication
 
-Initial version.
+Updated version.
