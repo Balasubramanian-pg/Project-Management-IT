@@ -1,3 +1,3 @@
-# 470_Managing_load_balancers
+# 470 Managing load balancers
 
-Initial version.
+Updated version.
