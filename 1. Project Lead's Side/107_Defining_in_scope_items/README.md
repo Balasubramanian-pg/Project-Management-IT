@@ -1,3 +1,3 @@
-# 107_Defining_in_scope_items
+# 107 Defining in scope items
 
-Initial version.
+Updated version.
