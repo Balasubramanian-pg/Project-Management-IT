@@ -1,3 +1,3 @@
-# 622_Becoming_a_tech_lead
+# 622 Becoming a tech lead
 
-Initial version.
+Updated version.
