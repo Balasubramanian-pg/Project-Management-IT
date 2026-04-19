@@ -1,3 +1,3 @@
-# 775_Handling_observability_gaps
+# 775 Handling observability gaps
 
-Initial version.
+Updated version.
