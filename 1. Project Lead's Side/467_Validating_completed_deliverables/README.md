@@ -1,3 +1,3 @@
-# 467_Validating_completed_deliverables
+# 467 Validating completed deliverables
 
-Initial version.
+Updated version.
