@@ -1,3 +1,3 @@
-# 577_Prototyping_solutions
+# 577 Prototyping solutions
 
-Initial version.
+Updated version.
