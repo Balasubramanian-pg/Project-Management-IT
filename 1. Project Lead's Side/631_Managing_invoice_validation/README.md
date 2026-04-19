@@ -1,3 +1,3 @@
-# 631_Managing_invoice_validation
+# 631 Managing invoice validation
 
-Initial version.
+Updated version.
