@@ -1,3 +1,3 @@
-# 202_Running_tests_locally
+# 202 Running tests locally
 
-Initial version.
+Updated version.
