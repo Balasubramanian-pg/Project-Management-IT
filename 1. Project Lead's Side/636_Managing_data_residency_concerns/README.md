@@ -1,3 +1,3 @@
-# 636_Managing_data_residency_concerns
+# 636 Managing data residency concerns
 
-Initial version.
+Updated version.
