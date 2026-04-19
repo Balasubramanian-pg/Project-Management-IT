@@ -1,3 +1,3 @@
-# 496_Building_team_culture
+# 496 Building team culture
 
-Initial version.
+Updated version.
