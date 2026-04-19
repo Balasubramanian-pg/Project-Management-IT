@@ -1,3 +1,3 @@
-# 693_Learning_platform_engineering
+# 693 Learning platform engineering
 
-Initial version.
+Updated version.
