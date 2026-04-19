@@ -1,3 +1,3 @@
-# 772_Handling_backup_corruption
+# 772 Handling backup corruption
 
-Initial version.
+Updated version.
