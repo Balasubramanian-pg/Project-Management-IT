@@ -1,3 +1,3 @@
-# 736_Building_faulttolerant_systems
+# 736 Building fault-tolerant systems
 
-Initial version.
+Updated version.
