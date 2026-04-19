@@ -1,3 +1,3 @@
-# 482_Planning_test_phases
+# 482 Planning test phases
 
-Initial version.
+Updated version.
