@@ -1,1 +1,1 @@
-print("Running 730_Building_scalable_systems")
+print("Running 730 Building scalable systems")
