@@ -1,3 +1,3 @@
-# 612_Streaming_architectures
+# 612 Streaming architectures
 
-Initial version.
+Updated version.
