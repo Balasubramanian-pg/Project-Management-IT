@@ -1,3 +1,3 @@
-# 03_Framing_the_opportunity_statement
+# 03 Framing the opportunity statement
 
-Initial version.
+Updated version.
