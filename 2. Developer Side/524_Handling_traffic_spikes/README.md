@@ -1,3 +1,3 @@
-# 524_Handling_traffic_spikes
+# 524 Handling traffic spikes
 
-Initial version.
+Updated version.
