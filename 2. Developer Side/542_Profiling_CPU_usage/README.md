@@ -1,3 +1,3 @@
-# 542_Profiling_CPU_usage
+# 542 Profiling CPU usage
 
-Initial version.
+Updated version.
