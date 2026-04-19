@@ -1,3 +1,3 @@
-# 551_Optimizing_distributed_systems
+# 551 Optimizing distributed systems
 
-Initial version.
+Updated version.
