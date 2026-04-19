@@ -1,3 +1,3 @@
-# 16_Setting_success_criteria
+# 16 Setting success criteria
 
-Initial version.
+Updated version.
