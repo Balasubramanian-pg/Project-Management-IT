@@ -1,3 +1,3 @@
-# 69_Designing_authentication_flows
+# 69 Designing authentication flows
 
-Initial version.
+Updated version.
