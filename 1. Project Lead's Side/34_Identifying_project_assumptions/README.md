@@ -1,3 +1,3 @@
-# 34_Identifying_project_assumptions
+# 34 Identifying project assumptions
 
-Initial version.
+Updated version.
