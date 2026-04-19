@@ -1,3 +1,3 @@
-# 04_Creating_the_project_charter
+# 04 Creating the project charter
 
-Initial version.
+Updated version.
