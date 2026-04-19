@@ -1,3 +1,3 @@
-# 119_Avoiding_overcommenting
+# 119 Avoiding over-commenting
 
-Initial version.
+Updated version.
