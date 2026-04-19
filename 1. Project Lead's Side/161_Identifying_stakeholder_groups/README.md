@@ -1,3 +1,3 @@
-# 161_Identifying_stakeholder_groups
+# 161 Identifying stakeholder groups
 
-Initial version.
+Updated version.
