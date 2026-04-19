@@ -1,1 +1,1 @@
-print("Running 66_Designing_fault_tolerance")
+print("Running 66 Designing fault tolerance")
