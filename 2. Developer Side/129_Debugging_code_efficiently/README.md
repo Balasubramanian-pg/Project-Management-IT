@@ -1,3 +1,3 @@
-# 129_Debugging_code_efficiently
+# 129 Debugging code efficiently
 
-Initial version.
+Updated version.
