@@ -1,3 +1,3 @@
-# 307_Planning_support_coverage
+# 307 Planning support coverage
 
-Initial version.
+Updated version.
