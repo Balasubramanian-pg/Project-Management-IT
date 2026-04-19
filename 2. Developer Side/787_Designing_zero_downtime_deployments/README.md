@@ -1,3 +1,3 @@
-# 787_Designing_zero_downtime_deployments
+# 787 Designing zero downtime deployments
 
-Initial version.
+Updated version.
