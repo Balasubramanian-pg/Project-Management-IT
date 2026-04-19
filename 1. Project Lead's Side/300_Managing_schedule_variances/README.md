@@ -1,3 +1,3 @@
-# 300_Managing_schedule_variances
+# 300 Managing schedule variances
 
-Initial version.
+Updated version.
