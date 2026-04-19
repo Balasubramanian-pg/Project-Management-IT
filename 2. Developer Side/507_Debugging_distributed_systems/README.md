@@ -1,3 +1,3 @@
-# 507_Debugging_distributed_systems
+# 507 Debugging distributed systems
 
-Initial version.
+Updated version.
