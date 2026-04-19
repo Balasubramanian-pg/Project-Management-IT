@@ -1,1 +1,1 @@
-print("Running 612_Streaming_architectures")
+print("Running 612 Streaming architectures")
