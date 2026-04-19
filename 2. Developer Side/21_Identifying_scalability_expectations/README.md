@@ -1,3 +1,3 @@
-# 21_Identifying_scalability_expectations
+# 21 Identifying scalability expectations
 
-Initial version.
+Updated version.
