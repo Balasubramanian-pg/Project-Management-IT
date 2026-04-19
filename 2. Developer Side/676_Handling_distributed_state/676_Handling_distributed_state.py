@@ -1,1 +1,1 @@
-print("Running 676_Handling_distributed_state")
+print("Running 676 Handling distributed state")
