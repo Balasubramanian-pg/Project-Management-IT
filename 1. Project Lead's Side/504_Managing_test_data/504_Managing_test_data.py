@@ -1,1 +1,1 @@
-print("Running 504_Managing_test_data")
+print("Running 504 Managing test data")
