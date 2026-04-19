@@ -1,3 +1,3 @@
-# 609_AI_system_integration
+# 609 AI system integration
 
-Initial version.
+Updated version.
