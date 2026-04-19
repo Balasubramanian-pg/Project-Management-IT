@@ -1,3 +1,3 @@
-# 594_Prioritizing_fixes
+# 594 Prioritizing fixes
 
-Initial version.
+Updated version.
