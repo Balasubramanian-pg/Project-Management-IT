@@ -1,3 +1,3 @@
-# 64_Selecting_delivery_approach
+# 64 Selecting delivery approach
 
-Initial version.
+Updated version.
