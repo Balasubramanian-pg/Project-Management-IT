@@ -1,3 +1,3 @@
-# 395_Managing_issue_aging
+# 395 Managing issue aging
 
-Initial version.
+Updated version.
