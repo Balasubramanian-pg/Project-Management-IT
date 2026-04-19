@@ -1,3 +1,3 @@
-# 168_Handling_hotfix_branches
+# 168 Handling hotfix branches
 
-Initial version.
+Updated version.
