@@ -1,3 +1,3 @@
-# 661_Tracking_defect_trends
+# 661 Tracking defect trends
 
-Initial version.
+Updated version.
