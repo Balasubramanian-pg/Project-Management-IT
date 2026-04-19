@@ -1,3 +1,3 @@
-# 148_Applying_YAGNI_principle
+# 148 Applying YAGNI principle
 
-Initial version.
+Updated version.
