@@ -1,3 +1,3 @@
-# 525_Managing_cutover_rehearsal
+# 525 Managing cutover rehearsal
 
-Initial version.
+Updated version.
