@@ -1,3 +1,3 @@
-# 427_Validating_input
+# 427 Validating input
 
-Initial version.
+Updated version.
