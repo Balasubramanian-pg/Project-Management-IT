@@ -1,3 +1,3 @@
-# 492_Improving_team_processes
+# 492 Improving team processes
 
-Initial version.
+Updated version.
