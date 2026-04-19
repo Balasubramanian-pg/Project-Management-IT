@@ -1,1 +1,1 @@
-print("Running 296_Aligning_resources_to_milestones")
+print("Running 296 Aligning resources to milestones")
