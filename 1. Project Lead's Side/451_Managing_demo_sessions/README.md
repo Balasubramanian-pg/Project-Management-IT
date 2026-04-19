@@ -1,3 +1,3 @@
-# 451_Managing_demo_sessions
+# 451 Managing demo sessions
 
-Initial version.
+Updated version.
