@@ -1,3 +1,3 @@
-# 143_Maintaining_code_quality
+# 143 Maintaining code quality
 
-Initial version.
+Updated version.
