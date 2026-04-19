@@ -1,3 +1,3 @@
-# 221_Ensuring_communication_consistency
+# 221 Ensuring communication consistency
 
-Initial version.
+Updated version.
