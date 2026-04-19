@@ -1,3 +1,3 @@
-# 286_Implementing_authorization
+# 286 Implementing authorization
 
-Initial version.
+Updated version.
