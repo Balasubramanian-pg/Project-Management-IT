@@ -1,3 +1,3 @@
-# 671_Handling_rate_limiting
+# 671 Handling rate limiting
 
-Initial version.
+Updated version.
