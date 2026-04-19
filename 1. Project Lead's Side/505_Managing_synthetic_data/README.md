@@ -1,3 +1,3 @@
-# 505_Managing_synthetic_data
+# 505 Managing synthetic data
 
-Initial version.
+Updated version.
