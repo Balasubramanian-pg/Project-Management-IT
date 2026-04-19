@@ -1,3 +1,3 @@
-# 472_Managing_storage_systems
+# 472 Managing storage systems
 
-Initial version.
+Updated version.
