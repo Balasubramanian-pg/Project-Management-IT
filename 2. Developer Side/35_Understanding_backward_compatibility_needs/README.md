@@ -1,3 +1,3 @@
-# 35_Understanding_backward_compatibility_needs
+# 35 Understanding backward compatibility needs
 
-Initial version.
+Updated version.
