@@ -1,3 +1,3 @@
-# 18_Evaluating_strategic_fit
+# 18 Evaluating strategic fit
 
-Initial version.
+Updated version.
