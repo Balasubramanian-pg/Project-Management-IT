@@ -1,1 +1,1 @@
-print("Running 87_Designing_query_optimization")
+print("Running 87 Designing query optimization")
