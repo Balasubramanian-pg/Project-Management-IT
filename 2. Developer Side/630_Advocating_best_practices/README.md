@@ -1,3 +1,3 @@
-# 630_Advocating_best_practices
+# 630 Advocating best practices
 
-Initial version.
+Updated version.
