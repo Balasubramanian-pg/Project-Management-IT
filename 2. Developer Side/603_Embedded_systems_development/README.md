@@ -1,3 +1,3 @@
-# 603_Embedded_systems_development
+# 603 Embedded systems development
 
-Initial version.
+Updated version.
