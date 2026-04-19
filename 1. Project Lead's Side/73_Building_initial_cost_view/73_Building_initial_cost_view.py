@@ -1,1 +1,1 @@
-print("Running 73_Building_initial_cost_view")
+print("Running 73 Building initial cost view")
