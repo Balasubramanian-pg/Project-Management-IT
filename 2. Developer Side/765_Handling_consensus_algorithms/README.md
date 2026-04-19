@@ -1,3 +1,3 @@
-# 765_Handling_consensus_algorithms
+# 765 Handling consensus algorithms
 
-Initial version.
+Updated version.
