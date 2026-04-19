@@ -1,3 +1,3 @@
-# 530_Managing_production_defects
+# 530 Managing production defects
 
-Initial version.
+Updated version.
