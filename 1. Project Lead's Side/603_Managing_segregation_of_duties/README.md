@@ -1,3 +1,3 @@
-# 603_Managing_segregation_of_duties
+# 603 Managing segregation of duties
 
-Initial version.
+Updated version.
