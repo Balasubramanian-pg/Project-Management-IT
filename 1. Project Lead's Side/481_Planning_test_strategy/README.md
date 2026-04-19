@@ -1,3 +1,3 @@
-# 481_Planning_test_strategy
+# 481 Planning test strategy
 
-Initial version.
+Updated version.
