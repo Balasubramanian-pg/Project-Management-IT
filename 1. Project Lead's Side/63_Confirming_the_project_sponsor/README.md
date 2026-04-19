@@ -1,3 +1,3 @@
-# 63_Confirming_the_project_sponsor
+# 63 Confirming the project sponsor
 
-Initial version.
+Updated version.
