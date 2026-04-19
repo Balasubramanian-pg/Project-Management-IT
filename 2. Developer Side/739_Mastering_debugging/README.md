@@ -1,3 +1,3 @@
-# 739_Mastering_debugging
+# 739 Mastering debugging
 
-Initial version.
+Updated version.
