@@ -1,3 +1,3 @@
-# 477_Managing_logs
+# 477 Managing logs
 
-Initial version.
+Updated version.
