@@ -1,3 +1,3 @@
-# 491_Handling_team_conflicts
+# 491 Handling team conflicts
 
-Initial version.
+Updated version.
