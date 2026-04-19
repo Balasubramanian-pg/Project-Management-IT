@@ -1,3 +1,3 @@
-# 30_Planning_implementation_sequence
+# 30 Planning implementation sequence
 
-Initial version.
+Updated version.
