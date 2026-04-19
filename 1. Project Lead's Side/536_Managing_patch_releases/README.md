@@ -1,3 +1,3 @@
-# 536_Managing_patch_releases
+# 536 Managing patch releases
 
-Initial version.
+Updated version.
