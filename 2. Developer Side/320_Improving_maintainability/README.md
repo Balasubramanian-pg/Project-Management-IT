@@ -1,3 +1,3 @@
-# 320_Improving_maintainability
+# 320 Improving maintainability
 
-Initial version.
+Updated version.
