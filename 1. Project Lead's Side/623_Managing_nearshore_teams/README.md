@@ -1,3 +1,3 @@
-# 623_Managing_nearshore_teams
+# 623 Managing nearshore teams
 
-Initial version.
+Updated version.
