@@ -1,3 +1,3 @@
-# 14_Defining_the_future_state
+# 14 Defining the future state
 
-Initial version.
+Updated version.
