@@ -1,3 +1,3 @@
-# 413_Managing_partitions
+# 413 Managing partitions
 
-Initial version.
+Updated version.
