@@ -1,3 +1,3 @@
-# 575_Enhancing_system_design
+# 575 Enhancing system design
 
-Initial version.
+Updated version.
