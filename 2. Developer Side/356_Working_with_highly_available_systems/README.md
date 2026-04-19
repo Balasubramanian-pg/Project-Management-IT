@@ -1,3 +1,3 @@
-# 356_Working_with_highly_available_systems
+# 356 Working with highly available systems
 
-Initial version.
+Updated version.
