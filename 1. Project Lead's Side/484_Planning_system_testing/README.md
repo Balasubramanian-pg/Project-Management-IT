@@ -1,3 +1,3 @@
-# 484_Planning_system_testing
+# 484 Planning system testing
 
-Initial version.
+Updated version.
