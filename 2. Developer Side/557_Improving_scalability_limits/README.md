@@ -1,3 +1,3 @@
-# 557_Improving_scalability_limits
+# 557 Improving scalability limits
 
-Initial version.
+Updated version.
