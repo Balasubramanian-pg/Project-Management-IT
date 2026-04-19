@@ -1,3 +1,3 @@
-# 150_Writing_maintainable_code
+# 150 Writing maintainable code
 
-Initial version.
+Updated version.
