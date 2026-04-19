@@ -1,1 +1,1 @@
-print("Running 404_Optimizing_queries")
+print("Running 404 Optimizing queries")
