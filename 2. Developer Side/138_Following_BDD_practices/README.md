@@ -1,3 +1,3 @@
-# 138_Following_BDD_practices
+# 138 Following BDD practices
 
-Initial version.
+Updated version.
