@@ -1,3 +1,3 @@
-# 648_Defining_stakeholder_KPIs
+# 648 Defining stakeholder KPIs
 
-Initial version.
+Updated version.
