@@ -1,3 +1,3 @@
-# 160_Planning_minimum_viable_release
+# 160 Planning minimum viable release
 
-Initial version.
+Updated version.
