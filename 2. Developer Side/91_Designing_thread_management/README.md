@@ -1,3 +1,3 @@
-# 91_Designing_thread_management
+# 91 Designing thread management
 
-Initial version.
+Updated version.
