@@ -1,3 +1,3 @@
-# 205_Communicating_risk_exposure
+# 205 Communicating risk exposure
 
-Initial version.
+Updated version.
