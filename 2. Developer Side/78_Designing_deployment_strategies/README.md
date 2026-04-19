@@ -1,3 +1,3 @@
-# 78_Designing_deployment_strategies
+# 78 Designing deployment strategies
 
-Initial version.
+Updated version.
