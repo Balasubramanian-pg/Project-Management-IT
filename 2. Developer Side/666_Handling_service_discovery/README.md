@@ -1,3 +1,3 @@
-# 666_Handling_service_discovery
+# 666 Handling service discovery
 
-Initial version.
+Updated version.
