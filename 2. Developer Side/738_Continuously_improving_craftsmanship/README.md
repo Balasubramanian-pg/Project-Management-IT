@@ -1,3 +1,3 @@
-# 738_Continuously_improving_craftsmanship
+# 738 Continuously improving craftsmanship
 
-Initial version.
+Updated version.
