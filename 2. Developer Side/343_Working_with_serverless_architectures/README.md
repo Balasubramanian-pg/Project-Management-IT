@@ -1,3 +1,3 @@
-# 343_Working_with_serverless_architectures
+# 343 Working with serverless architectures
 
-Initial version.
+Updated version.
