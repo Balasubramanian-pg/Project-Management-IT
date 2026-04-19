@@ -1,3 +1,3 @@
-# 645_Defining_schedule_KPIs
+# 645 Defining schedule KPIs
 
-Initial version.
+Updated version.
