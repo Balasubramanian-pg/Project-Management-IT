@@ -1,3 +1,3 @@
-# 730_Building_scalable_systems
+# 730 Building scalable systems
 
-Initial version.
+Updated version.
