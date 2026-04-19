@@ -1,3 +1,3 @@
-# 96_Defining_acceptance_criteria
+# 96 Defining acceptance criteria
 
-Initial version.
+Updated version.
