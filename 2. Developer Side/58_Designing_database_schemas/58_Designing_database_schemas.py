@@ -1,1 +1,1 @@
-print("Running 58_Designing_database_schemas")
+print("Running 58 Designing database schemas")
