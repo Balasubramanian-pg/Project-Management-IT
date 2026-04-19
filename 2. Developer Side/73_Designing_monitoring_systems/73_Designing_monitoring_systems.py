@@ -1,1 +1,1 @@
-print("Running 73_Designing_monitoring_systems")
+print("Running 73 Designing monitoring systems")
