@@ -1,3 +1,3 @@
-# 533_Managing_deployment_freeze_periods
+# 533 Managing deployment freeze periods
 
-Initial version.
+Updated version.
