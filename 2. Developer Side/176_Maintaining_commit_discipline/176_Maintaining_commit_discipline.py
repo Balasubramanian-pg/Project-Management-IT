@@ -1,1 +1,1 @@
-print("Running 176_Maintaining_commit_discipline")
+print("Running 176 Maintaining commit discipline")
