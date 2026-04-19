@@ -1,1 +1,1 @@
-print("Running 36_Assessing_budget_appetite")
+print("Running 36 Assessing budget appetite")
