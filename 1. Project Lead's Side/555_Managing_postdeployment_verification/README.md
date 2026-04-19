@@ -1,3 +1,3 @@
-# 555_Managing_postdeployment_verification
+# 555 Managing post-deployment verification
 
-Initial version.
+Updated version.
