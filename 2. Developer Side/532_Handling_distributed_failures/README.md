@@ -1,3 +1,3 @@
-# 532_Handling_distributed_failures
+# 532 Handling distributed failures
 
-Initial version.
+Updated version.
