@@ -1,3 +1,3 @@
-# 415_Managing_iterative_delivery
+# 415 Managing iterative delivery
 
-Initial version.
+Updated version.
