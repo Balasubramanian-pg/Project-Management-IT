@@ -1,3 +1,3 @@
-# 686_Learning_serverless_patterns
+# 686 Learning serverless patterns
 
-Initial version.
+Updated version.
