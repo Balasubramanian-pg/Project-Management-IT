@@ -1,1 +1,1 @@
-print("Running 534_Managing_data_replication")
+print("Running 534 Managing data replication")
