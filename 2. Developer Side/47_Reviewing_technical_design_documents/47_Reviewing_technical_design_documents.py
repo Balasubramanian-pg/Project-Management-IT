@@ -1,1 +1,1 @@
-print("Running 47_Reviewing_technical_design_documents")
+print("Running 47 Reviewing technical design documents")
