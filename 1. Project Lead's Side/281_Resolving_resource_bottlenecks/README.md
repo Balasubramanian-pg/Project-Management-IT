@@ -1,3 +1,3 @@
-# 281_Resolving_resource_bottlenecks
+# 281 Resolving resource bottlenecks
 
-Initial version.
+Updated version.
