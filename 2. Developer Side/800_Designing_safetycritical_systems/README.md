@@ -1,3 +1,3 @@
-# 800_Designing_safetycritical_systems
+# 800 Designing safety-critical systems
 
-Initial version.
+Updated version.
