@@ -1,3 +1,3 @@
-# 38_Setting_launch_rationale
+# 38 Setting launch rationale
 
-Initial version.
+Updated version.
