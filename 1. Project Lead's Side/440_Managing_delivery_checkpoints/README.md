@@ -1,3 +1,3 @@
-# 440_Managing_delivery_checkpoints
+# 440 Managing delivery checkpoints
 
-Initial version.
+Updated version.
