@@ -1,3 +1,3 @@
-# 402_Designing_NoSQL_databases
+# 402 Designing NoSQL databases
 
-Initial version.
+Updated version.
