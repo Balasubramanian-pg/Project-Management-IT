@@ -1,3 +1,3 @@
-# 376_Using_SWOT_analysis
+# 376 Using SWOT analysis
 
-Initial version.
+Updated version.
