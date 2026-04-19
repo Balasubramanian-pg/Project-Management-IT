@@ -1,3 +1,3 @@
-# 278_Managing_contractor_engagement
+# 278 Managing contractor engagement
 
-Initial version.
+Updated version.
