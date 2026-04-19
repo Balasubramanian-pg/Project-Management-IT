@@ -1,3 +1,3 @@
-# 369_Managing_audit_findings
+# 369 Managing audit findings
 
-Initial version.
+Updated version.
