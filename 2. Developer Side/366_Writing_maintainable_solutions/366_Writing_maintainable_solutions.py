@@ -1,1 +1,1 @@
-print("Running 366_Writing_maintainable_solutions")
+print("Running 366 Writing maintainable solutions")
