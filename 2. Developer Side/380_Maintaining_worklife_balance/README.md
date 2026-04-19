@@ -1,3 +1,3 @@
-# 380_Maintaining_worklife_balance
+# 380 Maintaining work-life balance
 
-Initial version.
+Updated version.
