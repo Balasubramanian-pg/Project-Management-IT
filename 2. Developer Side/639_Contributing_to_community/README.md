@@ -1,3 +1,3 @@
-# 639_Contributing_to_community
+# 639 Contributing to community
 
-Initial version.
+Updated version.
