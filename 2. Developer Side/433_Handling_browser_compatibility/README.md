@@ -1,3 +1,3 @@
-# 433_Handling_browser_compatibility
+# 433 Handling browser compatibility
 
-Initial version.
+Updated version.
