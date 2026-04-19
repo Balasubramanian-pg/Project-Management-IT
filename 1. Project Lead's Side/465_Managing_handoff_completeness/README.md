@@ -1,3 +1,3 @@
-# 465_Managing_handoff_completeness
+# 465 Managing handoff completeness
 
-Initial version.
+Updated version.
