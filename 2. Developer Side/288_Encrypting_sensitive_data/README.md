@@ -1,3 +1,3 @@
-# 288_Encrypting_sensitive_data
+# 288 Encrypting sensitive data
 
-Initial version.
+Updated version.
