@@ -1,3 +1,3 @@
-# 771_Handling_data_loss_scenarios
+# 771 Handling data loss scenarios
 
-Initial version.
+Updated version.
