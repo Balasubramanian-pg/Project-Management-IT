@@ -1,3 +1,3 @@
-# 343_Managing_scope_creep
+# 343 Managing scope creep
 
-Initial version.
+Updated version.
