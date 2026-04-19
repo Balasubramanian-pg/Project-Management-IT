@@ -1,3 +1,3 @@
-# 194_Reducing_flaky_tests
+# 194 Reducing flaky tests
 
-Initial version.
+Updated version.
