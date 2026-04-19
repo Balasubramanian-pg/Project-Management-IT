@@ -1,3 +1,3 @@
-# 179_Managing_submodules
+# 179 Managing submodules
 
-Initial version.
+Updated version.
