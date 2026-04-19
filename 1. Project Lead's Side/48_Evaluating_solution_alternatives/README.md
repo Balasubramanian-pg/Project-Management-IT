@@ -1,3 +1,3 @@
-# 48_Evaluating_solution_alternatives
+# 48 Evaluating solution alternatives
 
-Initial version.
+Updated version.
