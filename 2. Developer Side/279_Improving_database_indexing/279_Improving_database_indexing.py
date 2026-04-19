@@ -1,1 +1,1 @@
-print("Running 279_Improving_database_indexing")
+print("Running 279 Improving database indexing")
