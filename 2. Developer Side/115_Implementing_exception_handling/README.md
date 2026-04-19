@@ -1,3 +1,3 @@
-# 115_Implementing_exception_handling
+# 115 Implementing exception handling
 
-Initial version.
+Updated version.
