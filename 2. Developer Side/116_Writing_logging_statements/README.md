@@ -1,3 +1,3 @@
-# 116_Writing_logging_statements
+# 116 Writing logging statements
 
-Initial version.
+Updated version.
