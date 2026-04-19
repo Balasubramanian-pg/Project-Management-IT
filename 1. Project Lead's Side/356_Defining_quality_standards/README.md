@@ -1,3 +1,3 @@
-# 356_Defining_quality_standards
+# 356 Defining quality standards
 
-Initial version.
+Updated version.
