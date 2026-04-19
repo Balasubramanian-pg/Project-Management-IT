@@ -1,3 +1,3 @@
-# 71_Creating_stakeholder_map
+# 71 Creating stakeholder map
 
-Initial version.
+Updated version.
