@@ -1,1 +1,1 @@
-print("Running 96_Designing_service_discovery")
+print("Running 96 Designing service discovery")
