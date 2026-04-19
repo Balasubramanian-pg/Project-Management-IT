@@ -1,1 +1,1 @@
-print("Running 292_Managing_purchase_approvals")
+print("Running 292 Managing purchase approvals")
