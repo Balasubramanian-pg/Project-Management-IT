@@ -1,3 +1,3 @@
-# 405_Managing_transactions
+# 405 Managing transactions
 
-Initial version.
+Updated version.
