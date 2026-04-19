@@ -1,3 +1,3 @@
-# 667_Handling_observability
+# 667 Handling observability
 
-Initial version.
+Updated version.
