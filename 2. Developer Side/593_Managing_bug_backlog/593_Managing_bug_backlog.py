@@ -1,1 +1,1 @@
-print("Running 593_Managing_bug_backlog")
+print("Running 593 Managing bug backlog")
