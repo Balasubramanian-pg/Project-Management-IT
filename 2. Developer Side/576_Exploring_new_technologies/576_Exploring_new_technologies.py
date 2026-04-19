@@ -1,1 +1,1 @@
-print("Running 576_Exploring_new_technologies")
+print("Running 576 Exploring new technologies")
