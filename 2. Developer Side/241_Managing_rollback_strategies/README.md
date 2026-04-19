@@ -1,3 +1,3 @@
-# 241_Managing_rollback_strategies
+# 241 Managing rollback strategies
 
-Initial version.
+Updated version.
