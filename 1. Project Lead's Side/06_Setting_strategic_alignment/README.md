@@ -1,3 +1,3 @@
-# 06_Setting_strategic_alignment
+# 06 Setting strategic alignment
 
-Initial version.
+Updated version.
