@@ -1,3 +1,3 @@
-# 643_Using_keyboard_shortcuts
+# 643 Using keyboard shortcuts
 
-Initial version.
+Updated version.
