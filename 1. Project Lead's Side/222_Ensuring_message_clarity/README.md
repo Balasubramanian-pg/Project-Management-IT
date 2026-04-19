@@ -1,3 +1,3 @@
-# 222_Ensuring_message_clarity
+# 222 Ensuring message clarity
 
-Initial version.
+Updated version.
