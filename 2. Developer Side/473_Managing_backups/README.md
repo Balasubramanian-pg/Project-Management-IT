@@ -1,3 +1,3 @@
-# 473_Managing_backups
+# 473 Managing backups
 
-Initial version.
+Updated version.
