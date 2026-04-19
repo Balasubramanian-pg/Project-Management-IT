@@ -1,3 +1,3 @@
-# 621_Becoming_a_senior_developer
+# 621 Becoming a senior developer
 
-Initial version.
+Updated version.
