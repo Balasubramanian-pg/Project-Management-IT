@@ -1,3 +1,3 @@
-# 503_Managing_environment_refreshes
+# 503 Managing environment refreshes
 
-Initial version.
+Updated version.
