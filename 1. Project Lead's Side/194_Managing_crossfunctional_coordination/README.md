@@ -1,3 +1,3 @@
-# 194_Managing_crossfunctional_coordination
+# 194 Managing cross-functional coordination
 
-Initial version.
+Updated version.
