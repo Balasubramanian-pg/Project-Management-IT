@@ -1,3 +1,3 @@
-# 468_Ensuring_working_software_increments
+# 468 Ensuring working software increments
 
-Initial version.
+Updated version.
