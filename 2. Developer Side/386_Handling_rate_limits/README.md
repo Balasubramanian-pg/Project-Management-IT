@@ -1,3 +1,3 @@
-# 386_Handling_rate_limits
+# 386 Handling rate limits
 
-Initial version.
+Updated version.
