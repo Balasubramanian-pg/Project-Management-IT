@@ -1,3 +1,3 @@
-# 334_Contributing_to_open_source
+# 334 Contributing to open source
 
-Initial version.
+Updated version.
