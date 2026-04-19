@@ -1,1 +1,1 @@
-print("Running 736_Building_faulttolerant_systems")
+print("Running 736 Building fault-tolerant systems")
