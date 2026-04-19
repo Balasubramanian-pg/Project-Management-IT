@@ -1,3 +1,3 @@
-# 592_Managing_security_review
+# 592 Managing security review
 
-Initial version.
+Updated version.
