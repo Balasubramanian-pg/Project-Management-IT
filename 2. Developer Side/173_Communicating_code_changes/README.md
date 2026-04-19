@@ -1,3 +1,3 @@
-# 173_Communicating_code_changes
+# 173 Communicating code changes
 
-Initial version.
+Updated version.
