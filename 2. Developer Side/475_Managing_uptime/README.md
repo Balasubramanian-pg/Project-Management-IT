@@ -1,3 +1,3 @@
-# 475_Managing_uptime
+# 475 Managing uptime
 
-Initial version.
+Updated version.
