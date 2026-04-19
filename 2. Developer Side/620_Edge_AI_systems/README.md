@@ -1,3 +1,3 @@
-# 620_Edge_AI_systems
+# 620 Edge AI systems
 
-Initial version.
+Updated version.
