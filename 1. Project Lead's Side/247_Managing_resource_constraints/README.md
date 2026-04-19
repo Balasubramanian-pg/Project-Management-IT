@@ -1,3 +1,3 @@
-# 247_Managing_resource_constraints
+# 247 Managing resource constraints
 
-Initial version.
+Updated version.
