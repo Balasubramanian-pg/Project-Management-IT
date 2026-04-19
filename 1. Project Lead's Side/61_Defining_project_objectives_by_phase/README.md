@@ -1,3 +1,3 @@
-# 61_Defining_project_objectives_by_phase
+# 61 Defining project objectives by phase
 
-Initial version.
+Updated version.
