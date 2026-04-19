@@ -1,1 +1,1 @@
-print("Running 106_Avoiding_code_duplication")
+print("Running 106 Avoiding code duplication")
