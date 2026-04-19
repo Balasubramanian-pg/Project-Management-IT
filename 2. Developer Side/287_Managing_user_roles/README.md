@@ -1,3 +1,3 @@
-# 287_Managing_user_roles
+# 287 Managing user roles
 
-Initial version.
+Updated version.
