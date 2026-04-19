@@ -1,1 +1,1 @@
-print("Running 47_Checking_organizational_capacity")
+print("Running 47 Checking organizational capacity")
