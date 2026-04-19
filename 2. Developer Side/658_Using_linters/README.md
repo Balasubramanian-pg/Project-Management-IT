@@ -1,3 +1,3 @@
-# 658_Using_linters
+# 658 Using linters
 
-Initial version.
+Updated version.
