@@ -1,3 +1,3 @@
-# 588_Managing_breaking_changes
+# 588 Managing breaking changes
 
-Initial version.
+Updated version.
