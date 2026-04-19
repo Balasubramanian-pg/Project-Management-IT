@@ -1,3 +1,3 @@
-# 312_Planning_project_management_effort
+# 312 Planning project management effort
 
-Initial version.
+Updated version.
