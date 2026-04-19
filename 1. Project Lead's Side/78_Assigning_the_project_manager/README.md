@@ -1,3 +1,3 @@
-# 78_Assigning_the_project_manager
+# 78 Assigning the project manager
 
-Initial version.
+Updated version.
