@@ -1,3 +1,3 @@
-# 05_Writing_the_problem_statement
+# 05 Writing the problem statement
 
-Initial version.
+Updated version.
