@@ -1,1 +1,1 @@
-print("Running 193_Aligning_business_and_IT_stakeholders")
+print("Running 193 Aligning business and IT stakeholders")
