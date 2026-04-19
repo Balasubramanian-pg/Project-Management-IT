@@ -1,3 +1,3 @@
-# 503_Using_logs_for_debugging
+# 503 Using logs for debugging
 
-Initial version.
+Updated version.
