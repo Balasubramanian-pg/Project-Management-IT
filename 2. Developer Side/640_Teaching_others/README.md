@@ -1,3 +1,3 @@
-# 640_Teaching_others
+# 640 Teaching others
 
-Initial version.
+Updated version.
