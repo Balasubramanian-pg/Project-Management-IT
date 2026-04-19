@@ -1,3 +1,3 @@
-# 62_Setting_the_project_mandate
+# 62 Setting the project mandate
 
-Initial version.
+Updated version.
