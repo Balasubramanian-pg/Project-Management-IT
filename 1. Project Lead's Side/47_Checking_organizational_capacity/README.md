@@ -1,3 +1,3 @@
-# 47_Checking_organizational_capacity
+# 47 Checking organizational capacity
 
-Initial version.
+Updated version.
