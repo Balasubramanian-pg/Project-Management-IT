@@ -1,3 +1,3 @@
-# 22_Determining_project_feasibility
+# 22 Determining project feasibility
 
-Initial version.
+Updated version.
