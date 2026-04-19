@@ -1,3 +1,3 @@
-# 404_Optimizing_queries
+# 404 Optimizing queries
 
-Initial version.
+Updated version.
