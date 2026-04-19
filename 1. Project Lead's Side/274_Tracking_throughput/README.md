@@ -1,3 +1,3 @@
-# 274_Tracking_throughput
+# 274 Tracking throughput
 
-Initial version.
+Updated version.
