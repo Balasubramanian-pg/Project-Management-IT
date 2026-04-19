@@ -1,3 +1,3 @@
-# 206_Communicating_delivery_progress
+# 206 Communicating delivery progress
 
-Initial version.
+Updated version.
