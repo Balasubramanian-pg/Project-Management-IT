@@ -1,3 +1,3 @@
-# 276_Avoiding_blocking_operations
+# 276 Avoiding blocking operations
 
-Initial version.
+Updated version.
