@@ -1,3 +1,3 @@
-# 554_Optimizing_concurrency_models
+# 554 Optimizing concurrency models
 
-Initial version.
+Updated version.
