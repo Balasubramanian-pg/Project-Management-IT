@@ -1,3 +1,3 @@
-# 502_Managing_test_environments
+# 502 Managing test environments
 
-Initial version.
+Updated version.
