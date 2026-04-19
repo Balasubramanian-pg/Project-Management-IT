@@ -1,3 +1,3 @@
-# 257_Managing_time_zone_differences
+# 257 Managing time zone differences
 
-Initial version.
+Updated version.
