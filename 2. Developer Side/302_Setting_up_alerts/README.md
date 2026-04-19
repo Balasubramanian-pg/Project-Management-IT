@@ -1,3 +1,3 @@
-# 302_Setting_up_alerts
+# 302 Setting up alerts
 
-Initial version.
+Updated version.
