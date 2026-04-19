@@ -1,3 +1,3 @@
-# 626_Managing_pricing_models
+# 626 Managing pricing models
 
-Initial version.
+Updated version.
