@@ -1,3 +1,3 @@
-# 508_Debugging_memory_leaks
+# 508 Debugging memory leaks
 
-Initial version.
+Updated version.
