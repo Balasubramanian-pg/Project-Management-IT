@@ -1,3 +1,3 @@
-# 767_Handling_replication_lag
+# 767 Handling replication lag
 
-Initial version.
+Updated version.
