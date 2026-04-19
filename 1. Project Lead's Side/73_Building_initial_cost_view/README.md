@@ -1,3 +1,3 @@
-# 73_Building_initial_cost_view
+# 73 Building initial cost view
 
-Initial version.
+Updated version.
