@@ -1,3 +1,3 @@
-# 292_Using_HTTPS_properly
+# 292 Using HTTPS properly
 
-Initial version.
+Updated version.
