@@ -1,3 +1,3 @@
-# 718_Improving_rollout_strategies
+# 718 Improving rollout strategies
 
-Initial version.
+Updated version.
