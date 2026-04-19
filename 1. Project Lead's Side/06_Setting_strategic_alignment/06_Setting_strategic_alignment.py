@@ -1,1 +1,1 @@
-print("Running 06_Setting_strategic_alignment")
+print("Running 06 Setting strategic alignment")
