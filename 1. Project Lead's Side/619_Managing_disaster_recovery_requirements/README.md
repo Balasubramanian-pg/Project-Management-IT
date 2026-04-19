@@ -1,3 +1,3 @@
-# 619_Managing_disaster_recovery_requirements
+# 619 Managing disaster recovery requirements
 
-Initial version.
+Updated version.
