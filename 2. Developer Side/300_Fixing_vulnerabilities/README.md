@@ -1,3 +1,3 @@
-# 300_Fixing_vulnerabilities
+# 300 Fixing vulnerabilities
 
-Initial version.
+Updated version.
