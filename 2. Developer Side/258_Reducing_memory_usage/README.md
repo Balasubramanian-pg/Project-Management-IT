@@ -1,3 +1,3 @@
-# 258_Reducing_memory_usage
+# 258 Reducing memory usage
 
-Initial version.
+Updated version.
