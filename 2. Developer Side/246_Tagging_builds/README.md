@@ -1,3 +1,3 @@
-# 246_Tagging_builds
+# 246 Tagging builds
 
-Initial version.
+Updated version.
