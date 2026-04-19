@@ -1,3 +1,3 @@
-# 66_Designing_fault_tolerance
+# 66 Designing fault tolerance
 
-Initial version.
+Updated version.
