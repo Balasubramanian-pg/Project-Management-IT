@@ -1,3 +1,3 @@
-# 719_Improving_rollback_strategies
+# 719 Improving rollback strategies
 
-Initial version.
+Updated version.
