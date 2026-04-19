@@ -1,3 +1,3 @@
-# 322_Categorizing_risks
+# 322 Categorizing risks
 
-Initial version.
+Updated version.
