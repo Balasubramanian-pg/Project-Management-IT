@@ -1,3 +1,3 @@
-# 04_Identifying_ambiguous_requirements
+# 04 Identifying ambiguous requirements
 
-Initial version.
+Updated version.
