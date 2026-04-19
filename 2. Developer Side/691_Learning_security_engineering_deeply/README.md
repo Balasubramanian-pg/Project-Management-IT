@@ -1,3 +1,3 @@
-# 691_Learning_security_engineering_deeply
+# 691 Learning security engineering deeply
 
-Initial version.
+Updated version.
