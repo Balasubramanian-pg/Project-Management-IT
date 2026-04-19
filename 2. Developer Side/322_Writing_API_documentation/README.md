@@ -1,3 +1,3 @@
-# 322_Writing_API_documentation
+# 322 Writing API documentation
 
-Initial version.
+Updated version.
