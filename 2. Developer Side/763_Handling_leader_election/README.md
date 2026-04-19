@@ -1,3 +1,3 @@
-# 763_Handling_leader_election
+# 763 Handling leader election
 
-Initial version.
+Updated version.
