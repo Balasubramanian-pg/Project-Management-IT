@@ -1,3 +1,3 @@
-# 702_Maintaining_SLOs
+# 702 Maintaining SLOs
 
-Initial version.
+Updated version.
