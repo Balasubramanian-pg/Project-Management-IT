@@ -1,3 +1,3 @@
-# 210_Building_trust_with_stakeholders
+# 210 Building trust with stakeholders
 
-Initial version.
+Updated version.
