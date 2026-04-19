@@ -1,3 +1,3 @@
-# 142_Creating_RACI_matrix
+# 142 Creating RACI matrix
 
-Initial version.
+Updated version.
