@@ -1,3 +1,3 @@
-# 46_Aligning_with_portfolio_strategy
+# 46 Aligning with portfolio strategy
 
-Initial version.
+Updated version.
