@@ -1,3 +1,3 @@
-# 326_Maintaining_knowledge_base
+# 326 Maintaining knowledge base
 
-Initial version.
+Updated version.
