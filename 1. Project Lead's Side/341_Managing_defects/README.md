@@ -1,3 +1,3 @@
-# 341_Managing_defects
+# 341 Managing defects
 
-Initial version.
+Updated version.
