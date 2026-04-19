@@ -1,3 +1,3 @@
-# 498_Managing_defect_priority
+# 498 Managing defect priority
 
-Initial version.
+Updated version.
