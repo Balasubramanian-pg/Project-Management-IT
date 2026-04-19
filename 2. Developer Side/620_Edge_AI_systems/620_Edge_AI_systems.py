@@ -1,1 +1,1 @@
-print("Running 620_Edge_AI_systems")
+print("Running 620 Edge AI systems")
