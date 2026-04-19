@@ -1,3 +1,3 @@
-# 529_Implementing_circuit_breakers
+# 529 Implementing circuit breakers
 
-Initial version.
+Updated version.
