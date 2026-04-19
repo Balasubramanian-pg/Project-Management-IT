@@ -1,3 +1,3 @@
-# 392_Testing_API_endpoints
+# 392 Testing API endpoints
 
-Initial version.
+Updated version.
