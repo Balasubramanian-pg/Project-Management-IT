@@ -1,3 +1,3 @@
-# 347_Estimating_change_schedule_impact
+# 347 Estimating change schedule impact
 
-Initial version.
+Updated version.
