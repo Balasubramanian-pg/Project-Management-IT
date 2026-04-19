@@ -1,3 +1,3 @@
-# 334_Logging_issues_promptly
+# 334 Logging issues promptly
 
-Initial version.
+Updated version.
