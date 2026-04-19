@@ -1,3 +1,3 @@
-# 33_Selecting_project_type
+# 33 Selecting project type
 
-Initial version.
+Updated version.
