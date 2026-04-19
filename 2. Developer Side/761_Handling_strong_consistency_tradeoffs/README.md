@@ -1,3 +1,3 @@
-# 761_Handling_strong_consistency_tradeoffs
+# 761 Handling strong consistency tradeoffs
 
-Initial version.
+Updated version.
