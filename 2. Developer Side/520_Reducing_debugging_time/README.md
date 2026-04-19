@@ -1,3 +1,3 @@
-# 520_Reducing_debugging_time
+# 520 Reducing debugging time
 
-Initial version.
+Updated version.
