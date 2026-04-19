@@ -1,3 +1,3 @@
-# 423_Managing_integration_work
+# 423 Managing integration work
 
-Initial version.
+Updated version.
