@@ -1,3 +1,3 @@
-# 109_Writing_efficient_algorithms
+# 109 Writing efficient algorithms
 
-Initial version.
+Updated version.
