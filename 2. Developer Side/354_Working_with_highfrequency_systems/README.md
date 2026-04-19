@@ -1,3 +1,3 @@
-# 354_Working_with_highfrequency_systems
+# 354 Working with high-frequency systems
 
-Initial version.
+Updated version.
