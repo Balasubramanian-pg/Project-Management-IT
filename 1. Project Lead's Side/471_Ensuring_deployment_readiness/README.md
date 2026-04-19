@@ -1,3 +1,3 @@
-# 471_Ensuring_deployment_readiness
+# 471 Ensuring deployment readiness
 
-Initial version.
+Updated version.
