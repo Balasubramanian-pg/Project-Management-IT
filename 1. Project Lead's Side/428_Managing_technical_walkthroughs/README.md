@@ -1,3 +1,3 @@
-# 428_Managing_technical_walkthroughs
+# 428 Managing technical walkthroughs
 
-Initial version.
+Updated version.
