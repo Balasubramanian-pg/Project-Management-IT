@@ -1,3 +1,3 @@
-# 26_Defining_project_scope_at_a_high_level
+# 26 Defining project scope at a high level
 
-Initial version.
+Updated version.
