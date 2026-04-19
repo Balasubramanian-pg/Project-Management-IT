@@ -1,3 +1,3 @@
-# 246_Balancing_team_workload
+# 246 Balancing team workload
 
-Initial version.
+Updated version.
