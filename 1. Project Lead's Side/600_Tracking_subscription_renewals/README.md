@@ -1,3 +1,3 @@
-# 600_Tracking_subscription_renewals
+# 600 Tracking subscription renewals
 
-Initial version.
+Updated version.
