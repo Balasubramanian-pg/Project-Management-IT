@@ -1,3 +1,3 @@
-# 268_Using_CDNs
+# 268 Using CDNs
 
-Initial version.
+Updated version.
