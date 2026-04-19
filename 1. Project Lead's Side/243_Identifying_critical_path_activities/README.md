@@ -1,3 +1,3 @@
-# 243_Identifying_critical_path_activities
+# 243 Identifying critical path activities
 
-Initial version.
+Updated version.
