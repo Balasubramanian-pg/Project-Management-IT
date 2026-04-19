@@ -1,3 +1,3 @@
-# 685_Learning_cloudnative_systems
+# 685 Learning cloud-native systems
 
-Initial version.
+Updated version.
