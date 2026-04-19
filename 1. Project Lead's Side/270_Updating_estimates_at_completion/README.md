@@ -1,3 +1,3 @@
-# 270_Updating_estimates_at_completion
+# 270 Updating estimates at completion
 
-Initial version.
+Updated version.
