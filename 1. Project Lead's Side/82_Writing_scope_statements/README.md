@@ -1,3 +1,3 @@
-# 82_Writing_scope_statements
+# 82 Writing scope statements
 
-Initial version.
+Updated version.
