@@ -1,3 +1,3 @@
-# 25_Mapping_business_rules_to_code_logic
+# 25 Mapping business rules to code logic
 
-Initial version.
+Updated version.
