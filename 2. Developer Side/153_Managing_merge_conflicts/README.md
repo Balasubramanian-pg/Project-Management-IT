@@ -1,3 +1,3 @@
-# 153_Managing_merge_conflicts
+# 153 Managing merge conflicts
 
-Initial version.
+Updated version.
