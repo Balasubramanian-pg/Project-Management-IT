@@ -1,3 +1,3 @@
-# 485_Planning_integration_testing
+# 485 Planning integration testing
 
-Initial version.
+Updated version.
