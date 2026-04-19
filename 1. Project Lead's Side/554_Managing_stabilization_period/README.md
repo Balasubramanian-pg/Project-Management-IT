@@ -1,3 +1,3 @@
-# 554_Managing_stabilization_period
+# 554 Managing stabilization period
 
-Initial version.
+Updated version.
