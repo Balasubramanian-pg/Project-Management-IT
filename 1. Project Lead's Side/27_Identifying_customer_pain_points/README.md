@@ -1,3 +1,3 @@
-# 27_Identifying_customer_pain_points
+# 27 Identifying customer pain points
 
-Initial version.
+Updated version.
