@@ -1,1 +1,1 @@
-print("Running 403_Writing_SQL_queries")
+print("Running 403 Writing SQL queries")
