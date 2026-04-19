@@ -1,3 +1,3 @@
-# 477_Managing_performance_issues
+# 477 Managing performance issues
 
-Initial version.
+Updated version.
