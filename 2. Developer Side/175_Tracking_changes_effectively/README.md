@@ -1,3 +1,3 @@
-# 175_Tracking_changes_effectively
+# 175 Tracking changes effectively
 
-Initial version.
+Updated version.
