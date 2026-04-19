@@ -1,3 +1,3 @@
-# 445_Handling_authentication
+# 445 Handling authentication
 
-Initial version.
+Updated version.
