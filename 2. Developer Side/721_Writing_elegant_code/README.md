@@ -1,3 +1,3 @@
-# 721_Writing_elegant_code
+# 721 Writing elegant code
 
-Initial version.
+Updated version.
