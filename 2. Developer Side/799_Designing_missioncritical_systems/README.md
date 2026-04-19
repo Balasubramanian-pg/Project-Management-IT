@@ -1,3 +1,3 @@
-# 799_Designing_missioncritical_systems
+# 799 Designing mission-critical systems
 
-Initial version.
+Updated version.
