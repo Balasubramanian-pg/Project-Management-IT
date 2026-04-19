@@ -1,3 +1,3 @@
-# 475_Ensuring_visible_progress
+# 475 Ensuring visible progress
 
-Initial version.
+Updated version.
