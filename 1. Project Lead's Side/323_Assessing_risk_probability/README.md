@@ -1,3 +1,3 @@
-# 323_Assessing_risk_probability
+# 323 Assessing risk probability
 
-Initial version.
+Updated version.
