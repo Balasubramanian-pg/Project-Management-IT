@@ -1,1 +1,1 @@
-print("Running 88_Sequencing_project_activities")
+print("Running 88 Sequencing project activities")
