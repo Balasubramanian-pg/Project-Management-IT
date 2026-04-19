@@ -1,1 +1,1 @@
-print("Running 592_Managing_releases")
+print("Running 592 Managing releases")
