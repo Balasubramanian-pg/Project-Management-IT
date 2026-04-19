@@ -1,3 +1,3 @@
-# 261_Offboarding_project_resources
+# 261 Offboarding project resources
 
-Initial version.
+Updated version.
