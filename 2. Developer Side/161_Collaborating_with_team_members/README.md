@@ -1,3 +1,3 @@
-# 161_Collaborating_with_team_members
+# 161 Collaborating with team members
 
-Initial version.
+Updated version.
