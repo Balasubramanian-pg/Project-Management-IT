@@ -1,3 +1,3 @@
-# 217_Managing_governance_artifacts
+# 217 Managing governance artifacts
 
-Initial version.
+Updated version.
