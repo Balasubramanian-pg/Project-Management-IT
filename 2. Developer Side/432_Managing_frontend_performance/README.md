@@ -1,3 +1,3 @@
-# 432_Managing_frontend_performance
+# 432 Managing frontend performance
 
-Initial version.
+Updated version.
