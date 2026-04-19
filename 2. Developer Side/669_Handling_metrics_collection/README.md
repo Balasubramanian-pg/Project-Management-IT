@@ -1,3 +1,3 @@
-# 669_Handling_metrics_collection
+# 669 Handling metrics collection
 
-Initial version.
+Updated version.
