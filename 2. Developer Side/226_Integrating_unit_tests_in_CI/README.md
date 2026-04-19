@@ -1,3 +1,3 @@
-# 226_Integrating_unit_tests_in_CI
+# 226 Integrating unit tests in CI
 
-Initial version.
+Updated version.
