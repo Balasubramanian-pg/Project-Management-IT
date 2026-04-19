@@ -1,3 +1,3 @@
-# 371_Maintaining_issue_resolution_SLAs
+# 371 Maintaining issue resolution SLAs
 
-Initial version.
+Updated version.
