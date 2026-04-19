@@ -1,3 +1,3 @@
-# 223_Ensuring_communication_relevance
+# 223 Ensuring communication relevance
 
-Initial version.
+Updated version.
