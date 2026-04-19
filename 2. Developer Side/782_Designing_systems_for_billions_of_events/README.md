@@ -1,3 +1,3 @@
-# 782_Designing_systems_for_billions_of_events
+# 782 Designing systems for billions of events
 
-Initial version.
+Updated version.
