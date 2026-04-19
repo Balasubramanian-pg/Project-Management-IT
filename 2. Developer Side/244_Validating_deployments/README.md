@@ -1,3 +1,3 @@
-# 244_Validating_deployments
+# 244 Validating deployments
 
-Initial version.
+Updated version.
