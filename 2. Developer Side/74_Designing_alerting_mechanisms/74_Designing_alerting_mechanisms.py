@@ -1,1 +1,1 @@
-print("Running 74_Designing_alerting_mechanisms")
+print("Running 74 Designing alerting mechanisms")
