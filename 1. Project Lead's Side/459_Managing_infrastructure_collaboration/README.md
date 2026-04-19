@@ -1,3 +1,3 @@
-# 459_Managing_infrastructure_collaboration
+# 459 Managing infrastructure collaboration
 
-Initial version.
+Updated version.
