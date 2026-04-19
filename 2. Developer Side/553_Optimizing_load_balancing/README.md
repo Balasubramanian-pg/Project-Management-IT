@@ -1,3 +1,3 @@
-# 553_Optimizing_load_balancing
+# 553 Optimizing load balancing
 
-Initial version.
+Updated version.
