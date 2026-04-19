@@ -1,3 +1,3 @@
-# 634_Developing_expertise
+# 634 Developing expertise
 
-Initial version.
+Updated version.
