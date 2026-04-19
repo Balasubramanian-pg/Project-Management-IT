@@ -1,3 +1,3 @@
-# 19_Identifying_integration_points
+# 19 Identifying integration points
 
-Initial version.
+Updated version.
