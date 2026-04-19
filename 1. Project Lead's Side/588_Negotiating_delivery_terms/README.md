@@ -1,3 +1,3 @@
-# 588_Negotiating_delivery_terms
+# 588 Negotiating delivery terms
 
-Initial version.
+Updated version.
