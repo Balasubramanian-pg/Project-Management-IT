@@ -1,3 +1,3 @@
-# 656_Syncing_environments_with_production
+# 656 Syncing environments with production
 
-Initial version.
+Updated version.
