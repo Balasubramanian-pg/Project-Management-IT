@@ -1,1 +1,1 @@
-print("Running 72_Designing_logging_architecture")
+print("Running 72 Designing logging architecture")
