@@ -1,3 +1,3 @@
-# 778_Handling_extreme_load_scenarios
+# 778 Handling extreme load scenarios
 
-Initial version.
+Updated version.
