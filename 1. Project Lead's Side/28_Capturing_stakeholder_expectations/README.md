@@ -1,3 +1,3 @@
-# 28_Capturing_stakeholder_expectations
+# 28 Capturing stakeholder expectations
 
-Initial version.
+Updated version.
