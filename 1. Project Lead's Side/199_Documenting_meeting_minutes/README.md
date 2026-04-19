@@ -1,3 +1,3 @@
-# 199_Documenting_meeting_minutes
+# 199 Documenting meeting minutes
 
-Initial version.
+Updated version.
