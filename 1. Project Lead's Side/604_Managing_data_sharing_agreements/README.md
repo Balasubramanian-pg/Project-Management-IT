@@ -1,3 +1,3 @@
-# 604_Managing_data_sharing_agreements
+# 604 Managing data sharing agreements
 
-Initial version.
+Updated version.
