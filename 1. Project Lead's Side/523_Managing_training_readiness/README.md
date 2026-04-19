@@ -1,3 +1,3 @@
-# 523_Managing_training_readiness
+# 523 Managing training readiness
 
-Initial version.
+Updated version.
