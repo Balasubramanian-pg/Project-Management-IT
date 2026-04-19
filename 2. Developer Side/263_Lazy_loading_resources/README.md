@@ -1,3 +1,3 @@
-# 263_Lazy_loading_resources
+# 263 Lazy loading resources
 
-Initial version.
+Updated version.
