@@ -1,3 +1,3 @@
-# 16_Reviewing_UI_specifications
+# 16 Reviewing UI specifications
 
-Initial version.
+Updated version.
