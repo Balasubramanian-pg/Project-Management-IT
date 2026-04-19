@@ -1,3 +1,3 @@
-# 146_Defining_naming_conventions
+# 146 Defining naming conventions
 
-Initial version.
+Updated version.
