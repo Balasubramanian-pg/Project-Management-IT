@@ -1,3 +1,3 @@
-# 336_Classifying_issue_urgency
+# 336 Classifying issue urgency
 
-Initial version.
+Updated version.
