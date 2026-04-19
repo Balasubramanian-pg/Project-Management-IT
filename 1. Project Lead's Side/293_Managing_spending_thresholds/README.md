@@ -1,3 +1,3 @@
-# 293_Managing_spending_thresholds
+# 293 Managing spending thresholds
 
-Initial version.
+Updated version.
