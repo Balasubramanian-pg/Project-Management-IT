@@ -1,3 +1,3 @@
-# 24_Understanding_domain_logic
+# 24 Understanding domain logic
 
-Initial version.
+Updated version.
