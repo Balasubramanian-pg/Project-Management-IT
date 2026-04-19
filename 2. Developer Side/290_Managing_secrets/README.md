@@ -1,3 +1,3 @@
-# 290_Managing_secrets
+# 290 Managing secrets
 
-Initial version.
+Updated version.
