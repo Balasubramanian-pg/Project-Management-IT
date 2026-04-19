@@ -1,3 +1,3 @@
-# 282_Negotiating_resource_tradeoffs
+# 282 Negotiating resource tradeoffs
 
-Initial version.
+Updated version.
