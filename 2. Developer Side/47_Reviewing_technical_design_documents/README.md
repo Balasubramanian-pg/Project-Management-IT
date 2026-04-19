@@ -1,3 +1,3 @@
-# 47_Reviewing_technical_design_documents
+# 47 Reviewing technical design documents
 
-Initial version.
+Updated version.
