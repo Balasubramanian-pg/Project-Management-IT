@@ -1,3 +1,3 @@
-# 397_Managing_defect_backlog
+# 397 Managing defect backlog
 
-Initial version.
+Updated version.
