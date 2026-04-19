@@ -1,3 +1,3 @@
-# 487_Collaborating_with_PMs
+# 487 Collaborating with PMs
 
-Initial version.
+Updated version.
