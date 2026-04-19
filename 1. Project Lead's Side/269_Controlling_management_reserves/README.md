@@ -1,3 +1,3 @@
-# 269_Controlling_management_reserves
+# 269 Controlling management reserves
 
-Initial version.
+Updated version.
