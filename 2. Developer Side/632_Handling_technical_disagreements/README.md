@@ -1,3 +1,3 @@
-# 632_Handling_technical_disagreements
+# 632 Handling technical disagreements
 
-Initial version.
+Updated version.
