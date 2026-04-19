@@ -1,3 +1,3 @@
-# 569_Improving_onboarding
+# 569 Improving onboarding
 
-Initial version.
+Updated version.
