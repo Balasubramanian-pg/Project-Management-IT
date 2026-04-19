@@ -1,3 +1,3 @@
-# 722_Writing_simple_solutions
+# 722 Writing simple solutions
 
-Initial version.
+Updated version.
