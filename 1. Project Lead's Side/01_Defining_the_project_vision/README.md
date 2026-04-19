@@ -1,3 +1,3 @@
-# 01_Defining_the_project_vision
+# 01 Defining the project vision
 
-Initial version.
+Updated version.
