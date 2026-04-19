@@ -1,3 +1,3 @@
-# 428_Managing_CSS_styles
+# 428 Managing CSS styles
 
-Initial version.
+Updated version.
