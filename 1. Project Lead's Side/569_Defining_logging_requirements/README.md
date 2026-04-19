@@ -1,3 +1,3 @@
-# 569_Defining_logging_requirements
+# 569 Defining logging requirements
 
-Initial version.
+Updated version.
