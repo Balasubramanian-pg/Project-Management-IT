@@ -1,3 +1,3 @@
-# 391_Validating_API_responses
+# 391 Validating API responses
 
-Initial version.
+Updated version.
