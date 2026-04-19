@@ -1,3 +1,3 @@
-# 680_Handling_reliability
+# 680 Handling reliability
 
-Initial version.
+Updated version.
