@@ -1,3 +1,3 @@
-# 189_Managing_distributed_teams
+# 189 Managing distributed teams
 
-Initial version.
+Updated version.
