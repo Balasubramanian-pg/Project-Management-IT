@@ -1,3 +1,3 @@
-# 430_Managing_detailed_design
+# 430 Managing detailed design
 
-Initial version.
+Updated version.
