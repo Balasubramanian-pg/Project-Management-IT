@@ -1,3 +1,3 @@
-# 621_Managing_vendor_service_quality
+# 621 Managing vendor service quality
 
-Initial version.
+Updated version.
