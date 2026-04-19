@@ -1,3 +1,3 @@
-# 479_Managing_course_corrections
+# 479 Managing course corrections
 
-Initial version.
+Updated version.
