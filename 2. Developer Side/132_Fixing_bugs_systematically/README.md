@@ -1,3 +1,3 @@
-# 132_Fixing_bugs_systematically
+# 132 Fixing bugs systematically
 
-Initial version.
+Updated version.
