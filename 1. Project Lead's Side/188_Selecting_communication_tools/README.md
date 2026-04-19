@@ -1,3 +1,3 @@
-# 188_Selecting_communication_tools
+# 188 Selecting communication tools
 
-Initial version.
+Updated version.
