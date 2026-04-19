@@ -1,3 +1,3 @@
-# 504_Managing_test_data
+# 504 Managing test data
 
-Initial version.
+Updated version.
