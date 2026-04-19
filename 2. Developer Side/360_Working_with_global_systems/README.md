@@ -1,3 +1,3 @@
-# 360_Working_with_global_systems
+# 360 Working with global systems
 
-Initial version.
+Updated version.
