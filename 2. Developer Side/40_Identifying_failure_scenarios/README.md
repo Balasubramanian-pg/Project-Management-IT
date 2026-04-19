@@ -1,3 +1,3 @@
-# 40_Identifying_failure_scenarios
+# 40 Identifying failure scenarios
 
-Initial version.
+Updated version.
