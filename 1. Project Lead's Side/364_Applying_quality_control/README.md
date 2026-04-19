@@ -1,3 +1,3 @@
-# 364_Applying_quality_control
+# 364 Applying quality control
 
-Initial version.
+Updated version.
