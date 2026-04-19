@@ -1,3 +1,3 @@
-# 107_Writing_reusable_components
+# 107 Writing reusable components
 
-Initial version.
+Updated version.
