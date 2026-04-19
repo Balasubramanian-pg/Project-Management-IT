@@ -1,3 +1,3 @@
-# 797_Designing_constrained_systems
+# 797 Designing constrained systems
 
-Initial version.
+Updated version.
