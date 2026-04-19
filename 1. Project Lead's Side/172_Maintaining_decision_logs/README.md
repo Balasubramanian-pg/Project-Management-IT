@@ -1,3 +1,3 @@
-# 172_Maintaining_decision_logs
+# 172 Maintaining decision logs
 
-Initial version.
+Updated version.
