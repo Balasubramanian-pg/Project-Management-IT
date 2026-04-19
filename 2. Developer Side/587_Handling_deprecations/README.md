@@ -1,3 +1,3 @@
-# 587_Handling_deprecations
+# 587 Handling deprecations
 
-Initial version.
+Updated version.
