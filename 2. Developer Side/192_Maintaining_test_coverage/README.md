@@ -1,3 +1,3 @@
-# 192_Maintaining_test_coverage
+# 192 Maintaining test coverage
 
-Initial version.
+Updated version.
