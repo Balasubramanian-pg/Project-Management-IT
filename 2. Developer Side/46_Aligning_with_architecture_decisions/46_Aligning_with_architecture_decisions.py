@@ -1,1 +1,1 @@
-print("Running 46_Aligning_with_architecture_decisions")
+print("Running 46 Aligning with architecture decisions")
