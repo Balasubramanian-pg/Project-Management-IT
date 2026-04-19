@@ -1,3 +1,3 @@
-# 234_Managing_stakeholder_offboarding
+# 234 Managing stakeholder offboarding
 
-Initial version.
+Updated version.
