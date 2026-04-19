@@ -1,3 +1,3 @@
-# 461_Managing_cloud_infrastructure
+# 461 Managing cloud infrastructure
 
-Initial version.
+Updated version.
