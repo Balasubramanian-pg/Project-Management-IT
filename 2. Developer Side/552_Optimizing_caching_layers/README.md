@@ -1,3 +1,3 @@
-# 552_Optimizing_caching_layers
+# 552 Optimizing caching layers
 
-Initial version.
+Updated version.
