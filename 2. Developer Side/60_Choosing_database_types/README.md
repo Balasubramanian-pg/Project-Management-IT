@@ -1,3 +1,3 @@
-# 60_Choosing_database_types
+# 60 Choosing database types
 
-Initial version.
+Updated version.
