@@ -1,1 +1,1 @@
-print("Running 387_Checking_detective_controls")
+print("Running 387 Checking detective controls")
