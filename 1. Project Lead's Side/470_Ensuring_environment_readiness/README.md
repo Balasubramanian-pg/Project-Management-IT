@@ -1,3 +1,3 @@
-# 470_Ensuring_environment_readiness
+# 470 Ensuring environment readiness
 
-Initial version.
+Updated version.
