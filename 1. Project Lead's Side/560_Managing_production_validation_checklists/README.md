@@ -1,3 +1,3 @@
-# 560_Managing_production_validation_checklists
+# 560 Managing production validation checklists
 
-Initial version.
+Updated version.
