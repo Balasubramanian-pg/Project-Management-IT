@@ -1,3 +1,3 @@
-# 418_Managing_development_sprints
+# 418 Managing development sprints
 
-Initial version.
+Updated version.
