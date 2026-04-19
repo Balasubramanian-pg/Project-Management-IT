@@ -1,3 +1,3 @@
-# 249_Maintaining_pipeline_stability
+# 249 Maintaining pipeline stability
 
-Initial version.
+Updated version.
