@@ -1,3 +1,3 @@
-# 794_Designing_longlived_systems
+# 794 Designing long-lived systems
 
-Initial version.
+Updated version.
