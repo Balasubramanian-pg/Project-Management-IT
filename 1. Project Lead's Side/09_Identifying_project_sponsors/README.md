@@ -1,3 +1,3 @@
-# 09_Identifying_project_sponsors
+# 09 Identifying project sponsors
 
-Initial version.
+Updated version.
