@@ -1,3 +1,3 @@
-# 303_Logging_errors_effectively
+# 303 Logging errors effectively
 
-Initial version.
+Updated version.
