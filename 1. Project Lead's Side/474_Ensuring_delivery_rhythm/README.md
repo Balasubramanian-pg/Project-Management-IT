@@ -1,3 +1,3 @@
-# 474_Ensuring_delivery_rhythm
+# 474 Ensuring delivery rhythm
 
-Initial version.
+Updated version.
