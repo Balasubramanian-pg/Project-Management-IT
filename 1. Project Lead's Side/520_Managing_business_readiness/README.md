@@ -1,3 +1,3 @@
-# 520_Managing_business_readiness
+# 520 Managing business readiness
 
-Initial version.
+Updated version.
