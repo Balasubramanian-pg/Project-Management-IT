@@ -1,3 +1,3 @@
-# 606_Managing_background_checks
+# 606 Managing background checks
 
-Initial version.
+Updated version.
