@@ -1,1 +1,1 @@
-print("Running 86_Designing_indexing_strategies")
+print("Running 86 Designing indexing strategies")
