@@ -1,3 +1,3 @@
-# 525_Implementing_redundancy
+# 525 Implementing redundancy
 
-Initial version.
+Updated version.
