@@ -1,3 +1,3 @@
-# 188_Writing_security_tests
+# 188 Writing security tests
 
-Initial version.
+Updated version.
