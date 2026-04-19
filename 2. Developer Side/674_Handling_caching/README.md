@@ -1,3 +1,3 @@
-# 674_Handling_caching
+# 674 Handling caching
 
-Initial version.
+Updated version.
