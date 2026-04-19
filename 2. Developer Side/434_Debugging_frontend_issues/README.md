@@ -1,3 +1,3 @@
-# 434_Debugging_frontend_issues
+# 434 Debugging frontend issues
 
-Initial version.
+Updated version.
