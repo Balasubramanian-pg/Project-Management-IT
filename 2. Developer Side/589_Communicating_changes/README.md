@@ -1,3 +1,3 @@
-# 589_Communicating_changes
+# 589 Communicating changes
 
-Initial version.
+Updated version.
