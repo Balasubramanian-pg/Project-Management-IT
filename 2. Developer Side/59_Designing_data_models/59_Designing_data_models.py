@@ -1,1 +1,1 @@
-print("Running 59_Designing_data_models")
+print("Running 59 Designing data models")
