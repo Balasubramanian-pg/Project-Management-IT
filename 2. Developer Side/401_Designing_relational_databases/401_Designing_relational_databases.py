@@ -1,1 +1,1 @@
-print("Running 401_Designing_relational_databases")
+print("Running 401 Designing relational databases")
