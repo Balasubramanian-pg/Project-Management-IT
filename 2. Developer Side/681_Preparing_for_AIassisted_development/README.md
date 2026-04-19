@@ -1,0 +1,3 @@
+# 681_Preparing_for_AIassisted_development
+
+Initial version.
