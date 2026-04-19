@@ -1,3 +1,3 @@
-# 284_Preventing_CSRF_attacks
+# 284 Preventing CSRF attacks
 
-Initial version.
+Updated version.
