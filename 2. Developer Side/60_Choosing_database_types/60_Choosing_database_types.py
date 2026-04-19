@@ -1,1 +1,1 @@
-print("Running 60_Choosing_database_types")
+print("Running 60 Choosing database types")
