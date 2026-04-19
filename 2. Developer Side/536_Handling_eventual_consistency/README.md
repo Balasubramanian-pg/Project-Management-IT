@@ -1,3 +1,3 @@
-# 536_Handling_eventual_consistency
+# 536 Handling eventual consistency
 
-Initial version.
+Updated version.
