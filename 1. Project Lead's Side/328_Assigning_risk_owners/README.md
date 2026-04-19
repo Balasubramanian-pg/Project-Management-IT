@@ -1,3 +1,3 @@
-# 328_Assigning_risk_owners
+# 328 Assigning risk owners
 
-Initial version.
+Updated version.
