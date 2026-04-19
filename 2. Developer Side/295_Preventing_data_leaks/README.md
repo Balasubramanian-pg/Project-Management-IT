@@ -1,3 +1,3 @@
-# 295_Preventing_data_leaks
+# 295 Preventing data leaks
 
-Initial version.
+Updated version.
