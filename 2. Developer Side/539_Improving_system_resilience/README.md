@@ -1,3 +1,3 @@
-# 539_Improving_system_resilience
+# 539 Improving system resilience
 
-Initial version.
+Updated version.
