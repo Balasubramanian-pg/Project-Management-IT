@@ -1,1 +1,1 @@
-print("Running 574_Running_architecture_reviews")
+print("Running 574 Running architecture reviews")
