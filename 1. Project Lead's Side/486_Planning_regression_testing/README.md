@@ -1,3 +1,3 @@
-# 486_Planning_regression_testing
+# 486 Planning regression testing
 
-Initial version.
+Updated version.
