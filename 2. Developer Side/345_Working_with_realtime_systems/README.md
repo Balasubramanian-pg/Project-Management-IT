@@ -1,3 +1,3 @@
-# 345_Working_with_realtime_systems
+# 345 Working with real-time systems
 
-Initial version.
+Updated version.
