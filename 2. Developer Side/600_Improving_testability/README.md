@@ -1,3 +1,3 @@
-# 600_Improving_testability
+# 600 Improving testability
 
-Initial version.
+Updated version.
