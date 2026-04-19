@@ -1,3 +1,3 @@
-# 502_Isolating_root_causes
+# 502 Isolating root causes
 
-Initial version.
+Updated version.
