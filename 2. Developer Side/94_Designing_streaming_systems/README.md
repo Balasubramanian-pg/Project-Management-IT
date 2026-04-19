@@ -1,3 +1,3 @@
-# 94_Designing_streaming_systems
+# 94 Designing streaming systems
 
-Initial version.
+Updated version.
