@@ -1,3 +1,3 @@
-# 690_Learning_performance_engineering_deeply
+# 690 Learning performance engineering deeply
 
-Initial version.
+Updated version.
