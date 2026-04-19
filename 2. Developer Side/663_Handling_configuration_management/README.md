@@ -1,3 +1,3 @@
-# 663_Handling_configuration_management
+# 663 Handling configuration management
 
-Initial version.
+Updated version.
