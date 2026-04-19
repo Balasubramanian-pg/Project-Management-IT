@@ -1,3 +1,3 @@
-# 147_Following_KISS_principles
+# 147 Following KISS principles
 
-Initial version.
+Updated version.
