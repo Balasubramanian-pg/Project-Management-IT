@@ -1,3 +1,3 @@
-# 170_Managing_feature_toggles
+# 170 Managing feature toggles
 
-Initial version.
+Updated version.
