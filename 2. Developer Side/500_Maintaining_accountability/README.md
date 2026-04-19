@@ -1,3 +1,3 @@
-# 500_Maintaining_accountability
+# 500 Maintaining accountability
 
-Initial version.
+Updated version.
