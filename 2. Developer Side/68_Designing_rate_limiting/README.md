@@ -1,3 +1,3 @@
-# 68_Designing_rate_limiting
+# 68 Designing rate limiting
 
-Initial version.
+Updated version.
