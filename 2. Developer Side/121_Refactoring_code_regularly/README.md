@@ -1,3 +1,3 @@
-# 121_Refactoring_code_regularly
+# 121 Refactoring code regularly
 
-Initial version.
+Updated version.
