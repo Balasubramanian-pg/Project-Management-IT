@@ -1,3 +1,3 @@
-# 154_Rewriting_commit_history
+# 154 Rewriting commit history
 
-Initial version.
+Updated version.
