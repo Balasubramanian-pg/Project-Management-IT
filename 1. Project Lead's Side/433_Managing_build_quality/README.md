@@ -1,3 +1,3 @@
-# 433_Managing_build_quality
+# 433 Managing build quality
 
-Initial version.
+Updated version.
