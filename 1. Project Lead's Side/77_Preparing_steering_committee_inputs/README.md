@@ -1,3 +1,3 @@
-# 77_Preparing_steering_committee_inputs
+# 77 Preparing steering committee inputs
 
-Initial version.
+Updated version.
