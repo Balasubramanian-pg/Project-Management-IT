@@ -1,3 +1,3 @@
-# 275_Improving_responsiveness
+# 275 Improving responsiveness
 
-Initial version.
+Updated version.
