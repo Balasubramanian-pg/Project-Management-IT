@@ -1,3 +1,3 @@
-# 403_Writing_SQL_queries
+# 403 Writing SQL queries
 
-Initial version.
+Updated version.
