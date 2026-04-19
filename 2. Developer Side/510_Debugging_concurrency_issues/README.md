@@ -1,3 +1,3 @@
-# 510_Debugging_concurrency_issues
+# 510 Debugging concurrency issues
 
-Initial version.
+Updated version.
