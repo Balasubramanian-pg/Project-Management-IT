@@ -1,3 +1,3 @@
-# 777_Handling_scaling_limits
+# 777 Handling scaling limits
 
-Initial version.
+Updated version.
