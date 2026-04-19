@@ -1,3 +1,3 @@
-# 244_Estimating_effort_accurately
+# 244 Estimating effort accurately
 
-Initial version.
+Updated version.
