@@ -1,3 +1,3 @@
-# 710_Reducing_noise_in_alerts
+# 710 Reducing noise in alerts
 
-Initial version.
+Updated version.
