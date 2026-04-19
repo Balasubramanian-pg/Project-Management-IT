@@ -1,3 +1,3 @@
-# 147_Defining_document_standards
+# 147 Defining document standards
 
-Initial version.
+Updated version.
