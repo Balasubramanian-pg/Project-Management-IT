@@ -1,3 +1,3 @@
-# 110_Documenting_constraints_in_planning
+# 110 Documenting constraints in planning
 
-Initial version.
+Updated version.
