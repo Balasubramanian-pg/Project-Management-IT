@@ -1,3 +1,3 @@
-# 528_Implementing_retries
+# 528 Implementing retries
 
-Initial version.
+Updated version.
