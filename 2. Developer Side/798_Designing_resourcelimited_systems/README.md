@@ -1,3 +1,3 @@
-# 798_Designing_resourcelimited_systems
+# 798 Designing resource-limited systems
 
-Initial version.
+Updated version.
