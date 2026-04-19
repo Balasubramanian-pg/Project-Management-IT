@@ -1,3 +1,3 @@
-# 198_Running_checkpoint_reviews
+# 198 Running checkpoint reviews
 
-Initial version.
+Updated version.
