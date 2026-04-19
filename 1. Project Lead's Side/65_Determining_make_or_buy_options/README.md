@@ -1,3 +1,3 @@
-# 65_Determining_make_or_buy_options
+# 65 Determining make or buy options
 
-Initial version.
+Updated version.
