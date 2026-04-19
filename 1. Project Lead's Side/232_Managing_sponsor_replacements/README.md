@@ -1,3 +1,3 @@
-# 232_Managing_sponsor_replacements
+# 232 Managing sponsor replacements
 
-Initial version.
+Updated version.
