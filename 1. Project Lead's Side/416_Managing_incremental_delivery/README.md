@@ -1,3 +1,3 @@
-# 416_Managing_incremental_delivery
+# 416 Managing incremental delivery
 
-Initial version.
+Updated version.
