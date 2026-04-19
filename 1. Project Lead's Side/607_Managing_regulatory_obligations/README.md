@@ -1,3 +1,3 @@
-# 607_Managing_regulatory_obligations
+# 607 Managing regulatory obligations
 
-Initial version.
+Updated version.
