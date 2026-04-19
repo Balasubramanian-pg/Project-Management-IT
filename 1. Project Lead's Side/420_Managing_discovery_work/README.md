@@ -1,3 +1,3 @@
-# 420_Managing_discovery_work
+# 420 Managing discovery work
 
-Initial version.
+Updated version.
