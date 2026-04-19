@@ -1,3 +1,3 @@
-# 242_Managing_deployment_failures
+# 242 Managing deployment failures
 
-Initial version.
+Updated version.
