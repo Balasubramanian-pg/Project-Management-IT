@@ -1,3 +1,3 @@
-# 498_Contributing_to_team_goals
+# 498 Contributing to team goals
 
-Initial version.
+Updated version.
