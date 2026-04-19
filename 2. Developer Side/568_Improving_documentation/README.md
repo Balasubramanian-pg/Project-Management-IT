@@ -1,3 +1,3 @@
-# 568_Improving_documentation
+# 568 Improving documentation
 
-Initial version.
+Updated version.
