@@ -1,3 +1,3 @@
-# 412_Managing_waterfall_delivery
+# 412 Managing waterfall delivery
 
-Initial version.
+Updated version.
