@@ -1,3 +1,3 @@
-# 374_Handling_feedback_constructively
+# 374 Handling feedback constructively
 
-Initial version.
+Updated version.
