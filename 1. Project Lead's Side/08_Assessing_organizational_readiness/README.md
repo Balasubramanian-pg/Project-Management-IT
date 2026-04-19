@@ -1,3 +1,3 @@
-# 08_Assessing_organizational_readiness
+# 08 Assessing organizational readiness
 
-Initial version.
+Updated version.
