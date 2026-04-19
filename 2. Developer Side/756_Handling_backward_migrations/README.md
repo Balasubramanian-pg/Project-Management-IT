@@ -1,3 +1,3 @@
-# 756_Handling_backward_migrations
+# 756 Handling backward migrations
 
-Initial version.
+Updated version.
