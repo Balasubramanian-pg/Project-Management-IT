@@ -1,3 +1,3 @@
-# 99_Capturing_functional_requirements
+# 99 Capturing functional requirements
 
-Initial version.
+Updated version.
