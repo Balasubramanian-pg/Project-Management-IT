@@ -1,3 +1,3 @@
-# 248_Using_CICD_tools
+# 248 Using CI/CD tools
 
-Initial version.
+Updated version.
