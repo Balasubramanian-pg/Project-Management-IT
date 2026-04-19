@@ -1,3 +1,3 @@
-# 582_Evaluating_proposals
+# 582 Evaluating proposals
 
-Initial version.
+Updated version.
