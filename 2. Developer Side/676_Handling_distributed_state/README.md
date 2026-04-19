@@ -1,3 +1,3 @@
-# 676_Handling_distributed_state
+# 676 Handling distributed state
 
-Initial version.
+Updated version.
