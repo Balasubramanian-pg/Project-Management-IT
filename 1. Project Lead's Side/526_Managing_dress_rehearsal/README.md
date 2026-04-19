@@ -1,3 +1,3 @@
-# 526_Managing_dress_rehearsal
+# 526 Managing dress rehearsal
 
-Initial version.
+Updated version.
