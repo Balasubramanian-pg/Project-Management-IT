@@ -1,1 +1,1 @@
-print("Running 95_Planning_sprint_cadence")
+print("Running 95 Planning sprint cadence")
