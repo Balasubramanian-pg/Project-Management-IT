@@ -1,3 +1,3 @@
-# 293_Validating_input
+# 293 Validating input
 
-Initial version.
+Updated version.
