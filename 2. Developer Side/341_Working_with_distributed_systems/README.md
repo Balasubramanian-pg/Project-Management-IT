@@ -1,3 +1,3 @@
-# 341_Working_with_distributed_systems
+# 341 Working with distributed systems
 
-Initial version.
+Updated version.
