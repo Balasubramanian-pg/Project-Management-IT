@@ -1,3 +1,3 @@
-# 187_Writing_stress_tests
+# 187 Writing stress tests
 
-Initial version.
+Updated version.
