@@ -1,3 +1,3 @@
-# 325_Calculating_risk_exposure
+# 325 Calculating risk exposure
 
-Initial version.
+Updated version.
