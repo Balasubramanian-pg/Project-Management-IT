@@ -1,3 +1,3 @@
-# 178_Setting_escalation_thresholds
+# 178 Setting escalation thresholds
 
-Initial version.
+Updated version.
