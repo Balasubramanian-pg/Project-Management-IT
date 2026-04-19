@@ -1,3 +1,3 @@
-# 238_Running_daily_standups
+# 238 Running daily standups
 
-Initial version.
+Updated version.
