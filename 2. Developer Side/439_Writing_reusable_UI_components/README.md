@@ -1,3 +1,3 @@
-# 439_Writing_reusable_UI_components
+# 439 Writing reusable UI components
 
-Initial version.
+Updated version.
