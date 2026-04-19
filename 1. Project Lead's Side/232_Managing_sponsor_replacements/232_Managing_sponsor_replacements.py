@@ -1,1 +1,1 @@
-print("Running 232_Managing_sponsor_replacements")
+print("Running 232 Managing sponsor replacements")
