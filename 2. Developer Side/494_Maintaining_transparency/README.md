@@ -1,3 +1,3 @@
-# 494_Maintaining_transparency
+# 494 Maintaining transparency
 
-Initial version.
+Updated version.
