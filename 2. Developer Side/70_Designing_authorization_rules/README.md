@@ -1,3 +1,3 @@
-# 70_Designing_authorization_rules
+# 70 Designing authorization rules
 
-Initial version.
+Updated version.
