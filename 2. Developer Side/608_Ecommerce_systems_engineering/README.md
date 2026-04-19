@@ -1,3 +1,3 @@
-# 608_Ecommerce_systems_engineering
+# 608 E-commerce systems engineering
 
-Initial version.
+Updated version.
