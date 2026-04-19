@@ -1,3 +1,3 @@
-# 633_Managing_contract_renewals
+# 633 Managing contract renewals
 
-Initial version.
+Updated version.
