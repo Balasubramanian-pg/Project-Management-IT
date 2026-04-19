@@ -1,3 +1,3 @@
-# 157_Planning_rollback_approach
+# 157 Planning rollback approach
 
-Initial version.
+Updated version.
