@@ -1,3 +1,3 @@
-# 751_Handling_edge_deployments
+# 751 Handling edge deployments
 
-Initial version.
+Updated version.
