@@ -1,3 +1,3 @@
-# 437_Managing_frontend_deployments
+# 437 Managing frontend deployments
 
-Initial version.
+Updated version.
