@@ -1,3 +1,3 @@
-# 371_Asking_for_help_when_needed
+# 371 Asking for help when needed
 
-Initial version.
+Updated version.
