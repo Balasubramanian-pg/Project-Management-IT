@@ -1,3 +1,3 @@
-# 253_Optimizing_database_queries
+# 253 Optimizing database queries
 
-Initial version.
+Updated version.
