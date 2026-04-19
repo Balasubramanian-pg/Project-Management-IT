@@ -1,1 +1,1 @@
-print("Running 90_Designing_concurrency_control")
+print("Running 90 Designing concurrency control")
