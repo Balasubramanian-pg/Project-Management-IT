@@ -1,3 +1,3 @@
-# 74_Designing_alerting_mechanisms
+# 74 Designing alerting mechanisms
 
-Initial version.
+Updated version.
