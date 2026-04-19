@@ -1,3 +1,3 @@
-# 620_Managing_business_continuity_requirements
+# 620 Managing business continuity requirements
 
-Initial version.
+Updated version.
