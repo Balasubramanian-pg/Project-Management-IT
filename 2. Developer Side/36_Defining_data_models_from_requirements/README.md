@@ -1,3 +1,3 @@
-# 36_Defining_data_models_from_requirements
+# 36 Defining data models from requirements
 
-Initial version.
+Updated version.
