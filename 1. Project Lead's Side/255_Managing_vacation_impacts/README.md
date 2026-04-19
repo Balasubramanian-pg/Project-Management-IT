@@ -1,3 +1,3 @@
-# 255_Managing_vacation_impacts
+# 255 Managing vacation impacts
 
-Initial version.
+Updated version.
