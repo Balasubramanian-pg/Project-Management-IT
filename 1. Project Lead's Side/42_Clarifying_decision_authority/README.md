@@ -1,3 +1,3 @@
-# 42_Clarifying_decision_authority
+# 42 Clarifying decision authority
 
-Initial version.
+Updated version.
