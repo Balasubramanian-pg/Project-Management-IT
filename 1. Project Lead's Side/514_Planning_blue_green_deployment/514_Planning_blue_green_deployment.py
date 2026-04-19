@@ -1,1 +1,1 @@
-print("Running 514_Planning_blue_green_deployment")
+print("Running 514 Planning blue green deployment")
