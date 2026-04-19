@@ -1,3 +1,3 @@
-# 584_Ensuring_consistency
+# 584 Ensuring consistency
 
-Initial version.
+Updated version.
