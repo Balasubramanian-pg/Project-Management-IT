@@ -1,3 +1,3 @@
-# 429_Ensuring_responsive_design
+# 429 Ensuring responsive design
 
-Initial version.
+Updated version.
