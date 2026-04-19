@@ -1,3 +1,3 @@
-# 490_Aligning_with_stakeholders
+# 490 Aligning with stakeholders
 
-Initial version.
+Updated version.
