@@ -1,3 +1,3 @@
-# 265_Controlling_hardware_costs
+# 265 Controlling hardware costs
 
-Initial version.
+Updated version.
