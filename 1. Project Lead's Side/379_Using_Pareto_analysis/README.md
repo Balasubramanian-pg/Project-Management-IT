@@ -1,3 +1,3 @@
-# 379_Using_Pareto_analysis
+# 379 Using Pareto analysis
 
-Initial version.
+Updated version.
