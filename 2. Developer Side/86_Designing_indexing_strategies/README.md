@@ -1,3 +1,3 @@
-# 86_Designing_indexing_strategies
+# 86 Designing indexing strategies
 
-Initial version.
+Updated version.
