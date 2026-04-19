@@ -1,3 +1,3 @@
-# 442_Managing_sprint_completion
+# 442 Managing sprint completion
 
-Initial version.
+Updated version.
