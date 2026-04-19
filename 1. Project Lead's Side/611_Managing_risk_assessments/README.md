@@ -1,3 +1,3 @@
-# 611_Managing_risk_assessments
+# 611 Managing risk assessments
 
-Initial version.
+Updated version.
