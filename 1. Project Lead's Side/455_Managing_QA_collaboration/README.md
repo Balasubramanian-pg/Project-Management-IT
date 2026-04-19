@@ -1,3 +1,3 @@
-# 455_Managing_QA_collaboration
+# 455 Managing QA collaboration
 
-Initial version.
+Updated version.
