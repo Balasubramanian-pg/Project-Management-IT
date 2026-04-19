@@ -1,3 +1,3 @@
-# 61_Designing_caching_strategies
+# 61 Designing caching strategies
 
-Initial version.
+Updated version.
