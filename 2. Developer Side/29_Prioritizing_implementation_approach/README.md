@@ -1,3 +1,3 @@
-# 29_Prioritizing_implementation_approach
+# 29 Prioritizing implementation approach
 
-Initial version.
+Updated version.
