@@ -1,3 +1,3 @@
-# 527_Implementing_load_balancing
+# 527 Implementing load balancing
 
-Initial version.
+Updated version.
