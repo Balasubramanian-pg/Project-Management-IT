@@ -1,3 +1,3 @@
-# 372_Mentoring_junior_developers
+# 372 Mentoring junior developers
 
-Initial version.
+Updated version.
