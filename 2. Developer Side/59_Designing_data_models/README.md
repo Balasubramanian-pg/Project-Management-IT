@@ -1,3 +1,3 @@
-# 59_Designing_data_models
+# 59 Designing data models
 
-Initial version.
+Updated version.
