@@ -1,3 +1,3 @@
-# 07_Mapping_requirements_to_components
+# 07 Mapping requirements to components
 
-Initial version.
+Updated version.
