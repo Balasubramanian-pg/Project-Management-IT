@@ -1,3 +1,3 @@
-# 353_Managing_design_changes
+# 353 Managing design changes
 
-Initial version.
+Updated version.
