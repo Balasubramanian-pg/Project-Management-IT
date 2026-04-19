@@ -1,3 +1,3 @@
-# 279_Improving_database_indexing
+# 279 Improving database indexing
 
-Initial version.
+Updated version.
