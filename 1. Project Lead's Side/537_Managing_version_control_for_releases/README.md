@@ -1,3 +1,3 @@
-# 537_Managing_version_control_for_releases
+# 537 Managing version control for releases
 
-Initial version.
+Updated version.
