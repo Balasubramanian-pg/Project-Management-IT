@@ -1,3 +1,3 @@
-# 402_Coordinating_workstreams
+# 402 Coordinating workstreams
 
-Initial version.
+Updated version.
