@@ -1,3 +1,3 @@
-# 104_Creating_solution_outline
+# 104 Creating solution outline
 
-Initial version.
+Updated version.
