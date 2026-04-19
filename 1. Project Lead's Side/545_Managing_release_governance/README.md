@@ -1,3 +1,3 @@
-# 545_Managing_release_governance
+# 545 Managing release governance
 
-Initial version.
+Updated version.
