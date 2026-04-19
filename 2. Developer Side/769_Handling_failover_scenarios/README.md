@@ -1,3 +1,3 @@
-# 769_Handling_failover_scenarios
+# 769 Handling failover scenarios
 
-Initial version.
+Updated version.
