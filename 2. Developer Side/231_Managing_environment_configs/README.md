@@ -1,3 +1,3 @@
-# 231_Managing_environment_configs
+# 231 Managing environment configs
 
-Initial version.
+Updated version.
