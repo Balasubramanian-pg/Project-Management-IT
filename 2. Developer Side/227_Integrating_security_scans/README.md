@@ -1,3 +1,3 @@
-# 227_Integrating_security_scans
+# 227 Integrating security scans
 
-Initial version.
+Updated version.
