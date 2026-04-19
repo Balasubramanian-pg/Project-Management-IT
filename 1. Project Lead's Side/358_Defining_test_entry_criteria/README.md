@@ -1,3 +1,3 @@
-# 358_Defining_test_entry_criteria
+# 358 Defining test entry criteria
 
-Initial version.
+Updated version.
