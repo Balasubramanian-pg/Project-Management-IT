@@ -1,1 +1,1 @@
-print("Running 36_Defining_data_models_from_requirements")
+print("Running 36 Defining data models from requirements")
