@@ -1,3 +1,3 @@
-# 40_Mapping_impacted_departments
+# 40 Mapping impacted departments
 
-Initial version.
+Updated version.
