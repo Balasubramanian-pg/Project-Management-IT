@@ -1,3 +1,3 @@
-# 601_Mobile_development_practices
+# 601 Mobile development practices
 
-Initial version.
+Updated version.
