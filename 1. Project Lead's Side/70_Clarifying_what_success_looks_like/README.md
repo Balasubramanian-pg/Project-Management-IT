@@ -1,3 +1,3 @@
-# 70_Clarifying_what_success_looks_like
+# 70 Clarifying what success looks like
 
-Initial version.
+Updated version.
