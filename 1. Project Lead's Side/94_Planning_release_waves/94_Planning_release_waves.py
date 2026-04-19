@@ -1,1 +1,1 @@
-print("Running 94_Planning_release_waves")
+print("Running 94 Planning release waves")
