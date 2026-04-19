@@ -1,3 +1,3 @@
-# 578_Managing_supplier_risk
+# 578 Managing supplier risk
 
-Initial version.
+Updated version.
