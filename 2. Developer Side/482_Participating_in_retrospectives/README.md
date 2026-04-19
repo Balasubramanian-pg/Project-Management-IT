@@ -1,3 +1,3 @@
-# 482_Participating_in_retrospectives
+# 482 Participating in retrospectives
 
-Initial version.
+Updated version.
