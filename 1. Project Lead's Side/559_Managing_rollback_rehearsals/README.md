@@ -1,3 +1,3 @@
-# 559_Managing_rollback_rehearsals
+# 559 Managing rollback rehearsals
 
-Initial version.
+Updated version.
