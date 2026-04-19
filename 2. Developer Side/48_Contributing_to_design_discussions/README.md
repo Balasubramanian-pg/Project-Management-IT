@@ -1,3 +1,3 @@
-# 48_Contributing_to_design_discussions
+# 48 Contributing to design discussions
 
-Initial version.
+Updated version.
