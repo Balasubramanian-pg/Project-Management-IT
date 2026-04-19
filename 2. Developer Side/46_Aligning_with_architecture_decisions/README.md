@@ -1,0 +1,3 @@
+# 46_Aligning_with_architecture_decisions
+
+Initial version.
