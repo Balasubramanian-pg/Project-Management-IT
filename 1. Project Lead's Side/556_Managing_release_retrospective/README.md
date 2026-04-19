@@ -1,3 +1,3 @@
-# 556_Managing_release_retrospective
+# 556 Managing release retrospective
 
-Initial version.
+Updated version.
