@@ -1,1 +1,1 @@
-print("Running 754_Handling_sharding_strategies")
+print("Running 754 Handling sharding strategies")
