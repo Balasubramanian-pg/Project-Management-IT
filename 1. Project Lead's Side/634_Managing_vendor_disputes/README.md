@@ -1,3 +1,3 @@
-# 634_Managing_vendor_disputes
+# 634 Managing vendor disputes
 
-Initial version.
+Updated version.
