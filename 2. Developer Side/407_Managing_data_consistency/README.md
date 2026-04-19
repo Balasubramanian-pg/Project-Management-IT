@@ -1,3 +1,3 @@
-# 407_Managing_data_consistency
+# 407 Managing data consistency
 
-Initial version.
+Updated version.
