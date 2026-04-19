@@ -1,3 +1,3 @@
-# 65_Designing_load_balancing_strategies
+# 65 Designing load balancing strategies
 
-Initial version.
+Updated version.
