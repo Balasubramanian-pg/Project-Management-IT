@@ -1,3 +1,3 @@
-# 632_Managing_change_orders_with_vendors
+# 632 Managing change orders with vendors
 
-Initial version.
+Updated version.
