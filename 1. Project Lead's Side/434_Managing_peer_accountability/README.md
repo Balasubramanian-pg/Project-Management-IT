@@ -1,3 +1,3 @@
-# 434_Managing_peer_accountability
+# 434 Managing peer accountability
 
-Initial version.
+Updated version.
