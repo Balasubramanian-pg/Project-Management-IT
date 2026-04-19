@@ -1,3 +1,3 @@
-# 627_Balancing_business_and_tech
+# 627 Balancing business and tech
 
-Initial version.
+Updated version.
