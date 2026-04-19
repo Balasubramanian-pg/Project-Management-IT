@@ -1,3 +1,3 @@
-# 746_Mastering_collaboration
+# 746 Mastering collaboration
 
-Initial version.
+Updated version.
