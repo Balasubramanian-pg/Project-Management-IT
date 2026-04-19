@@ -1,1 +1,1 @@
-print("Running 594_Managing_vendor_onboarding")
+print("Running 594 Managing vendor onboarding")
