@@ -1,3 +1,3 @@
-# 394_Managing_unresolved_risks
+# 394 Managing unresolved risks
 
-Initial version.
+Updated version.
