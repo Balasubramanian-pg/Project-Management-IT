@@ -1,3 +1,3 @@
-# 308_Planning_developer_allocation
+# 308 Planning developer allocation
 
-Initial version.
+Updated version.
