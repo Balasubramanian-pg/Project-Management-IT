@@ -1,3 +1,3 @@
-# 151_Using_Git_effectively
+# 151 Using Git effectively
 
-Initial version.
+Updated version.
