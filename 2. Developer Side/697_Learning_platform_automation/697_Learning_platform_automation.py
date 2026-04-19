@@ -1,1 +1,1 @@
-print("Running 697_Learning_platform_automation")
+print("Running 697 Learning platform automation")
