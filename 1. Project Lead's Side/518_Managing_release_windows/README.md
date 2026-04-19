@@ -1,3 +1,3 @@
-# 518_Managing_release_windows
+# 518 Managing release windows
 
-Initial version.
+Updated version.
