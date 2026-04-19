@@ -1,3 +1,3 @@
-# 500_Tracking_defect_closure
+# 500 Tracking defect closure
 
-Initial version.
+Updated version.
