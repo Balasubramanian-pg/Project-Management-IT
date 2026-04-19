@@ -1,3 +1,3 @@
-# 163_Classifying_stakeholder_interest
+# 163 Classifying stakeholder interest
 
-Initial version.
+Updated version.
