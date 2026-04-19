@@ -1,3 +1,3 @@
-# 436_Managing_frontend_builds
+# 436 Managing frontend builds
 
-Initial version.
+Updated version.
