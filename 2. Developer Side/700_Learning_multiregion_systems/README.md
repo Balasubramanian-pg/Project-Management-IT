@@ -1,3 +1,3 @@
-# 700_Learning_multiregion_systems
+# 700 Learning multi-region systems
 
-Initial version.
+Updated version.
