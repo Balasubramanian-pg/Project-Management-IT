@@ -1,3 +1,3 @@
-# 32_Defining_value_proposition
+# 32 Defining value proposition
 
-Initial version.
+Updated version.
