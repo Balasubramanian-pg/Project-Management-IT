@@ -1,3 +1,3 @@
-# 220_Ensuring_communication_timeliness
+# 220 Ensuring communication timeliness
 
-Initial version.
+Updated version.
