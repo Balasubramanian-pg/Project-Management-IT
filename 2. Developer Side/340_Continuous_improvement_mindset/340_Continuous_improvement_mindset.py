@@ -1,1 +1,1 @@
-print("Running 340_Continuous_improvement_mindset")
+print("Running 340 Continuous improvement mindset")
