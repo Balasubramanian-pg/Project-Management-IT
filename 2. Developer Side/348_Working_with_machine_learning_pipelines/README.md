@@ -1,3 +1,3 @@
-# 348_Working_with_machine_learning_pipelines
+# 348 Working with machine learning pipelines
 
-Initial version.
+Updated version.
