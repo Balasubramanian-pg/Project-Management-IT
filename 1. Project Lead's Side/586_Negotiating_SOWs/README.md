@@ -1,3 +1,3 @@
-# 586_Negotiating_SOWs
+# 586 Negotiating SOWs
 
-Initial version.
+Updated version.
