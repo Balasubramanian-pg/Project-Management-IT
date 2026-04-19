@@ -1,3 +1,3 @@
-# 728_Balancing_flexibility_and_simplicity
+# 728 Balancing flexibility and simplicity
 
-Initial version.
+Updated version.
