@@ -1,3 +1,3 @@
-# 274_Managing_concurrency
+# 274 Managing concurrency
 
-Initial version.
+Updated version.
