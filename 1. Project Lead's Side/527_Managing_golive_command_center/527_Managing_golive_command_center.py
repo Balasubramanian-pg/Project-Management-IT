@@ -1,1 +1,1 @@
-print("Running 527_Managing_golive_command_center")
+print("Running 527 Managing go-live command center")
