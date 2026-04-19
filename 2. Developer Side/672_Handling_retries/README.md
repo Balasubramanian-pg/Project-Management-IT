@@ -1,3 +1,3 @@
-# 672_Handling_retries
+# 672 Handling retries
 
-Initial version.
+Updated version.
