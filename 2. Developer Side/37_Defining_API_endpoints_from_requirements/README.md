@@ -1,3 +1,3 @@
-# 37_Defining_API_endpoints_from_requirements
+# 37 Defining API endpoints from requirements
 
-Initial version.
+Updated version.
