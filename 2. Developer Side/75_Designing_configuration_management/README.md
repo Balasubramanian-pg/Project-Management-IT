@@ -1,3 +1,3 @@
-# 75_Designing_configuration_management
+# 75 Designing configuration management
 
-Initial version.
+Updated version.
