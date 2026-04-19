@@ -1,3 +1,3 @@
-# 405_Removing_blockers
+# 405 Removing blockers
 
-Initial version.
+Updated version.
