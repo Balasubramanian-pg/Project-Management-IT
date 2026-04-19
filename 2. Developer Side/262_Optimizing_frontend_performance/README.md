@@ -1,3 +1,3 @@
-# 262_Optimizing_frontend_performance
+# 262 Optimizing frontend performance
 
-Initial version.
+Updated version.
