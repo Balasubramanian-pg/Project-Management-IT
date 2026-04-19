@@ -1,3 +1,3 @@
-# 377_Using_cause_and_effect_analysis
+# 377 Using cause and effect analysis
 
-Initial version.
+Updated version.
