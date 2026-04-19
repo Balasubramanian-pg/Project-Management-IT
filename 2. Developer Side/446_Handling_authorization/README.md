@@ -1,3 +1,3 @@
-# 446_Handling_authorization
+# 446 Handling authorization
 
-Initial version.
+Updated version.
