@@ -1,3 +1,3 @@
-# 514_Debugging_UI_issues
+# 514 Debugging UI issues
 
-Initial version.
+Updated version.
