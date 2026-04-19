@@ -1,3 +1,3 @@
-# 259_Optimizing_CPU_usage
+# 259 Optimizing CPU usage
 
-Initial version.
+Updated version.
