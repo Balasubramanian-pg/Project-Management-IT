@@ -1,3 +1,3 @@
-# 474_Managing_disaster_recovery
+# 474 Managing disaster recovery
 
-Initial version.
+Updated version.
