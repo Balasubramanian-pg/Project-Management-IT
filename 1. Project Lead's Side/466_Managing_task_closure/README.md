@@ -1,3 +1,3 @@
-# 466_Managing_task_closure
+# 466 Managing task closure
 
-Initial version.
+Updated version.
