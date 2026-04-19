@@ -1,3 +1,3 @@
-# 33_Evaluating_thirdparty_requirements
+# 33 Evaluating third-party requirements
 
-Initial version.
+Updated version.
