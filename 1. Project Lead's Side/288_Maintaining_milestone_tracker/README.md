@@ -1,3 +1,3 @@
-# 288_Maintaining_milestone_tracker
+# 288 Maintaining milestone tracker
 
-Initial version.
+Updated version.
