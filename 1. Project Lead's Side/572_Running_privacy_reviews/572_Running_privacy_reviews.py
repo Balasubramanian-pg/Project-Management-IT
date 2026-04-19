@@ -1,1 +1,1 @@
-print("Running 572_Running_privacy_reviews")
+print("Running 572 Running privacy reviews")
