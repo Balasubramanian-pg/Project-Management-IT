@@ -1,3 +1,3 @@
-# 460_Managing_cloud_collaboration
+# 460 Managing cloud collaboration
 
-Initial version.
+Updated version.
