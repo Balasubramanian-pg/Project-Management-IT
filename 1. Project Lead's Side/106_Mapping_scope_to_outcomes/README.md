@@ -1,3 +1,3 @@
-# 106_Mapping_scope_to_outcomes
+# 106 Mapping scope to outcomes
 
-Initial version.
+Updated version.
