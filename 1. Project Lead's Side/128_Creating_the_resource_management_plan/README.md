@@ -1,3 +1,3 @@
-# 128_Creating_the_resource_management_plan
+# 128 Creating the resource management plan
 
-Initial version.
+Updated version.
