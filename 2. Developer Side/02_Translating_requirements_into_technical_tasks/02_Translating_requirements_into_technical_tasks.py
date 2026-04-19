@@ -1,1 +1,1 @@
-print("Running 02_Translating_requirements_into_technical_tasks")
+print("Running 02 Translating requirements into technical tasks")
