@@ -1,3 +1,3 @@
-# 480_Managing_velocity_shifts
+# 480 Managing velocity shifts
 
-Initial version.
+Updated version.
