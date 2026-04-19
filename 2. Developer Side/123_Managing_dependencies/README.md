@@ -1,3 +1,3 @@
-# 123_Managing_dependencies
+# 123 Managing dependencies
 
-Initial version.
+Updated version.
