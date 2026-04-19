@@ -1,3 +1,3 @@
-# 534_Managing_data_replication
+# 534 Managing data replication
 
-Initial version.
+Updated version.
