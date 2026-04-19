@@ -1,3 +1,3 @@
-# 262_Controlling_labor_costs
+# 262 Controlling labor costs
 
-Initial version.
+Updated version.
