@@ -1,3 +1,3 @@
-# 383_Handling_API_errors
+# 383 Handling API errors
 
-Initial version.
+Updated version.
