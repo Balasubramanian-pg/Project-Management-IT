@@ -1,1 +1,1 @@
-print("Running 75_Designing_configuration_management")
+print("Running 75 Designing configuration management")
