@@ -1,3 +1,3 @@
-# 74_Building_initial_resource_view
+# 74 Building initial resource view
 
-Initial version.
+Updated version.
