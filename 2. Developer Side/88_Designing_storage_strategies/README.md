@@ -1,3 +1,3 @@
-# 88_Designing_storage_strategies
+# 88 Designing storage strategies
 
-Initial version.
+Updated version.
