@@ -1,3 +1,3 @@
-# 76_Recording_initiation_decisions
+# 76 Recording initiation decisions
 
-Initial version.
+Updated version.
