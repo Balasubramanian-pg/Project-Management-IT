@@ -1,1 +1,1 @@
-print("Running 494_Managing_test_defects")
+print("Running 494 Managing test defects")
