@@ -1,3 +1,3 @@
-# 517_Managing_release_approvals
+# 517 Managing release approvals
 
-Initial version.
+Updated version.
