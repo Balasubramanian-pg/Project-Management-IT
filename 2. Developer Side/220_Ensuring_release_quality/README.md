@@ -1,3 +1,3 @@
-# 220_Ensuring_release_quality
+# 220 Ensuring release quality
 
-Initial version.
+Updated version.
