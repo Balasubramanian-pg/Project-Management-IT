@@ -1,3 +1,3 @@
-# 135_Writing_mocks_and_stubs
+# 135 Writing mocks and stubs
 
-Initial version.
+Updated version.
