@@ -1,3 +1,3 @@
-# 472_Ensuring_team_alignment
+# 472 Ensuring team alignment
 
-Initial version.
+Updated version.
