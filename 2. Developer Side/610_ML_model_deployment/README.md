@@ -1,3 +1,3 @@
-# 610_ML_model_deployment
+# 610 ML model deployment
 
-Initial version.
+Updated version.
