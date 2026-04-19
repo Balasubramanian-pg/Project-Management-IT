@@ -1,3 +1,3 @@
-# 625_Conducting_code_reviews
+# 625 Conducting code reviews
 
-Initial version.
+Updated version.
