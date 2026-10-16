@@ -1,3 +1,3 @@
-# 438 Using frontend frameworks
+# 438 Using Frontend Frameworks
 
-Updated version.
+Automated structural standardization.
