@@ -1,3 +1,3 @@
-# 523 Designing for availability
+# 523 Designing For Availability
 
-Updated version.
+Automated structural standardization.
