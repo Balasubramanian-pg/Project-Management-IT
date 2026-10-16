@@ -1,3 +1,3 @@
-# 501 Reproducing bugs
+# 501 Reproducing Bugs
 
-Updated version.
+Automated structural standardization.
