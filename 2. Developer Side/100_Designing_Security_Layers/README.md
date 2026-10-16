@@ -1,3 +1,3 @@
-# 100 Designing security layers
+# 100 Designing Security Layers
 
-Updated version.
+Automated module standardization.
