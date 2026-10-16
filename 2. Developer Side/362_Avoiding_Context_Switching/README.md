@@ -1,3 +1,3 @@
-# 362 Avoiding context switching
+# 362 Avoiding Context Switching
 
-Updated version.
+Automated structural standardization.
