@@ -1,3 +1,3 @@
-# 417 Handling batch data
+# 417 Handling Batch Data
 
-Updated version.
+Automated structural standardization.
