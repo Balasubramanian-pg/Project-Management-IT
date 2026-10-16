@@ -1,3 +1,3 @@
-# 02 Translating requirements into technical tasks
+# 002 Translating Requirements Into Technical Tasks
 
-Updated version.
+Automated module standardization.
