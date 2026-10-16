@@ -1,3 +1,3 @@
-# 365 Balancing speed and quality
+# 365 Balancing Speed And Quality
 
-Updated version.
+Automated structural standardization.
