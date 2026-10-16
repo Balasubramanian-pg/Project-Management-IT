@@ -1,3 +1,3 @@
-# 105 Applying design patterns
+# 105 Applying Design Patterns
 
-Updated version.
+Automated structural standardization.
