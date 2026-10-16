@@ -1,3 +1,3 @@
-# 113 Writing defensive code
+# 113 Writing Defensive Code
 
-Updated version.
+Automated structural standardization.
