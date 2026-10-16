@@ -1,3 +1,3 @@
-# 31 Identifying reusable components
+# 031 Identifying Reusable Components
 
-Updated version.
+Automated structural standardization.
