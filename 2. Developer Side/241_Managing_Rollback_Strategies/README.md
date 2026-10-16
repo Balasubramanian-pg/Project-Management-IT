@@ -1,3 +1,3 @@
-# 241 Managing rollback strategies
+# 241 Managing Rollback Strategies
 
-Updated version.
+Automated structural standardization.
