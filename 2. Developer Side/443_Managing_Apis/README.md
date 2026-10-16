@@ -1,3 +1,3 @@
-# 443 Managing APIs
+# 443 Managing Apis
 
-Updated version.
+Automated structural standardization.
