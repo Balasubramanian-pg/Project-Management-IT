@@ -1,3 +1,3 @@
-# 370 Communicating blockers early
+# 370 Communicating Blockers Early
 
-Updated version.
+Automated structural standardization.
