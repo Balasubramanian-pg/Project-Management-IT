@@ -1,3 +1,3 @@
-# 411 Handling restores
+# 411 Handling Restores
 
-Updated version.
+Automated structural standardization.
