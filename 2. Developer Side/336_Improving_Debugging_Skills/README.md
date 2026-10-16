@@ -1,3 +1,3 @@
-# 336 Improving debugging skills
+# 336 Improving Debugging Skills
 
-Updated version.
+Automated structural standardization.
