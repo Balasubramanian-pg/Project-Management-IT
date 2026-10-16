@@ -1,3 +1,3 @@
-# 404 Optimizing queries
+# 404 Optimizing Queries
 
-Updated version.
+Automated structural standardization.
