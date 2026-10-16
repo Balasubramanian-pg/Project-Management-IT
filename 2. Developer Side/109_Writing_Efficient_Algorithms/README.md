@@ -1,3 +1,3 @@
-# 109 Writing efficient algorithms
+# 109 Writing Efficient Algorithms
 
-Updated version.
+Automated structural standardization.
