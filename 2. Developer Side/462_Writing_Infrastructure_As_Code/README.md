@@ -1,3 +1,3 @@
-# 462 Writing infrastructure as code
+# 462 Writing Infrastructure As Code
 
-Updated version.
+Automated structural standardization.
