@@ -1,3 +1,3 @@
-# 303 Logging errors effectively
+# 303 Logging Errors Effectively
 
-Updated version.
+Automated structural standardization.
