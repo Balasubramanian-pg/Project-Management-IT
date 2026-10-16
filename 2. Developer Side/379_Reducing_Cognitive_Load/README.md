@@ -1,3 +1,3 @@
-# 379 Reducing cognitive load
+# 379 Reducing Cognitive Load
 
-Updated version.
+Automated structural standardization.
