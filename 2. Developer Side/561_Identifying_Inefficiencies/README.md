@@ -1,3 +1,3 @@
-# 561 Identifying inefficiencies
+# 561 Identifying Inefficiencies
 
-Updated version.
+Automated structural standardization.
