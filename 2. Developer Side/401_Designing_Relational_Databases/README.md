@@ -1,3 +1,3 @@
-# 401 Designing relational databases
+# 401 Designing Relational Databases
 
-Updated version.
+Automated structural standardization.
