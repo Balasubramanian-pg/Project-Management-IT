@@ -1,3 +1,3 @@
-# 484 Communicating effectively
+# 484 Communicating Effectively
 
-Updated version.
+Automated structural standardization.
