@@ -1,3 +1,3 @@
-# 119 Avoiding over-commenting
+# 119 Avoiding Overcommenting
 
-Updated version.
+Automated structural standardization.
