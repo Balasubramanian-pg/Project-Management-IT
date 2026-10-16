@@ -1,3 +1,3 @@
-# 104 Following coding standards
+# 104 Following Coding Standards
 
-Updated version.
+Automated structural standardization.
