@@ -1,3 +1,3 @@
-# 488 Collaborating with designers
+# 488 Collaborating With Designers
 
-Updated version.
+Automated structural standardization.
