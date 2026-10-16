@@ -1,3 +1,3 @@
-# 486 Collaborating with QA
+# 486 Collaborating With QA
 
-Updated version.
+Automated structural standardization.
