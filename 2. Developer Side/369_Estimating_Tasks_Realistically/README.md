@@ -1,3 +1,3 @@
-# 369 Estimating tasks realistically
+# 369 Estimating Tasks Realistically
 
-Updated version.
+Automated structural standardization.
