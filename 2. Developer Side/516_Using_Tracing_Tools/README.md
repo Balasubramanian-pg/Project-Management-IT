@@ -1,3 +1,3 @@
-# 516 Using tracing tools
+# 516 Using Tracing Tools
 
-Updated version.
+Automated structural standardization.
