@@ -1,3 +1,3 @@
-# 418 Managing data validation
+# 418 Managing Data Validation
 
-Updated version.
+Automated structural standardization.
