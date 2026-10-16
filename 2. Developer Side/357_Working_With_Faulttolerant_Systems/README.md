@@ -1,3 +1,3 @@
-# 357 Working with fault-tolerant systems
+# 357 Working With Faulttolerant Systems
 
-Updated version.
+Automated structural standardization.
