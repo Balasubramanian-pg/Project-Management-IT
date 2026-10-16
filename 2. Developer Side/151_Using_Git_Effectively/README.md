@@ -1,3 +1,3 @@
-# 151 Using Git effectively
+# 151 Using Git Effectively
 
-Updated version.
+Automated structural standardization.
