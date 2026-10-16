@@ -1,3 +1,3 @@
-# 06 Breaking down epics into tasks
+# 006 Breaking Down Epics Into Tasks
 
-Updated version.
+Automated module standardization.
