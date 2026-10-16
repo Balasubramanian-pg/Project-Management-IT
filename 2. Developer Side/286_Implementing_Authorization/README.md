@@ -1,3 +1,3 @@
-# 286 Implementing authorization
+# 286 Implementing Authorization
 
-Updated version.
+Automated structural standardization.
