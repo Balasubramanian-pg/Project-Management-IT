@@ -1,3 +1,3 @@
-# 103 Writing modular code
+# 103 Writing Modular Code
 
-Updated version.
+Automated structural standardization.
