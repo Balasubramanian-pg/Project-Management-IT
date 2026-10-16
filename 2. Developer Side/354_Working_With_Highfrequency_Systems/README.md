@@ -1,3 +1,3 @@
-# 354 Working with high-frequency systems
+# 354 Working With Highfrequency Systems
 
-Updated version.
+Automated structural standardization.
