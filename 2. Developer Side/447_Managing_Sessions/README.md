@@ -1,3 +1,3 @@
-# 447 Managing sessions
+# 447 Managing Sessions
 
-Updated version.
+Automated structural standardization.
