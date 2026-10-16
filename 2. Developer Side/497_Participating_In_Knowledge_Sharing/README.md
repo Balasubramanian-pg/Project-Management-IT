@@ -1,3 +1,3 @@
-# 497 Participating in knowledge sharing
+# 497 Participating In Knowledge Sharing
 
-Updated version.
+Automated structural standardization.
