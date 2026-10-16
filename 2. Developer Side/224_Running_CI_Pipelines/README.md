@@ -1,3 +1,3 @@
-# 224 Running CI pipelines
+# 224 Running CI Pipelines
 
-Updated version.
+Automated structural standardization.
