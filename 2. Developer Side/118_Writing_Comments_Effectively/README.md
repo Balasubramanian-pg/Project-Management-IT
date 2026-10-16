@@ -1,3 +1,3 @@
-# 118 Writing comments effectively
+# 118 Writing Comments Effectively
 
-Updated version.
+Automated structural standardization.
