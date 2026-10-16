@@ -1,3 +1,3 @@
-# 116 Writing logging statements
+# 116 Writing Logging Statements
 
-Updated version.
+Automated structural standardization.
