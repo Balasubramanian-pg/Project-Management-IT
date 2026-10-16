@@ -1,3 +1,3 @@
-# 102 Writing readable functions
+# 102 Writing Readable Functions
 
-Updated version.
+Automated module standardization.
