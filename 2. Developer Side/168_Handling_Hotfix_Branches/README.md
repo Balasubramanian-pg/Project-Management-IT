@@ -1,3 +1,3 @@
-# 168 Handling hotfix branches
+# 168 Handling Hotfix Branches
 
-Updated version.
+Automated structural standardization.
