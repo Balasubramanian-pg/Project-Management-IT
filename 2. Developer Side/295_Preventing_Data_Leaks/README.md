@@ -1,3 +1,3 @@
-# 295 Preventing data leaks
+# 295 Preventing Data Leaks
 
-Updated version.
+Automated structural standardization.
