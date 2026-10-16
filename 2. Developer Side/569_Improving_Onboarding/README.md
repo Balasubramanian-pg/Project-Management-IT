@@ -1,3 +1,3 @@
-# 569 Improving onboarding
+# 569 Improving Onboarding
 
-Updated version.
+Automated structural standardization.
