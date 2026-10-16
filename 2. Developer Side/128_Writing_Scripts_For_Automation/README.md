@@ -1,3 +1,3 @@
-# 128 Writing scripts for automation
+# 128 Writing Scripts For Automation
 
-Updated version.
+Automated structural standardization.
