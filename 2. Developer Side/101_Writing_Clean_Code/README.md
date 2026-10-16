@@ -1,3 +1,3 @@
-# 101 Writing clean code
+# 101 Writing Clean Code
 
-Updated version.
+Automated module standardization.
