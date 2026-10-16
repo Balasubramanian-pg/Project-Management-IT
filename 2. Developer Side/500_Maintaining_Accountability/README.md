@@ -1,3 +1,3 @@
-# 500 Maintaining accountability
+# 500 Maintaining Accountability
 
-Updated version.
+Automated structural standardization.
