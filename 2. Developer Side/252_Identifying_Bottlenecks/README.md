@@ -1,3 +1,3 @@
-# 252 Identifying bottlenecks
+# 252 Identifying Bottlenecks
 
-Updated version.
+Automated structural standardization.
