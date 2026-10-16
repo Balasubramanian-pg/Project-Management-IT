@@ -1,3 +1,3 @@
-# 371 Asking for help when needed
+# 371 Asking For Help When Needed
 
-Updated version.
+Automated structural standardization.
