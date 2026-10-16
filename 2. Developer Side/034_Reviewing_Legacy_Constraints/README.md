@@ -1,3 +1,3 @@
-# 34 Reviewing legacy constraints
+# 034 Reviewing Legacy Constraints
 
-Updated version.
+Automated structural standardization.
