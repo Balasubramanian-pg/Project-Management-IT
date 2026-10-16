@@ -1,3 +1,3 @@
-# 472 Managing storage systems
+# 472 Managing Storage Systems
 
-Updated version.
+Automated structural standardization.
