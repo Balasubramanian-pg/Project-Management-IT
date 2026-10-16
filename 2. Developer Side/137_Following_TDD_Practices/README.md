@@ -1,3 +1,3 @@
-# 137 Following TDD practices
+# 137 Following TDD Practices
 
-Updated version.
+Automated structural standardization.
