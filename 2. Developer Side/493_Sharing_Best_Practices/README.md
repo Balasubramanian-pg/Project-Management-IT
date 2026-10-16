@@ -1,3 +1,3 @@
-# 493 Sharing best practices
+# 493 Sharing Best Practices
 
-Updated version.
+Automated structural standardization.
