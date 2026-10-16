@@ -1,3 +1,3 @@
-# 339 Learning new languages
+# 339 Learning New Languages
 
-Updated version.
+Automated structural standardization.
