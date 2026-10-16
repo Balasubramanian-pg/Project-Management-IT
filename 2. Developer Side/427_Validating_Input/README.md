@@ -1,3 +1,3 @@
-# 427 Validating input
+# 427 Validating Input
 
-Updated version.
+Automated structural standardization.
