@@ -1,3 +1,3 @@
-# 200 Measuring code coverage
+# 200 Measuring Code Coverage
 
-Updated version.
+Automated structural standardization.
