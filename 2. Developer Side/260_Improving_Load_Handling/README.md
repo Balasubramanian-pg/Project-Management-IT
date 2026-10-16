@@ -1,3 +1,3 @@
-# 260 Improving load handling
+# 260 Improving Load Handling
 
-Updated version.
+Automated structural standardization.
