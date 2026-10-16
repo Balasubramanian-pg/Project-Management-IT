@@ -1,3 +1,3 @@
-# 179 Managing submodules
+# 179 Managing Submodules
 
-Updated version.
+Automated structural standardization.
