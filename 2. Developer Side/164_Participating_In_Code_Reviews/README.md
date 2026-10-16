@@ -1,3 +1,3 @@
-# 164 Participating in code reviews
+# 164 Participating In Code Reviews
 
-Updated version.
+Automated structural standardization.
