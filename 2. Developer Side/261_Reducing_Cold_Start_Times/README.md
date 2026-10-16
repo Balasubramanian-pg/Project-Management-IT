@@ -1,3 +1,3 @@
-# 261 Reducing cold start times
+# 261 Reducing Cold Start Times
 
-Updated version.
+Automated structural standardization.
