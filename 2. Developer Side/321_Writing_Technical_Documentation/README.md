@@ -1,3 +1,3 @@
-# 321 Writing technical documentation
+# 321 Writing Technical Documentation
 
-Updated version.
+Automated structural standardization.
