@@ -1,3 +1,3 @@
-# 246 Tagging builds
+# 246 Tagging Builds
 
-Updated version.
+Automated structural standardization.
