@@ -1,3 +1,3 @@
-# 350 Working with multi-cloud systems
+# 350 Working With Multicloud Systems
 
-Updated version.
+Automated structural standardization.
