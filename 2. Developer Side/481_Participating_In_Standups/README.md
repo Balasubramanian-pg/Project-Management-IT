@@ -1,3 +1,3 @@
-# 481 Participating in standups
+# 481 Participating In Standups
 
-Updated version.
+Automated structural standardization.
