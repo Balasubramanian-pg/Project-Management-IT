@@ -1,3 +1,3 @@
-# 383 Handling API errors
+# 383 Handling API Errors
 
-Updated version.
+Automated structural standardization.
