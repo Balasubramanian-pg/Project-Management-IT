@@ -1,3 +1,3 @@
-# 335 Building side projects
+# 335 Building Side Projects
 
-Updated version.
+Automated structural standardization.
