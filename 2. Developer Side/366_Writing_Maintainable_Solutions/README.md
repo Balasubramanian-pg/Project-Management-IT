@@ -1,3 +1,3 @@
-# 366 Writing maintainable solutions
+# 366 Writing Maintainable Solutions
 
-Updated version.
+Automated structural standardization.
