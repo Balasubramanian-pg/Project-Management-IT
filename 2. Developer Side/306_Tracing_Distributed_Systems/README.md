@@ -1,3 +1,3 @@
-# 306 Tracing distributed systems
+# 306 Tracing Distributed Systems
 
-Updated version.
+Automated structural standardization.
