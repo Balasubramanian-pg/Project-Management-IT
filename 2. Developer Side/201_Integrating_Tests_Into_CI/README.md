@@ -1,3 +1,3 @@
-# 201 Integrating tests into CI
+# 201 Integrating Tests Into CI
 
-Updated version.
+Automated structural standardization.
