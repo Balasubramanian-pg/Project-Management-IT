@@ -1,3 +1,3 @@
-# 356 Working with highly available systems
+# 356 Working With Highly Available Systems
 
-Updated version.
+Automated structural standardization.
