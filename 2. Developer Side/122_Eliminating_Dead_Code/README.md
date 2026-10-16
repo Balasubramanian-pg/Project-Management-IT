@@ -1,3 +1,3 @@
-# 122 Eliminating dead code
+# 122 Eliminating Dead Code
 
-Updated version.
+Automated structural standardization.
