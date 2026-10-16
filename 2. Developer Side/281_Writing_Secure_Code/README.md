@@ -1,3 +1,3 @@
-# 281 Writing secure code
+# 281 Writing Secure Code
 
-Updated version.
+Automated structural standardization.
