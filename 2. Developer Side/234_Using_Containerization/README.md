@@ -1,3 +1,3 @@
-# 234 Using containerization
+# 234 Using Containerization
 
-Updated version.
+Automated structural standardization.
