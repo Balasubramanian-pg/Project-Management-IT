@@ -1,3 +1,3 @@
-# 268 Using CDNs
+# 268 Using Cdns
 
-Updated version.
+Automated structural standardization.
