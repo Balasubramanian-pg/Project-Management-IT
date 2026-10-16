@@ -1,3 +1,3 @@
-# 444 Managing databases
+# 444 Managing Databases
 
-Updated version.
+Automated structural standardization.
