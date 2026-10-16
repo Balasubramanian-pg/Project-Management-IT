@@ -1,3 +1,3 @@
-# 188 Writing security tests
+# 188 Writing Security Tests
 
-Updated version.
+Automated structural standardization.
