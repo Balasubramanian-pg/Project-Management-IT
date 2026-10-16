@@ -1,3 +1,3 @@
-# 334 Contributing to open source
+# 334 Contributing To Open Source
 
-Updated version.
+Automated structural standardization.
