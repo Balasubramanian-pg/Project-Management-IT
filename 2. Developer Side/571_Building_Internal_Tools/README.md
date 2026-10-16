@@ -1,3 +1,3 @@
-# 571 Building internal tools
+# 571 Building Internal Tools
 
-Updated version.
+Automated structural standardization.
