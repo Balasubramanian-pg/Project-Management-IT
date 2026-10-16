@@ -1,3 +1,3 @@
-# 163 Pair programming
+# 163 Pair Programming
 
-Updated version.
+Automated structural standardization.
