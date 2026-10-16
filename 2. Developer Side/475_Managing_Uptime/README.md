@@ -1,3 +1,3 @@
-# 475 Managing uptime
+# 475 Managing Uptime
 
-Updated version.
+Automated structural standardization.
