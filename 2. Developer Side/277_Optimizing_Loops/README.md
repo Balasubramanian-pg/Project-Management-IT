@@ -1,3 +1,3 @@
-# 277 Optimizing loops
+# 277 Optimizing Loops
 
-Updated version.
+Automated structural standardization.
