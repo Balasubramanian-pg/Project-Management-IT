@@ -1,3 +1,3 @@
-# 121 Refactoring code regularly
+# 121 Refactoring Code Regularly
 
-Updated version.
+Automated structural standardization.
