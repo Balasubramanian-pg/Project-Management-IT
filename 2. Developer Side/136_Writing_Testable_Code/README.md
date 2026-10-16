@@ -1,3 +1,3 @@
-# 136 Writing testable code
+# 136 Writing Testable Code
 
-Updated version.
+Automated structural standardization.
