@@ -1,3 +1,3 @@
-# 465 Managing containers
+# 465 Managing Containers
 
-Updated version.
+Automated structural standardization.
