@@ -1,3 +1,3 @@
-# 117 Using meaningful variable names
+# 117 Using Meaningful Variable Names
 
-Updated version.
+Automated structural standardization.
