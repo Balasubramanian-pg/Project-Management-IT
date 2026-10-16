@@ -1,3 +1,3 @@
-# 520 Reducing debugging time
+# 520 Reducing Debugging Time
 
-Updated version.
+Automated structural standardization.
