@@ -1,3 +1,3 @@
-# 385 Securing API endpoints
+# 385 Securing API Endpoints
 
-Updated version.
+Automated structural standardization.
