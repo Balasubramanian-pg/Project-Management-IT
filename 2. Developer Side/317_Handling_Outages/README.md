@@ -1,3 +1,3 @@
-# 317 Handling outages
+# 317 Handling Outages
 
-Updated version.
+Automated structural standardization.
