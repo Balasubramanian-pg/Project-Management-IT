@@ -1,3 +1,3 @@
-# 556 Reducing overhead
+# 556 Reducing Overhead
 
-Updated version.
+Automated structural standardization.
