@@ -1,3 +1,3 @@
-# 146 Following DRY principles
+# 146 Following DRY Principles
 
-Updated version.
+Automated structural standardization.
