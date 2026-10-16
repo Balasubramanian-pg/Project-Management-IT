@@ -1,3 +1,3 @@
-# 204 Managing test datasets
+# 204 Managing Test Datasets
 
-Updated version.
+Automated structural standardization.
