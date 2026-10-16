@@ -1,3 +1,3 @@
-# 130 Using breakpoints effectively
+# 130 Using Breakpoints Effectively
 
-Updated version.
+Automated structural standardization.
