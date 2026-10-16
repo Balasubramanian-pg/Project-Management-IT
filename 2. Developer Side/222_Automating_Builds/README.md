@@ -1,3 +1,3 @@
-# 222 Automating builds
+# 222 Automating Builds
 
-Updated version.
+Automated structural standardization.
