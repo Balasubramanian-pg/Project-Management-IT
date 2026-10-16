@@ -1,3 +1,3 @@
-# 373 Learning from code reviews
+# 373 Learning From Code Reviews
 
-Updated version.
+Automated structural standardization.
