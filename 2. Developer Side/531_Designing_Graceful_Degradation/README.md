@@ -1,3 +1,3 @@
-# 531 Designing graceful degradation
+# 531 Designing Graceful Degradation
 
-Updated version.
+Automated structural standardization.
