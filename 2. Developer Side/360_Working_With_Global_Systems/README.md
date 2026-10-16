@@ -1,3 +1,3 @@
-# 360 Working with global systems
+# 360 Working With Global Systems
 
-Updated version.
+Automated structural standardization.
