@@ -1,3 +1,3 @@
-# 593 Managing bug backlog
+# 593 Managing Bug Backlog
 
-Updated version.
+Automated structural standardization.
