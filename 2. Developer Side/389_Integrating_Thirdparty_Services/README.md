@@ -1,3 +1,3 @@
-# 389 Integrating third-party services
+# 389 Integrating Thirdparty Services
 
-Updated version.
+Automated structural standardization.
