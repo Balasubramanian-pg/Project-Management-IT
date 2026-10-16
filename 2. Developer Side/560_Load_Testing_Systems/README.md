@@ -1,3 +1,3 @@
-# 560 Load testing systems
+# 560 Load Testing Systems
 
-Updated version.
+Automated structural standardization.
