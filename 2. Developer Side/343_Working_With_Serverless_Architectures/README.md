@@ -1,3 +1,3 @@
-# 343 Working with serverless architectures
+# 343 Working With Serverless Architectures
 
-Updated version.
+Automated structural standardization.
