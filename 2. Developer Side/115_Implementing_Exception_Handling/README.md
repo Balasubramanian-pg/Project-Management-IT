@@ -1,3 +1,3 @@
-# 115 Implementing exception handling
+# 115 Implementing Exception Handling
 
-Updated version.
+Automated structural standardization.
