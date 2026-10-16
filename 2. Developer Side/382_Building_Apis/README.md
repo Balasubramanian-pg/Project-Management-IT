@@ -1,3 +1,3 @@
-# 382 Building APIs
+# 382 Building Apis
 
-Updated version.
+Automated structural standardization.
