@@ -1,3 +1,3 @@
-# 341 Working with distributed systems
+# 341 Working With Distributed Systems
 
-Updated version.
+Automated structural standardization.
