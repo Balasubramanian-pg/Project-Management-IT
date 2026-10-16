@@ -1,3 +1,3 @@
-# 255 Reducing latency
+# 255 Reducing Latency
 
-Updated version.
+Automated structural standardization.
