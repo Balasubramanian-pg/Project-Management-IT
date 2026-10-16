@@ -1,3 +1,3 @@
-# 419 Managing data cleaning
+# 419 Managing Data Cleaning
 
-Updated version.
+Automated structural standardization.
