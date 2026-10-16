@@ -1,3 +1,3 @@
-# 395 Monitoring API usage
+# 395 Monitoring API Usage
 
-Updated version.
+Automated structural standardization.
