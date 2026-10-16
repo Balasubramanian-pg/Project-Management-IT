@@ -1,3 +1,3 @@
-# 271 Conducting stress testing
+# 271 Conducting Stress Testing
 
-Updated version.
+Automated structural standardization.
