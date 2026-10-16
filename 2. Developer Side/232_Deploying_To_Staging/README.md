@@ -1,3 +1,3 @@
-# 232 Deploying to staging
+# 232 Deploying To Staging
 
-Updated version.
+Automated structural standardization.
