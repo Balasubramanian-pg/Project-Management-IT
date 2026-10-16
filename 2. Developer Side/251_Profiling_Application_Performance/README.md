@@ -1,3 +1,3 @@
-# 251 Profiling application performance
+# 251 Profiling Application Performance
 
-Updated version.
+Automated structural standardization.
