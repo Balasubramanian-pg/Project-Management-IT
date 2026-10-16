@@ -1,3 +1,3 @@
-# 296 Implementing logging for security
+# 296 Implementing Logging For Security
 
-Updated version.
+Automated structural standardization.
