@@ -1,3 +1,3 @@
-# 558 Running chaos experiments
+# 558 Running Chaos Experiments
 
-Updated version.
+Automated structural standardization.
