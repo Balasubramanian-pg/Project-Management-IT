@@ -1,3 +1,3 @@
-# 05 Asking clarifying questions
+# 005 Asking Clarifying Questions
 
-Updated version.
+Automated module standardization.
