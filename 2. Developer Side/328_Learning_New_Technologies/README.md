@@ -1,3 +1,3 @@
-# 328 Learning new technologies
+# 328 Learning New Technologies
 
-Updated version.
+Automated structural standardization.
