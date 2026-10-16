@@ -1,3 +1,3 @@
-# 03 Reading user stories critically
+# 003 Reading User Stories Critically
 
-Updated version.
+Automated module standardization.
