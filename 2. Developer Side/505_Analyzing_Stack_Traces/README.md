@@ -1,3 +1,3 @@
-# 505 Analyzing stack traces
+# 505 Analyzing Stack Traces
 
-Updated version.
+Automated structural standardization.
