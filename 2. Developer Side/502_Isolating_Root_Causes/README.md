@@ -1,3 +1,3 @@
-# 502 Isolating root causes
+# 502 Isolating Root Causes
 
-Updated version.
+Automated structural standardization.
