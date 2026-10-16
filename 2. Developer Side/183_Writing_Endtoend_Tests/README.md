@@ -1,3 +1,3 @@
-# 183 Writing end-to-end tests
+# 183 Writing Endtoend Tests
 
-Updated version.
+Automated structural standardization.
