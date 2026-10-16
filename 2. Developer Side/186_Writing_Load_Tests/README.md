@@ -1,3 +1,3 @@
-# 186 Writing load tests
+# 186 Writing Load Tests
 
-Updated version.
+Automated structural standardization.
