@@ -1,3 +1,3 @@
-# 291 Rotating credentials
+# 291 Rotating Credentials
 
-Updated version.
+Automated structural standardization.
