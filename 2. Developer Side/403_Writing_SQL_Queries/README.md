@@ -1,3 +1,3 @@
-# 403 Writing SQL queries
+# 403 Writing SQL Queries
 
-Updated version.
+Automated structural standardization.
