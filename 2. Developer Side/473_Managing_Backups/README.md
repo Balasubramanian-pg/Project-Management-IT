@@ -1,3 +1,3 @@
-# 473 Managing backups
+# 473 Managing Backups
 
-Updated version.
+Automated structural standardization.
