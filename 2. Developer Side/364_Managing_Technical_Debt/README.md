@@ -1,3 +1,3 @@
-# 364 Managing technical debt
+# 364 Managing Technical Debt
 
-Updated version.
+Automated structural standardization.
