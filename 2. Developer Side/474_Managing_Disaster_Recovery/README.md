@@ -1,3 +1,3 @@
-# 474 Managing disaster recovery
+# 474 Managing Disaster Recovery
 
-Updated version.
+Automated structural standardization.
