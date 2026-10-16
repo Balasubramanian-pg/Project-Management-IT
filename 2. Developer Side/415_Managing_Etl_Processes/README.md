@@ -1,3 +1,3 @@
-# 415 Managing ETL processes
+# 415 Managing Etl Processes
 
-Updated version.
+Automated structural standardization.
