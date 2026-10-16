@@ -1,3 +1,3 @@
-# 446 Handling authorization
+# 446 Handling Authorization
 
-Updated version.
+Automated structural standardization.
