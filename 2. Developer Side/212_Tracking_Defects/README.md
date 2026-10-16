@@ -1,3 +1,3 @@
-# 212 Tracking defects
+# 212 Tracking Defects
 
-Updated version.
+Automated structural standardization.
