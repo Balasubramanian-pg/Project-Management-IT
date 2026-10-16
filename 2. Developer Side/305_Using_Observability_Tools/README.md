@@ -1,3 +1,3 @@
-# 305 Using observability tools
+# 305 Using Observability Tools
 
-Updated version.
+Automated structural standardization.
