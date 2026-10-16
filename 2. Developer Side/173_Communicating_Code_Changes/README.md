@@ -1,3 +1,3 @@
-# 173 Communicating code changes
+# 173 Communicating Code Changes
 
-Updated version.
+Automated structural standardization.
