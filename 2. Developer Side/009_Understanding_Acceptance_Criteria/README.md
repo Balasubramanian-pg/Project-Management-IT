@@ -1,3 +1,3 @@
-# 09 Understanding acceptance criteria
+# 009 Understanding Acceptance Criteria
 
-Updated version.
+Automated module standardization.
