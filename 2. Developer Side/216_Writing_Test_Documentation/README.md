@@ -1,3 +1,3 @@
-# 216 Writing test documentation
+# 216 Writing Test Documentation
 
-Updated version.
+Automated structural standardization.
