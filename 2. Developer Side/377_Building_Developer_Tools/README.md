@@ -1,3 +1,3 @@
-# 377 Building developer tools
+# 377 Building Developer Tools
 
-Updated version.
+Automated structural standardization.
