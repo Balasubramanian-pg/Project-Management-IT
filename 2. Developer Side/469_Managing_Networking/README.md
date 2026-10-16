@@ -1,3 +1,3 @@
-# 469 Managing networking
+# 469 Managing Networking
 
-Updated version.
+Automated structural standardization.
