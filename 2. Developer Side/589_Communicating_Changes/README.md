@@ -1,3 +1,3 @@
-# 589 Communicating changes
+# 589 Communicating Changes
 
-Updated version.
+Automated structural standardization.
