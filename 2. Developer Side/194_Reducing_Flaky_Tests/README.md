@@ -1,3 +1,3 @@
-# 194 Reducing flaky tests
+# 194 Reducing Flaky Tests
 
-Updated version.
+Automated structural standardization.
