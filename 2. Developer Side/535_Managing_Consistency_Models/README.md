@@ -1,3 +1,3 @@
-# 535 Managing consistency models
+# 535 Managing Consistency Models
 
-Updated version.
+Automated structural standardization.
