@@ -1,3 +1,3 @@
-# 543 Profiling memory usage
+# 543 Profiling Memory Usage
 
-Updated version.
+Automated structural standardization.
