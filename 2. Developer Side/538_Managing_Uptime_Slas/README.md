@@ -1,3 +1,3 @@
-# 538 Managing uptime SLAs
+# 538 Managing Uptime Slas
 
-Updated version.
+Automated structural standardization.
