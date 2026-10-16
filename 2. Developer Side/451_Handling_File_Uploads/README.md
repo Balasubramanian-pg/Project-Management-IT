@@ -1,3 +1,3 @@
-# 451 Handling file uploads
+# 451 Handling File Uploads
 
-Updated version.
+Automated structural standardization.
