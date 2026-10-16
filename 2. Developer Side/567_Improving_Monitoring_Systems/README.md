@@ -1,3 +1,3 @@
-# 567 Improving monitoring systems
+# 567 Improving Monitoring Systems
 
-Updated version.
+Automated structural standardization.
