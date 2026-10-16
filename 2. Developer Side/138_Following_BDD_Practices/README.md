@@ -1,3 +1,3 @@
-# 138 Following BDD practices
+# 138 Following BDD Practices
 
-Updated version.
+Automated structural standardization.
