@@ -1,3 +1,3 @@
-# 25 Mapping business rules to code logic
+# 025 Mapping Business Rules To Code Logic
 
-Updated version.
+Automated structural standardization.
