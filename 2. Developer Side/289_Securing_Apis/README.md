@@ -1,3 +1,3 @@
-# 289 Securing APIs
+# 289 Securing Apis
 
-Updated version.
+Automated structural standardization.
