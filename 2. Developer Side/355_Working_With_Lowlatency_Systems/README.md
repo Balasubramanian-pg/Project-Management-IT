@@ -1,3 +1,3 @@
-# 355 Working with low-latency systems
+# 355 Working With Lowlatency Systems
 
-Updated version.
+Automated structural standardization.
