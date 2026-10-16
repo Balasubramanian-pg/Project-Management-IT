@@ -1,3 +1,3 @@
-# 596 Monitoring usage
+# 596 Monitoring Usage
 
-Updated version.
+Automated structural standardization.
