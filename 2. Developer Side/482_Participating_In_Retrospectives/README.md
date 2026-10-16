@@ -1,3 +1,3 @@
-# 482 Participating in retrospectives
+# 482 Participating In Retrospectives
 
-Updated version.
+Automated structural standardization.
