@@ -1,3 +1,3 @@
-# 564 Reducing manual effort
+# 564 Reducing Manual Effort
 
-Updated version.
+Automated structural standardization.
