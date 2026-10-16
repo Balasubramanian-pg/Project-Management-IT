@@ -1,3 +1,3 @@
-# 547 Tuning network performance
+# 547 Tuning Network Performance
 
-Updated version.
+Automated structural standardization.
