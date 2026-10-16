@@ -1,3 +1,3 @@
-# 478 Managing pipelines
+# 478 Managing Pipelines
 
-Updated version.
+Automated structural standardization.
