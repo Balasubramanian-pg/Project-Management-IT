@@ -1,3 +1,3 @@
-# 274 Managing concurrency
+# 274 Managing Concurrency
 
-Updated version.
+Automated structural standardization.
