@@ -1,3 +1,3 @@
-# 402 Designing NoSQL databases
+# 402 Designing Nosql Databases
 
-Updated version.
+Automated structural standardization.
