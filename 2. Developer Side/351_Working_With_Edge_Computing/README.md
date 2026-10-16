@@ -1,3 +1,3 @@
-# 351 Working with edge computing
+# 351 Working With Edge Computing
 
-Updated version.
+Automated structural standardization.
