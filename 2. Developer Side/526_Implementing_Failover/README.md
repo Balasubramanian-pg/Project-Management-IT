@@ -1,3 +1,3 @@
-# 526 Implementing failover
+# 526 Implementing Failover
 
-Updated version.
+Automated structural standardization.
