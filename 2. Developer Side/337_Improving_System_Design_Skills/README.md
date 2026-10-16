@@ -1,3 +1,3 @@
-# 337 Improving system design skills
+# 337 Improving System Design Skills
 
-Updated version.
+Automated structural standardization.
