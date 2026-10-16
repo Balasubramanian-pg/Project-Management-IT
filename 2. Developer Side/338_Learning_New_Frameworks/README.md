@@ -1,3 +1,3 @@
-# 338 Learning new frameworks
+# 338 Learning New Frameworks
 
-Updated version.
+Automated structural standardization.
