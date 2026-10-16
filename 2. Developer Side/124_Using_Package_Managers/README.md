@@ -1,3 +1,3 @@
-# 124 Using package managers
+# 124 Using Package Managers
 
-Updated version.
+Automated structural standardization.
