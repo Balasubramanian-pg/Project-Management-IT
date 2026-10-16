@@ -1,3 +1,3 @@
-# 196 Writing test data generators
+# 196 Writing Test Data Generators
 
-Updated version.
+Automated structural standardization.
