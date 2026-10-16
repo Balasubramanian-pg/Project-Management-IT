@@ -1,3 +1,3 @@
-# 517 Using monitoring tools
+# 517 Using Monitoring Tools
 
-Updated version.
+Automated structural standardization.
