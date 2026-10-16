@@ -1,3 +1,3 @@
-# 257 Using caching effectively
+# 257 Using Caching Effectively
 
-Updated version.
+Automated structural standardization.
