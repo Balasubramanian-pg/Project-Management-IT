@@ -1,3 +1,3 @@
-# 110 Optimizing loops and iterations
+# 110 Optimizing Loops And Iterations
 
-Updated version.
+Automated structural standardization.
