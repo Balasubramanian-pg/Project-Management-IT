@@ -1,3 +1,3 @@
-# 310 Handling incidents
+# 310 Handling Incidents
 
-Updated version.
+Automated structural standardization.
