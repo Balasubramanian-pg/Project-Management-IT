@@ -1,3 +1,3 @@
-# 298 Following OWASP guidelines
+# 298 Following Owasp Guidelines
 
-Updated version.
+Automated structural standardization.
