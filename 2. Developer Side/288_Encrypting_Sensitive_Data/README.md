@@ -1,3 +1,3 @@
-# 288 Encrypting sensitive data
+# 288 Encrypting Sensitive Data
 
-Updated version.
+Automated structural standardization.
