@@ -1,3 +1,3 @@
-# 367 Avoiding overengineering
+# 367 Avoiding Overengineering
 
-Updated version.
+Automated structural standardization.
