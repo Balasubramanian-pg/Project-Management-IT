@@ -1,3 +1,3 @@
-# 580 Driving innovation
+# 580 Driving Innovation
 
-Updated version.
+Automated structural standardization.
