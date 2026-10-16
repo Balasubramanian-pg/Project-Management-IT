@@ -1,3 +1,3 @@
-# 504 Using debuggers effectively
+# 504 Using Debuggers Effectively
 
-Updated version.
+Automated structural standardization.
