@@ -1,3 +1,3 @@
-# 542 Profiling CPU usage
+# 542 Profiling Cpu Usage
 
-Updated version.
+Automated structural standardization.
