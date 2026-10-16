@@ -1,3 +1,3 @@
-# 239 Managing blue-green deployments
+# 239 Managing Bluegreen Deployments
 
-Updated version.
+Automated structural standardization.
