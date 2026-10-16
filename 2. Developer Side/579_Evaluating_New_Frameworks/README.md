@@ -1,3 +1,3 @@
-# 579 Evaluating new frameworks
+# 579 Evaluating New Frameworks
 
-Updated version.
+Automated structural standardization.
