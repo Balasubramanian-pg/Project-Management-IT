@@ -1,3 +1,3 @@
-# 322 Writing API documentation
+# 322 Writing API Documentation
 
-Updated version.
+Automated structural standardization.
