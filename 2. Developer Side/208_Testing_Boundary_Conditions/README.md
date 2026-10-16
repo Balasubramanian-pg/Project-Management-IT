@@ -1,3 +1,3 @@
-# 208 Testing boundary conditions
+# 208 Testing Boundary Conditions
 
-Updated version.
+Automated structural standardization.
