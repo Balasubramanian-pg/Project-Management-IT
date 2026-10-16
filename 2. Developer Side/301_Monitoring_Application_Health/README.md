@@ -1,3 +1,3 @@
-# 301 Monitoring application health
+# 301 Monitoring Application Health
 
-Updated version.
+Automated structural standardization.
