@@ -1,3 +1,3 @@
-# 461 Managing cloud infrastructure
+# 461 Managing Cloud Infrastructure
 
-Updated version.
+Automated structural standardization.
