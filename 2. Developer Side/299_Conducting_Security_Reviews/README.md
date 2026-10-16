@@ -1,3 +1,3 @@
-# 299 Conducting security reviews
+# 299 Conducting Security Reviews
 
-Updated version.
+Automated structural standardization.
