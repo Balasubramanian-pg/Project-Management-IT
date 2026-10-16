@@ -1,3 +1,3 @@
-# 287 Managing user roles
+# 287 Managing User Roles
 
-Updated version.
+Automated structural standardization.
