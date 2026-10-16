@@ -1,3 +1,3 @@
-# 226 Integrating unit tests in CI
+# 226 Integrating Unit Tests In CI
 
-Updated version.
+Automated structural standardization.
