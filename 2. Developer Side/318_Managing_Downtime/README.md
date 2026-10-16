@@ -1,3 +1,3 @@
-# 318 Managing downtime
+# 318 Managing Downtime
 
-Updated version.
+Automated structural standardization.
