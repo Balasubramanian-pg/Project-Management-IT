@@ -1,3 +1,3 @@
-# 292 Using HTTPS properly
+# 292 Using Https Properly
 
-Updated version.
+Automated structural standardization.
