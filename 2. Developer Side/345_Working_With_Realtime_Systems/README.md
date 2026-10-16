@@ -1,3 +1,3 @@
-# 345 Working with real-time systems
+# 345 Working With Realtime Systems
 
-Updated version.
+Automated structural standardization.
