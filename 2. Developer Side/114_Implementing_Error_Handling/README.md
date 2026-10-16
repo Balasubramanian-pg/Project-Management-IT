@@ -1,3 +1,3 @@
-# 114 Implementing error handling
+# 114 Implementing Error Handling
 
-Updated version.
+Automated structural standardization.
