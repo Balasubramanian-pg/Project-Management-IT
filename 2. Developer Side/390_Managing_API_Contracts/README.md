@@ -1,3 +1,3 @@
-# 390 Managing API contracts
+# 390 Managing API Contracts
 
-Updated version.
+Automated structural standardization.
