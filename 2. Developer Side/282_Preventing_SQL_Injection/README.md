@@ -1,3 +1,3 @@
-# 282 Preventing SQL injection
+# 282 Preventing SQL Injection
 
-Updated version.
+Automated structural standardization.
