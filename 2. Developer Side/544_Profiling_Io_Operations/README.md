@@ -1,3 +1,3 @@
-# 544 Profiling IO operations
+# 544 Profiling Io Operations
 
-Updated version.
+Automated structural standardization.
