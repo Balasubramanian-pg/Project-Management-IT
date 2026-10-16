@@ -1,3 +1,3 @@
-# 426 Handling forms
+# 426 Handling Forms
 
-Updated version.
+Automated structural standardization.
