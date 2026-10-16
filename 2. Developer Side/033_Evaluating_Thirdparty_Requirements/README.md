@@ -1,3 +1,3 @@
-# 33 Evaluating third-party requirements
+# 033 Evaluating Thirdparty Requirements
 
-Updated version.
+Automated structural standardization.
