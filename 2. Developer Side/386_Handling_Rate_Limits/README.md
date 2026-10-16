@@ -1,3 +1,3 @@
-# 386 Handling rate limits
+# 386 Handling Rate Limits
 
-Updated version.
+Automated structural standardization.
