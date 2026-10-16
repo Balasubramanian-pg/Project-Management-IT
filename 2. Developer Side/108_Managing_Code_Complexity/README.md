@@ -1,3 +1,3 @@
-# 108 Managing code complexity
+# 108 Managing Code Complexity
 
-Updated version.
+Automated structural standardization.
