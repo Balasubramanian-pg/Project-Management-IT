@@ -1,3 +1,3 @@
-# 342 Working with microservices
+# 342 Working With Microservices
 
-Updated version.
+Automated structural standardization.
