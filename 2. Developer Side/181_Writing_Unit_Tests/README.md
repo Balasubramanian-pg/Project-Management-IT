@@ -1,3 +1,3 @@
-# 181 Writing unit tests
+# 181 Writing Unit Tests
 
-Updated version.
+Automated structural standardization.
