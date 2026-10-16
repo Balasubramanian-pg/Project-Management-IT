@@ -1,3 +1,3 @@
-# 498 Contributing to team goals
+# 498 Contributing To Team Goals
 
-Updated version.
+Automated structural standardization.
