@@ -1,3 +1,3 @@
-# 140 Writing commit messages
+# 140 Writing Commit Messages
 
-Updated version.
+Automated structural standardization.
