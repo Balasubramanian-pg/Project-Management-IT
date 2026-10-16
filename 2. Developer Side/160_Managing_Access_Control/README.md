@@ -1,3 +1,3 @@
-# 160 Managing access control
+# 160 Managing Access Control
 
-Updated version.
+Automated structural standardization.
