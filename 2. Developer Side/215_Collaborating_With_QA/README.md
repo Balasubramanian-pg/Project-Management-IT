@@ -1,3 +1,3 @@
-# 215 Collaborating with QA
+# 215 Collaborating With QA
 
-Updated version.
+Automated structural standardization.
