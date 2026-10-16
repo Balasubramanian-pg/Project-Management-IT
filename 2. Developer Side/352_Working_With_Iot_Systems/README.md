@@ -1,3 +1,3 @@
-# 352 Working with IoT systems
+# 352 Working With Iot Systems
 
-Updated version.
+Automated structural standardization.
