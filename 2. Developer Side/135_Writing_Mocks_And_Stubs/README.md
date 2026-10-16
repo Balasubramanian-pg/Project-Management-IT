@@ -1,3 +1,3 @@
-# 135 Writing mocks and stubs
+# 135 Writing Mocks And Stubs
 
-Updated version.
+Automated structural standardization.
