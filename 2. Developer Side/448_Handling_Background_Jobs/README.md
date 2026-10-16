@@ -1,3 +1,3 @@
-# 448 Handling background jobs
+# 448 Handling Background Jobs
 
-Updated version.
+Automated structural standardization.
