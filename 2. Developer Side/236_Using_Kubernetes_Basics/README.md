@@ -1,3 +1,3 @@
-# 236 Using Kubernetes basics
+# 236 Using Kubernetes Basics
 
-Updated version.
+Automated structural standardization.
