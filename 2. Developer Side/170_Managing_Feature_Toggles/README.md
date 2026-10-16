@@ -1,3 +1,3 @@
-# 170 Managing feature toggles
+# 170 Managing Feature Toggles
 
-Updated version.
+Automated structural standardization.
