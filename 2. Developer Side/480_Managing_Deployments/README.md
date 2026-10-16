@@ -1,3 +1,3 @@
-# 480 Managing deployments
+# 480 Managing Deployments
 
-Updated version.
+Automated structural standardization.
