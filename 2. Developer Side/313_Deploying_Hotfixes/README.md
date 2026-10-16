@@ -1,3 +1,3 @@
-# 313 Deploying hotfixes
+# 313 Deploying Hotfixes
 
-Updated version.
+Automated structural standardization.
