@@ -1,3 +1,3 @@
-# 508 Debugging memory leaks
+# 508 Debugging Memory Leaks
 
-Updated version.
+Automated structural standardization.
