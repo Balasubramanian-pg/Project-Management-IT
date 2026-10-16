@@ -1,3 +1,3 @@
-# 22 Identifying security requirements
+# 022 Identifying Security Requirements
 
-Updated version.
+Automated structural standardization.
