@@ -1,3 +1,3 @@
-# 550 Improving tail latency
+# 550 Improving Tail Latency
 
-Updated version.
+Automated structural standardization.
