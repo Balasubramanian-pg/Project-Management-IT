@@ -1,3 +1,3 @@
-# 470 Managing load balancers
+# 470 Managing Load Balancers
 
-Updated version.
+Automated structural standardization.
