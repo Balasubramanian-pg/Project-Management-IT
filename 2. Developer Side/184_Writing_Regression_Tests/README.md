@@ -1,3 +1,3 @@
-# 184 Writing regression tests
+# 184 Writing Regression Tests
 
-Updated version.
+Automated structural standardization.
