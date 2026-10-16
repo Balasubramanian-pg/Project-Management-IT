@@ -1,3 +1,3 @@
-# 541 Benchmarking systems
+# 541 Benchmarking Systems
 
-Updated version.
+Automated structural standardization.
