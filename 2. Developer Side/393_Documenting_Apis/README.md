@@ -1,3 +1,3 @@
-# 393 Documenting APIs
+# 393 Documenting Apis
 
-Updated version.
+Automated structural standardization.
