@@ -1,3 +1,3 @@
-# 398 Handling schema changes
+# 398 Handling Schema Changes
 
-Updated version.
+Automated structural standardization.
