@@ -1,3 +1,3 @@
-# 157 Tagging releases
+# 157 Tagging Releases
 
-Updated version.
+Automated structural standardization.
