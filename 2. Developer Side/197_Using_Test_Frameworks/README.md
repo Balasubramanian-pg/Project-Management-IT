@@ -1,3 +1,3 @@
-# 197 Using test frameworks
+# 197 Using Test Frameworks
 
-Updated version.
+Automated structural standardization.
