@@ -1,3 +1,3 @@
-# 388 Handling timeouts
+# 388 Handling Timeouts
 
-Updated version.
+Automated structural standardization.
