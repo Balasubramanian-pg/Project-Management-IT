@@ -1,3 +1,3 @@
-# 414 Handling large datasets
+# 414 Handling Large Datasets
 
-Updated version.
+Automated structural standardization.
