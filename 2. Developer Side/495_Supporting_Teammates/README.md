@@ -1,3 +1,3 @@
-# 495 Supporting teammates
+# 495 Supporting Teammates
 
-Updated version.
+Automated structural standardization.
