@@ -1,3 +1,3 @@
-# 284 Preventing CSRF attacks
+# 284 Preventing Csrf Attacks
 
-Updated version.
+Automated structural standardization.
