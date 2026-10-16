@@ -1,3 +1,3 @@
-# 518 Writing diagnostic tools
+# 518 Writing Diagnostic Tools
 
-Updated version.
+Automated structural standardization.
