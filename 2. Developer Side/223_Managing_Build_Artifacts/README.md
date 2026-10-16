@@ -1,3 +1,3 @@
-# 223 Managing build artifacts
+# 223 Managing Build Artifacts
 
-Updated version.
+Automated structural standardization.
