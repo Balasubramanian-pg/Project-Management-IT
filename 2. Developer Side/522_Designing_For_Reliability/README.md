@@ -1,3 +1,3 @@
-# 522 Designing for reliability
+# 522 Designing For Reliability
 
-Updated version.
+Automated structural standardization.
