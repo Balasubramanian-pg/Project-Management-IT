@@ -1,3 +1,3 @@
-# 278 Reducing redundant computations
+# 278 Reducing Redundant Computations
 
-Updated version.
+Automated structural standardization.
