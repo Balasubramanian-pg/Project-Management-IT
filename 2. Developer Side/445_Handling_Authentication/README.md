@@ -1,3 +1,3 @@
-# 445 Handling authentication
+# 445 Handling Authentication
 
-Updated version.
+Automated structural standardization.
