@@ -1,3 +1,3 @@
-# 190 Writing API tests
+# 190 Writing API Tests
 
-Updated version.
+Automated structural standardization.
