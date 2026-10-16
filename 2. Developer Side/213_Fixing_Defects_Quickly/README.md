@@ -1,3 +1,3 @@
-# 213 Fixing defects quickly
+# 213 Fixing Defects Quickly
 
-Updated version.
+Automated structural standardization.
