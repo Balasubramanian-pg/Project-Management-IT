@@ -1,3 +1,3 @@
-# 464 Using cloud services
+# 464 Using Cloud Services
 
-Updated version.
+Automated structural standardization.
