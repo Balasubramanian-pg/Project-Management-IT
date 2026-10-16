@@ -1,3 +1,3 @@
-# 353 Working with blockchain systems
+# 353 Working With Blockchain Systems
 
-Updated version.
+Automated structural standardization.
