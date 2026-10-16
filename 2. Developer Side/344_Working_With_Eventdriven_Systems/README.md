@@ -1,3 +1,3 @@
-# 344 Working with event-driven systems
+# 344 Working With Eventdriven Systems
 
-Updated version.
+Automated structural standardization.
