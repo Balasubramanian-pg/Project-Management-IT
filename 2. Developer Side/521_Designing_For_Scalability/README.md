@@ -1,3 +1,3 @@
-# 521 Designing for scalability
+# 521 Designing For Scalability
 
-Updated version.
+Automated structural standardization.
