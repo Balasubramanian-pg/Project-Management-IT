@@ -1,3 +1,3 @@
-# 161 Collaborating with team members
+# 161 Collaborating With Team Members
 
-Updated version.
+Automated structural standardization.
