@@ -1,3 +1,3 @@
-# 166 Avoiding long-lived branches
+# 166 Avoiding Longlived Branches
 
-Updated version.
+Automated structural standardization.
