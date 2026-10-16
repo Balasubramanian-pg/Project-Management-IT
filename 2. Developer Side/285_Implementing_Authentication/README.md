@@ -1,3 +1,3 @@
-# 285 Implementing authentication
+# 285 Implementing Authentication
 
-Updated version.
+Automated structural standardization.
