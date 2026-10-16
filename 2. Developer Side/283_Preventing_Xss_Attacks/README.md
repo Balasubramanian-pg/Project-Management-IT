@@ -1,3 +1,3 @@
-# 283 Preventing XSS attacks
+# 283 Preventing Xss Attacks
 
-Updated version.
+Automated structural standardization.
