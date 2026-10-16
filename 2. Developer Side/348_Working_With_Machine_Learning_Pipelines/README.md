@@ -1,3 +1,3 @@
-# 348 Working with machine learning pipelines
+# 348 Working With Machine Learning Pipelines
 
-Updated version.
+Automated structural standardization.
