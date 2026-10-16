@@ -1,3 +1,3 @@
-# 219 Improving test speed
+# 219 Improving Test Speed
 
-Updated version.
+Automated structural standardization.
