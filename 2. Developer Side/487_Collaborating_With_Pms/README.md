@@ -1,3 +1,3 @@
-# 487 Collaborating with PMs
+# 487 Collaborating With Pms
 
-Updated version.
+Automated structural standardization.
