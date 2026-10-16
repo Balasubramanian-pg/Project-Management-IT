@@ -1,3 +1,3 @@
-# 331 Reviewing best practices
+# 331 Reviewing Best Practices
 
-Updated version.
+Automated structural standardization.
