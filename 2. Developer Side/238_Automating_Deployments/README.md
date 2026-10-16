@@ -1,3 +1,3 @@
-# 238 Automating deployments
+# 238 Automating Deployments
 
-Updated version.
+Automated structural standardization.
