@@ -1,3 +1,3 @@
-# 450 Managing caching
+# 450 Managing Caching
 
-Updated version.
+Automated structural standardization.
