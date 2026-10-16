@@ -1,3 +1,3 @@
-# 586 Upgrading libraries
+# 586 Upgrading Libraries
 
-Updated version.
+Automated structural standardization.
