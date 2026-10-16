@@ -1,3 +1,3 @@
-# 420 Managing data transformations
+# 420 Managing Data Transformations
 
-Updated version.
+Automated structural standardization.
