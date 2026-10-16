@@ -1,3 +1,3 @@
-# 387 Handling retries
+# 387 Handling Retries
 
-Updated version.
+Automated structural standardization.
