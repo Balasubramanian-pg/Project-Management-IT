@@ -1,3 +1,3 @@
-# 256 Improving throughput
+# 256 Improving Throughput
 
-Updated version.
+Automated structural standardization.
