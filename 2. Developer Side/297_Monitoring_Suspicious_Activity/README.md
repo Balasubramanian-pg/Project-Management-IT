@@ -1,3 +1,3 @@
-# 297 Monitoring suspicious activity
+# 297 Monitoring Suspicious Activity
 
-Updated version.
+Automated structural standardization.
