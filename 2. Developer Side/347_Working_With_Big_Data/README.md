@@ -1,3 +1,3 @@
-# 347 Working with big data
+# 347 Working With Big Data
 
-Updated version.
+Automated structural standardization.
