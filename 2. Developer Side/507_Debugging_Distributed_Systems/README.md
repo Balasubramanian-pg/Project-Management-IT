@@ -1,3 +1,3 @@
-# 507 Debugging distributed systems
+# 507 Debugging Distributed Systems
 
-Updated version.
+Automated structural standardization.
