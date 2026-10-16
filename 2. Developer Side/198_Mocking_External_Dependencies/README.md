@@ -1,3 +1,3 @@
-# 198 Mocking external dependencies
+# 198 Mocking External Dependencies
 
-Updated version.
+Automated structural standardization.
