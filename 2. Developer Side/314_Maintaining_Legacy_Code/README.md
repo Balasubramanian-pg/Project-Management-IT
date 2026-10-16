@@ -1,3 +1,3 @@
-# 314 Maintaining legacy code
+# 314 Maintaining Legacy Code
 
-Updated version.
+Automated structural standardization.
