@@ -1,3 +1,3 @@
-# 428 Managing CSS styles
+# 428 Managing Css Styles
 
-Updated version.
+Automated structural standardization.
