@@ -1,3 +1,3 @@
-# 133 Writing unit tests alongside code
+# 133 Writing Unit Tests Alongside Code
 
-Updated version.
+Automated structural standardization.
