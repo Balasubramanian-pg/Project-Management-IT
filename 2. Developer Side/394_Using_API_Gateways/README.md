@@ -1,3 +1,3 @@
-# 394 Using API gateways
+# 394 Using API Gateways
 
-Updated version.
+Automated structural standardization.
