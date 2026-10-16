@@ -1,3 +1,3 @@
-# 432 Managing frontend performance
+# 432 Managing Frontend Performance
 
-Updated version.
+Automated structural standardization.
