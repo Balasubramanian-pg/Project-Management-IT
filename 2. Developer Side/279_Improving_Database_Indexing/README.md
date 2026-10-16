@@ -1,3 +1,3 @@
-# 279 Improving database indexing
+# 279 Improving Database Indexing
 
-Updated version.
+Automated structural standardization.
