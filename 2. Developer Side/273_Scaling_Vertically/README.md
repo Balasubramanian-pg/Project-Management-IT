@@ -1,3 +1,3 @@
-# 273 Scaling vertically
+# 273 Scaling Vertically
 
-Updated version.
+Automated structural standardization.
