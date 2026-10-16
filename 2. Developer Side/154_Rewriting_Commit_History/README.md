@@ -1,3 +1,3 @@
-# 154 Rewriting commit history
+# 154 Rewriting Commit History
 
-Updated version.
+Automated structural standardization.
