@@ -1,3 +1,3 @@
-# 346 Working with data pipelines
+# 346 Working With Data Pipelines
 
-Updated version.
+Automated structural standardization.
