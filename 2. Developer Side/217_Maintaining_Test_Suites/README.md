@@ -1,3 +1,3 @@
-# 217 Maintaining test suites
+# 217 Maintaining Test Suites
 
-Updated version.
+Automated structural standardization.
