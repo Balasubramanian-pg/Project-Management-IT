@@ -1,3 +1,3 @@
-# 10 Writing developer notes on requirements
+# 010 Writing Developer Notes On Requirements
 
-Updated version.
+Automated structural standardization.
