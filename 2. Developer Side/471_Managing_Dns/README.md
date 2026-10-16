@@ -1,3 +1,3 @@
-# 471 Managing DNS
+# 471 Managing Dns
 
-Updated version.
+Automated structural standardization.
