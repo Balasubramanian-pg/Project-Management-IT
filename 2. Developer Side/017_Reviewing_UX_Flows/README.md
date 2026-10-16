@@ -1,3 +1,3 @@
-# 17 Reviewing UX flows
+# 017 Reviewing UX Flows
 
-Updated version.
+Automated structural standardization.
