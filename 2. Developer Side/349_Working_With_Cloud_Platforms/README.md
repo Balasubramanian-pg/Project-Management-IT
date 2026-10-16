@@ -1,3 +1,3 @@
-# 349 Working with cloud platforms
+# 349 Working With Cloud Platforms
 
-Updated version.
+Automated structural standardization.
