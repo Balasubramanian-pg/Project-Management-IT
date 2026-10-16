@@ -1,3 +1,3 @@
-# 326 Maintaining knowledge base
+# 326 Maintaining Knowledge Base
 
-Updated version.
+Automated structural standardization.
