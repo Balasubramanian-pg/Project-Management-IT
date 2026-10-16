@@ -1,3 +1,3 @@
-# 18 Understanding system constraints
+# 018 Understanding System Constraints
 
-Updated version.
+Automated structural standardization.
