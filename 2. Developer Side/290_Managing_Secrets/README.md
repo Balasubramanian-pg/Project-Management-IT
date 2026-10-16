@@ -1,3 +1,3 @@
-# 290 Managing secrets
+# 290 Managing Secrets
 
-Updated version.
+Automated structural standardization.
