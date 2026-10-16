@@ -1,3 +1,3 @@
-# 294 Sanitizing output
+# 294 Sanitizing Output
 
-Updated version.
+Automated structural standardization.
