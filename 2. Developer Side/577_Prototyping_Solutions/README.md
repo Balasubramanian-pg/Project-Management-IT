@@ -1,3 +1,3 @@
-# 577 Prototyping solutions
+# 577 Prototyping Solutions
 
-Updated version.
+Automated structural standardization.
