@@ -1,3 +1,3 @@
-# 568 Improving documentation
+# 568 Improving Documentation
 
-Updated version.
+Automated structural standardization.
