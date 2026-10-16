@@ -1,3 +1,3 @@
-# 405 Managing transactions
+# 405 Managing Transactions
 
-Updated version.
+Automated structural standardization.
