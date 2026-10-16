@@ -1,3 +1,3 @@
-# 276 Avoiding blocking operations
+# 276 Avoiding Blocking Operations
 
-Updated version.
+Automated structural standardization.
