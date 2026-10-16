@@ -1,3 +1,3 @@
-# 330 Practicing problem solving
+# 330 Practicing Problem Solving
 
-Updated version.
+Automated structural standardization.
