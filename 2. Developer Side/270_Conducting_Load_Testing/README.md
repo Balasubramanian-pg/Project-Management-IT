@@ -1,3 +1,3 @@
-# 270 Conducting load testing
+# 270 Conducting Load Testing
 
-Updated version.
+Automated structural standardization.
