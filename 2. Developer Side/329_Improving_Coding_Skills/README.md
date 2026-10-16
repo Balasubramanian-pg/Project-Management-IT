@@ -1,3 +1,3 @@
-# 329 Improving coding skills
+# 329 Improving Coding Skills
 
-Updated version.
+Automated structural standardization.
