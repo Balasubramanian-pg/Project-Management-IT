@@ -1,3 +1,3 @@
-# 566 Improving test automation
+# 566 Improving Test Automation
 
-Updated version.
+Automated structural standardization.
