@@ -1,3 +1,3 @@
-# 178 Managing monorepos
+# 178 Managing Monorepos
 
-Updated version.
+Automated structural standardization.
