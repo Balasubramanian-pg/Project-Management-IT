@@ -1,3 +1,3 @@
-# 449 Handling queues
+# 449 Handling Queues
 
-Updated version.
+Automated structural standardization.
