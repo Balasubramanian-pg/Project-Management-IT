@@ -1,3 +1,3 @@
-# 578 Running experiments
+# 578 Running Experiments
 
-Updated version.
+Automated structural standardization.
