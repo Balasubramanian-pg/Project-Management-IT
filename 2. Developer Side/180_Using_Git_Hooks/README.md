@@ -1,3 +1,3 @@
-# 180 Using Git hooks
+# 180 Using Git Hooks
 
-Updated version.
+Automated structural standardization.
