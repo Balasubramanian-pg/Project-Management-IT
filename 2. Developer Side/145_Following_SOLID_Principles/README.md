@@ -1,3 +1,3 @@
-# 145 Following SOLID principles
+# 145 Following SOLID Principles
 
-Updated version.
+Automated structural standardization.
