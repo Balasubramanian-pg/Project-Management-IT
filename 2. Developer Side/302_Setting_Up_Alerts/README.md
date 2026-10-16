@@ -1,3 +1,3 @@
-# 302 Setting up alerts
+# 302 Setting Up Alerts
 
-Updated version.
+Automated structural standardization.
