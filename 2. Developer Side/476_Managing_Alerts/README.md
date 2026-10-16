@@ -1,3 +1,3 @@
-# 476 Managing alerts
+# 476 Managing Alerts
 
-Updated version.
+Automated structural standardization.
