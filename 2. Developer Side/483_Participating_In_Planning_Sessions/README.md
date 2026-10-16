@@ -1,3 +1,3 @@
-# 483 Participating in planning sessions
+# 483 Participating In Planning Sessions
 
-Updated version.
+Automated structural standardization.
