@@ -1,3 +1,3 @@
-# 324 Documenting architecture
+# 324 Documenting Architecture
 
-Updated version.
+Automated structural standardization.
