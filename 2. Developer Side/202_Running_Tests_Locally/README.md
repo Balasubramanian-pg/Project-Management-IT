@@ -1,3 +1,3 @@
-# 202 Running tests locally
+# 202 Running Tests Locally
 
-Updated version.
+Automated structural standardization.
