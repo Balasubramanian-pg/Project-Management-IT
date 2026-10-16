@@ -1,3 +1,3 @@
-# 590 Maintaining documentation
+# 590 Maintaining Documentation
 
-Updated version.
+Automated structural standardization.
