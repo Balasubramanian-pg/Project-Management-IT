@@ -1,3 +1,3 @@
-# 581 Owning modules
+# 581 Owning Modules
 
-Updated version.
+Automated structural standardization.
