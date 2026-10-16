@@ -1,3 +1,3 @@
-# 368 Avoiding underengineering
+# 368 Avoiding Underengineering
 
-Updated version.
+Automated structural standardization.
