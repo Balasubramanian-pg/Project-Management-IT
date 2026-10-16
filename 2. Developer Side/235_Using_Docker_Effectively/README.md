@@ -1,3 +1,3 @@
-# 235 Using Docker effectively
+# 235 Using Docker Effectively
 
-Updated version.
+Automated structural standardization.
