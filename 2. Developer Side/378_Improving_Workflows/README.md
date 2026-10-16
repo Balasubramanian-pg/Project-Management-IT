@@ -1,3 +1,3 @@
-# 378 Improving workflows
+# 378 Improving Workflows
 
-Updated version.
+Automated structural standardization.
