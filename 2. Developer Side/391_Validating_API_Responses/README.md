@@ -1,3 +1,3 @@
-# 391 Validating API responses
+# 391 Validating API Responses
 
-Updated version.
+Automated structural standardization.
