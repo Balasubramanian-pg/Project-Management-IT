@@ -1,3 +1,3 @@
-# 372 Mentoring junior developers
+# 372 Mentoring Junior Developers
 
-Updated version.
+Automated structural standardization.
