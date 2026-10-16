@@ -1,3 +1,3 @@
-# 323 Writing README files
+# 323 Writing Readme Files
 
-Updated version.
+Automated structural standardization.
