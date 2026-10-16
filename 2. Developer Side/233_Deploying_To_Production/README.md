@@ -1,3 +1,3 @@
-# 233 Deploying to production
+# 233 Deploying To Production
 
-Updated version.
+Automated structural standardization.
