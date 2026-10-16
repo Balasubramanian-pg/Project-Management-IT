@@ -1,3 +1,3 @@
-# 598 Improving readability
+# 598 Improving Readability
 
-Updated version.
+Automated structural standardization.
