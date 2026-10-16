@@ -1,3 +1,3 @@
-# 325 Documenting decisions
+# 325 Documenting Decisions
 
-Updated version.
+Automated structural standardization.
