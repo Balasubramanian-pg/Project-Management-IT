@@ -1,3 +1,3 @@
-# 592 Managing releases
+# 592 Managing Releases
 
-Updated version.
+Automated structural standardization.
