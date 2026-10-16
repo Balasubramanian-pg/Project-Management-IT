@@ -1,3 +1,3 @@
-# 358 Working with scalable architectures
+# 358 Working With Scalable Architectures
 
-Updated version.
+Automated structural standardization.
