@@ -1,3 +1,3 @@
-# 359 Working with resilient systems
+# 359 Working With Resilient Systems
 
-Updated version.
+Automated structural standardization.
