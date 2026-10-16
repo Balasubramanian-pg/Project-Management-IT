@@ -1,3 +1,3 @@
-# 455 Handling server errors
+# 455 Handling Server Errors
 
-Updated version.
+Automated structural standardization.
