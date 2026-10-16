@@ -1,3 +1,3 @@
-# 413 Managing partitions
+# 413 Managing Partitions
 
-Updated version.
+Automated structural standardization.
