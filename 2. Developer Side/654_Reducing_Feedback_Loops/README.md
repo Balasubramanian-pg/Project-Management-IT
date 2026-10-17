@@ -1,3 +1,3 @@
-# 654 Reducing feedback loops
+# 654 Reducing Feedback Loops
 
-Updated version.
+Automated structural standardization.
