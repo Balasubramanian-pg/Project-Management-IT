@@ -1,3 +1,3 @@
-# 607 Healthcare systems engineering
+# 607 Healthcare Systems Engineering
 
-Updated version.
+Automated structural standardization.
