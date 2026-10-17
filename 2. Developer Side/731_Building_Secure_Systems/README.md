@@ -1,3 +1,3 @@
-# 731 Building secure systems
+# 731 Building Secure Systems
 
-Updated version.
+Automated structural standardization.
