@@ -1,3 +1,3 @@
-# 782 Designing systems for billions of events
+# 782 Designing Systems For Billions Of Events
 
-Updated version.
+Automated structural standardization.
