@@ -1,3 +1,3 @@
-# 612 Streaming architectures
+# 612 Streaming Architectures
 
-Updated version.
+Automated structural standardization.
