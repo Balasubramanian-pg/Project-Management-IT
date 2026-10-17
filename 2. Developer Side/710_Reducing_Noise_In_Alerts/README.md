@@ -1,3 +1,3 @@
-# 710 Reducing noise in alerts
+# 710 Reducing Noise In Alerts
 
-Updated version.
+Automated structural standardization.
