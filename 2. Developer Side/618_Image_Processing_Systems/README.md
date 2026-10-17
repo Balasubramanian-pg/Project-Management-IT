@@ -1,3 +1,3 @@
-# 618 Image processing systems
+# 618 Image Processing Systems
 
-Updated version.
+Automated structural standardization.
