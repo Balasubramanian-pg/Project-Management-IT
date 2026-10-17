@@ -1,3 +1,3 @@
-# 777 Handling scaling limits
+# 777 Handling Scaling Limits
 
-Updated version.
+Automated structural standardization.
