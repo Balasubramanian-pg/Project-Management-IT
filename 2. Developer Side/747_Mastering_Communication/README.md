@@ -1,3 +1,3 @@
-# 747 Mastering communication
+# 747 Mastering Communication
 
-Updated version.
+Automated structural standardization.
