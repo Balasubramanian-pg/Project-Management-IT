@@ -1,3 +1,3 @@
-# 735 Building extensible systems
+# 735 Building Extensible Systems
 
-Updated version.
+Automated structural standardization.
