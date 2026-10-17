@@ -1,3 +1,3 @@
-# 666 Handling service discovery
+# 666 Handling Service Discovery
 
-Updated version.
+Automated structural standardization.
