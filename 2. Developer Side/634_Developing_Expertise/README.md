@@ -1,3 +1,3 @@
-# 634 Developing expertise
+# 634 Developing Expertise
 
-Updated version.
+Automated structural standardization.
