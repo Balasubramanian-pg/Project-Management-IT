@@ -1,3 +1,3 @@
-# 793 Designing evolvable systems
+# 793 Designing Evolvable Systems
 
-Updated version.
+Automated structural standardization.
