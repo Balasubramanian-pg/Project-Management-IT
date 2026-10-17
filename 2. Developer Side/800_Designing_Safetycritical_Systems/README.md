@@ -1,3 +1,3 @@
-# 800 Designing safety-critical systems
+# 800 Designing Safetycritical Systems
 
-Updated version.
+Automated structural standardization.
