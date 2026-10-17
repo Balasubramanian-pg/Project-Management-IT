@@ -1,3 +1,3 @@
-# 704 Reducing MTTR
+# 704 Reducing Mttr
 
-Updated version.
+Automated structural standardization.
