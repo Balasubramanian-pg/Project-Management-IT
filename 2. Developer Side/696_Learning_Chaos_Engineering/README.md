@@ -1,3 +1,3 @@
-# 696 Learning chaos engineering
+# 696 Learning Chaos Engineering
 
-Updated version.
+Automated structural standardization.
