@@ -1,3 +1,3 @@
-# 740 Mastering system design
+# 740 Mastering System Design
 
-Updated version.
+Automated structural standardization.
