@@ -1,3 +1,3 @@
-# 611 Data engineering pipelines
+# 611 Data Engineering Pipelines
 
-Updated version.
+Automated structural standardization.
