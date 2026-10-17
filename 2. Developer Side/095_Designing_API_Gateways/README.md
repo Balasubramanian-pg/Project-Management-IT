@@ -1,3 +1,3 @@
-# 95 Designing API gateways
+# 095 Designing API Gateways
 
-Updated version.
+Automated structural standardization.
