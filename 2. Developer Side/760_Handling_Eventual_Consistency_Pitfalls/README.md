@@ -1,3 +1,3 @@
-# 760 Handling eventual consistency pitfalls
+# 760 Handling Eventual Consistency Pitfalls
 
-Updated version.
+Automated structural standardization.
