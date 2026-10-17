@@ -1,3 +1,3 @@
-# 73 Designing monitoring systems
+# 073 Designing Monitoring Systems
 
-Updated version.
+Automated structural standardization.
