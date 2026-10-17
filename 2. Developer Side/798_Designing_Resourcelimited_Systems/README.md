@@ -1,3 +1,3 @@
-# 798 Designing resource-limited systems
+# 798 Designing Resourcelimited Systems
 
-Updated version.
+Automated structural standardization.
