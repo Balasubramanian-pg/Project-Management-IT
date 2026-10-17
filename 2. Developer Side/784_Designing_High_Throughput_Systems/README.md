@@ -1,3 +1,3 @@
-# 784 Designing high throughput systems
+# 784 Designing High Throughput Systems
 
-Updated version.
+Automated structural standardization.
