@@ -1,3 +1,3 @@
-# 645 Using profiling tools
+# 645 Using Profiling Tools
 
-Updated version.
+Automated structural standardization.
