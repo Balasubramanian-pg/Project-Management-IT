@@ -1,3 +1,3 @@
-# 695 Learning reliability engineering
+# 695 Learning Reliability Engineering
 
-Updated version.
+Automated structural standardization.
