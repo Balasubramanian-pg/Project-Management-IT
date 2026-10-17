@@ -1,3 +1,3 @@
-# 643 Using keyboard shortcuts
+# 643 Using Keyboard Shortcuts
 
-Updated version.
+Automated structural standardization.
