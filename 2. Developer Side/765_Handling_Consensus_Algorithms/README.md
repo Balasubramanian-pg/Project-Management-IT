@@ -1,3 +1,3 @@
-# 765 Handling consensus algorithms
+# 765 Handling Consensus Algorithms
 
-Updated version.
+Automated structural standardization.
