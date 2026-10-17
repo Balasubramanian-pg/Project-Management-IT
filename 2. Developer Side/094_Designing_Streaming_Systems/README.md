@@ -1,3 +1,3 @@
-# 94 Designing streaming systems
+# 094 Designing Streaming Systems
 
-Updated version.
+Automated structural standardization.
