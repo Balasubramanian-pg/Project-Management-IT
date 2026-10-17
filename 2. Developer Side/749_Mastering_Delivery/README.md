@@ -1,3 +1,3 @@
-# 749 Mastering delivery
+# 749 Mastering Delivery
 
-Updated version.
+Automated structural standardization.
