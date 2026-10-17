@@ -1,3 +1,3 @@
-# 97 Designing circuit breakers
+# 097 Designing Circuit Breakers
 
-Updated version.
+Automated structural standardization.
