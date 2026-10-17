@@ -1,3 +1,3 @@
-# 64 Designing service communication
+# 064 Designing Service Communication
 
-Updated version.
+Automated structural standardization.
