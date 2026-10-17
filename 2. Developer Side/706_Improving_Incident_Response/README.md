@@ -1,3 +1,3 @@
-# 706 Improving incident response
+# 706 Improving Incident Response
 
-Updated version.
+Automated structural standardization.
