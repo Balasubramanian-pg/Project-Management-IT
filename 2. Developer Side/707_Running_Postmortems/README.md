@@ -1,3 +1,3 @@
-# 707 Running postmortems
+# 707 Running Postmortems
 
-Updated version.
+Automated structural standardization.
