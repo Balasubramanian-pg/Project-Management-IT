@@ -1,3 +1,3 @@
-# 70 Designing authorization rules
+# 070 Designing Authorization Rules
 
-Updated version.
+Automated structural standardization.
