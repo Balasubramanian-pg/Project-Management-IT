@@ -1,3 +1,3 @@
-# 613 Graph databases
+# 613 Graph Databases
 
-Updated version.
+Automated structural standardization.
