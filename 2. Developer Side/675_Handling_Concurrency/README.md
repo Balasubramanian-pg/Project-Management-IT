@@ -1,3 +1,3 @@
-# 675 Handling concurrency
+# 675 Handling Concurrency
 
-Updated version.
+Automated structural standardization.
