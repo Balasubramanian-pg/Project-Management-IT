@@ -1,3 +1,3 @@
-# 796 Designing maximum flexibility systems
+# 796 Designing Maximum Flexibility Systems
 
-Updated version.
+Automated structural standardization.
