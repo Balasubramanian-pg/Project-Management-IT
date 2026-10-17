@@ -1,3 +1,3 @@
-# 99 Designing tracing systems
+# 099 Designing Tracing Systems
 
-Updated version.
+Automated structural standardization.
