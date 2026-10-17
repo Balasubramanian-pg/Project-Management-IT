@@ -1,3 +1,3 @@
-# 736 Building fault-tolerant systems
+# 736 Building Faulttolerant Systems
 
-Updated version.
+Automated structural standardization.
