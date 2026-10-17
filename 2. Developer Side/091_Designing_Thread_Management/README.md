@@ -1,3 +1,3 @@
-# 91 Designing thread management
+# 091 Designing Thread Management
 
-Updated version.
+Automated structural standardization.
