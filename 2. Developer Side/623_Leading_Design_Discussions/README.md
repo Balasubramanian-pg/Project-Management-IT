@@ -1,3 +1,3 @@
-# 623 Leading design discussions
+# 623 Leading Design Discussions
 
-Updated version.
+Automated structural standardization.
