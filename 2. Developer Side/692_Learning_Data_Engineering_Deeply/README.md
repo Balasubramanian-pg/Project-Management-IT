@@ -1,3 +1,3 @@
-# 692 Learning data engineering deeply
+# 692 Learning Data Engineering Deeply
 
-Updated version.
+Automated structural standardization.
