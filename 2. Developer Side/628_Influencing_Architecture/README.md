@@ -1,3 +1,3 @@
-# 628 Influencing architecture
+# 628 Influencing Architecture
 
-Updated version.
+Automated structural standardization.
