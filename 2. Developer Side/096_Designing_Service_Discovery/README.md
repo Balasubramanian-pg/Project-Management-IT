@@ -1,3 +1,3 @@
-# 96 Designing service discovery
+# 096 Designing Service Discovery
 
-Updated version.
+Automated structural standardization.
