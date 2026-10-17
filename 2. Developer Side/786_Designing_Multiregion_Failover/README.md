@@ -1,3 +1,3 @@
-# 786 Designing multi-region failover
+# 786 Designing Multiregion Failover
 
-Updated version.
+Automated structural standardization.
