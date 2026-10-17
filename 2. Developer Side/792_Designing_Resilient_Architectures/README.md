@@ -1,3 +1,3 @@
-# 792 Designing resilient architectures
+# 792 Designing Resilient Architectures
 
-Updated version.
+Automated structural standardization.
