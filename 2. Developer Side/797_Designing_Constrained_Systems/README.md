@@ -1,3 +1,3 @@
-# 797 Designing constrained systems
+# 797 Designing Constrained Systems
 
-Updated version.
+Automated structural standardization.
