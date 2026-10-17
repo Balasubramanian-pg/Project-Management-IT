@@ -1,3 +1,3 @@
-# 718 Improving rollout strategies
+# 718 Improving Rollout Strategies
 
-Updated version.
+Automated structural standardization.
