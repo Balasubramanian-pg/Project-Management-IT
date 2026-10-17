@@ -1,3 +1,3 @@
-# 700 Learning multi-region systems
+# 700 Learning Multiregion Systems
 
-Updated version.
+Automated structural standardization.
