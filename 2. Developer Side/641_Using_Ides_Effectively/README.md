@@ -1,3 +1,3 @@
-# 641 Using IDEs effectively
+# 641 Using Ides Effectively
 
-Updated version.
+Automated structural standardization.
