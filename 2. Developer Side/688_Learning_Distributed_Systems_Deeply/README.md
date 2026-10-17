@@ -1,3 +1,3 @@
-# 688 Learning distributed systems deeply
+# 688 Learning Distributed Systems Deeply
 
-Updated version.
+Automated structural standardization.
