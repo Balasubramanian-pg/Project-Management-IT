@@ -1,3 +1,3 @@
-# 689 Learning system design at scale
+# 689 Learning System Design At Scale
 
-Updated version.
+Automated structural standardization.
