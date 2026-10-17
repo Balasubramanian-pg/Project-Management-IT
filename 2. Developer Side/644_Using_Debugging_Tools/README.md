@@ -1,3 +1,3 @@
-# 644 Using debugging tools
+# 644 Using Debugging Tools
 
-Updated version.
+Automated structural standardization.
