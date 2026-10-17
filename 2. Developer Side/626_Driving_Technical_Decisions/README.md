@@ -1,3 +1,3 @@
-# 626 Driving technical decisions
+# 626 Driving Technical Decisions
 
-Updated version.
+Automated structural standardization.
