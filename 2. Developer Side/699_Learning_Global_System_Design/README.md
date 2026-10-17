@@ -1,3 +1,3 @@
-# 699 Learning global system design
+# 699 Learning Global System Design
 
-Updated version.
+Automated structural standardization.
