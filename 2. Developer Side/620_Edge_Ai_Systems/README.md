@@ -1,3 +1,3 @@
-# 620 Edge AI systems
+# 620 Edge Ai Systems
 
-Updated version.
+Automated structural standardization.
