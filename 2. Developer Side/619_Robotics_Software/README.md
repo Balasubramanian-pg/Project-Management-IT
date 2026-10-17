@@ -1,3 +1,3 @@
-# 619 Robotics software
+# 619 Robotics Software
 
-Updated version.
+Automated structural standardization.
