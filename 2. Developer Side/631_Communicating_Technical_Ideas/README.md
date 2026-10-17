@@ -1,3 +1,3 @@
-# 631 Communicating technical ideas
+# 631 Communicating Technical Ideas
 
-Updated version.
+Automated structural standardization.
