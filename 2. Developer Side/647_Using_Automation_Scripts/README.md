@@ -1,3 +1,3 @@
-# 647 Using automation scripts
+# 647 Using Automation Scripts
 
-Updated version.
+Automated structural standardization.
