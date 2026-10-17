@@ -1,3 +1,3 @@
-# 763 Handling leader election
+# 763 Handling Leader Election
 
-Updated version.
+Automated structural standardization.
