@@ -1,3 +1,3 @@
-# 788 Designing continuous delivery systems
+# 788 Designing Continuous Delivery Systems
 
-Updated version.
+Automated structural standardization.
