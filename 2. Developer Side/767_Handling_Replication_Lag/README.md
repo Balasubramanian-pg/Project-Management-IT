@@ -1,3 +1,3 @@
-# 767 Handling replication lag
+# 767 Handling Replication Lag
 
-Updated version.
+Automated structural standardization.
