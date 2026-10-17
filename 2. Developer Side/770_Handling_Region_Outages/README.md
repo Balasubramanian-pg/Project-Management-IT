@@ -1,3 +1,3 @@
-# 770 Handling region outages
+# 770 Handling Region Outages
 
-Updated version.
+Automated structural standardization.
