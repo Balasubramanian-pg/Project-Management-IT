@@ -1,3 +1,3 @@
-# 671 Handling rate limiting
+# 671 Handling Rate Limiting
 
-Updated version.
+Automated structural standardization.
