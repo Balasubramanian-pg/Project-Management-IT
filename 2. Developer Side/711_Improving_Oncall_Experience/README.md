@@ -1,3 +1,3 @@
-# 711 Improving on-call experience
+# 711 Improving Oncall Experience
 
-Updated version.
+Automated structural standardization.
