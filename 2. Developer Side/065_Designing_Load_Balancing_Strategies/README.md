@@ -1,3 +1,3 @@
-# 65 Designing load balancing strategies
+# 065 Designing Load Balancing Strategies
 
-Updated version.
+Automated structural standardization.
