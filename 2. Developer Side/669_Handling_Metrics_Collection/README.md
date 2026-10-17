@@ -1,3 +1,3 @@
-# 669 Handling metrics collection
+# 669 Handling Metrics Collection
 
-Updated version.
+Automated structural standardization.
