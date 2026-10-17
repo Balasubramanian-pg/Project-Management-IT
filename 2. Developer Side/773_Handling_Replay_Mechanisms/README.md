@@ -1,3 +1,3 @@
-# 773 Handling replay mechanisms
+# 773 Handling Replay Mechanisms
 
-Updated version.
+Automated structural standardization.
