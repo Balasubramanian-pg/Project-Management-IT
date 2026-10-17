@@ -1,3 +1,3 @@
-# 657 Using code generators
+# 657 Using Code Generators
 
-Updated version.
+Automated structural standardization.
