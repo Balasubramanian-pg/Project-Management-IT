@@ -1,3 +1,3 @@
-# 721 Writing elegant code
+# 721 Writing Elegant Code
 
-Updated version.
+Automated structural standardization.
