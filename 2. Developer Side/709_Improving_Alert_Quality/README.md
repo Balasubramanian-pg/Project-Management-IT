@@ -1,3 +1,3 @@
-# 709 Improving alert quality
+# 709 Improving Alert Quality
 
-Updated version.
+Automated structural standardization.
