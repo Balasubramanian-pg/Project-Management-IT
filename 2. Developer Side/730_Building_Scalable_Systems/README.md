@@ -1,3 +1,3 @@
-# 730 Building scalable systems
+# 730 Building Scalable Systems
 
-Updated version.
+Automated structural standardization.
