@@ -1,3 +1,3 @@
-# 78 Designing deployment strategies
+# 078 Designing Deployment Strategies
 
-Updated version.
+Automated structural standardization.
