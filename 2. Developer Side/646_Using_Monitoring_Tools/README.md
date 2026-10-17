@@ -1,3 +1,3 @@
-# 646 Using monitoring tools
+# 646 Using Monitoring Tools
 
-Updated version.
+Automated structural standardization.
