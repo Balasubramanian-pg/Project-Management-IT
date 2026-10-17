@@ -1,3 +1,3 @@
-# 687 Learning edge computing
+# 687 Learning Edge Computing
 
-Updated version.
+Automated structural standardization.
