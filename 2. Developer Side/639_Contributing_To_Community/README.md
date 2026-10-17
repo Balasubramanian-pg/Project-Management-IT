@@ -1,3 +1,3 @@
-# 639 Contributing to community
+# 639 Contributing To Community
 
-Updated version.
+Automated structural standardization.
