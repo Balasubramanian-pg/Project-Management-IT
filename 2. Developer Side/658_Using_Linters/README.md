@@ -1,3 +1,3 @@
-# 658 Using linters
+# 658 Using Linters
 
-Updated version.
+Automated structural standardization.
