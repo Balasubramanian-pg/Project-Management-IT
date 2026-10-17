@@ -1,3 +1,3 @@
-# 795 Designing minimal systems
+# 795 Designing Minimal Systems
 
-Updated version.
+Automated structural standardization.
