@@ -1,3 +1,3 @@
-# 676 Handling distributed state
+# 676 Handling Distributed State
 
-Updated version.
+Automated structural standardization.
