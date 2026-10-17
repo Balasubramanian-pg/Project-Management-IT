@@ -1,3 +1,3 @@
-# 766 Handling CRDTs
+# 766 Handling Crdts
 
-Updated version.
+Automated structural standardization.
