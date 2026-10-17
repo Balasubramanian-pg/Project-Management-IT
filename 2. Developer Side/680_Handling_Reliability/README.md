@@ -1,3 +1,3 @@
-# 680 Handling reliability
+# 680 Handling Reliability
 
-Updated version.
+Automated structural standardization.
