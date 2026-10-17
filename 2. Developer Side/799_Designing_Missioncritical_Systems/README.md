@@ -1,3 +1,3 @@
-# 799 Designing mission-critical systems
+# 799 Designing Missioncritical Systems
 
-Updated version.
+Automated structural standardization.
