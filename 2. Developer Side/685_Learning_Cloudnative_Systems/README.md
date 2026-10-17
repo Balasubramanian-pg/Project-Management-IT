@@ -1,3 +1,3 @@
-# 685 Learning cloud-native systems
+# 685 Learning Cloudnative Systems
 
-Updated version.
+Automated structural standardization.
