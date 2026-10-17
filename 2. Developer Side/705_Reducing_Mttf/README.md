@@ -1,3 +1,3 @@
-# 705 Reducing MTTF
+# 705 Reducing Mttf
 
-Updated version.
+Automated structural standardization.
