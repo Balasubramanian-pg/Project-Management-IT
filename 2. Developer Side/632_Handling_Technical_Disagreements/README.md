@@ -1,3 +1,3 @@
-# 632 Handling technical disagreements
+# 632 Handling Technical Disagreements
 
-Updated version.
+Automated structural standardization.
