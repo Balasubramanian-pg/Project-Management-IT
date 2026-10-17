@@ -1,3 +1,3 @@
-# 659 Using formatters
+# 659 Using Formatters
 
-Updated version.
+Automated structural standardization.
