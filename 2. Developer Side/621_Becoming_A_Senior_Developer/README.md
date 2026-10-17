@@ -1,3 +1,3 @@
-# 621 Becoming a senior developer
+# 621 Becoming A Senior Developer
 
-Updated version.
+Automated structural standardization.
