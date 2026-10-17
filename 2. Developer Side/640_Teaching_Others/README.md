@@ -1,3 +1,3 @@
-# 640 Teaching others
+# 640 Teaching Others
 
-Updated version.
+Automated structural standardization.
