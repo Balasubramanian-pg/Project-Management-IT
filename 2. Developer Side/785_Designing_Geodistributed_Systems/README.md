@@ -1,3 +1,3 @@
-# 785 Designing geo-distributed systems
+# 785 Designing Geodistributed Systems
 
-Updated version.
+Automated structural standardization.
