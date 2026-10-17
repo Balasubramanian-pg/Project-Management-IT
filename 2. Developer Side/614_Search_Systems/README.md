@@ -1,3 +1,3 @@
-# 614 Search systems
+# 614 Search Systems
 
-Updated version.
+Automated structural standardization.
