@@ -1,3 +1,3 @@
-# 771 Handling data loss scenarios
+# 771 Handling Data Loss Scenarios
 
-Updated version.
+Automated structural standardization.
