@@ -20,7 +20,3 @@ Just like with requirement gathering, there are certain shortcuts in data modeli
 3. **Never hardcode business logic into table views without tracking dependencies.** If a calculated column relies on a complex conditional statement (like weighting prescriber tiers based on historical sales volume), that logic belongs in the transformation pipeline code—version-controlled and tested—not buried as an undocumented SQL snippet inside a BI report.
 
 By anchoring our architecture to these boundaries, we build pipelines that don't just work today, but actually survive when the business inevitably pivots their commercial strategy next quarter.
-
----
-
-Would you like to explore how we handle automated data quality testing and validation gates next, or focus on something else?
