@@ -1,3 +1,3 @@
-# 761 Handling strong consistency tradeoffs
+# 761 Handling Strong Consistency Tradeoffs
 
-Updated version.
+Automated structural standardization.
