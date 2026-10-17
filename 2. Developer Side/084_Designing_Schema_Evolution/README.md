@@ -1,3 +1,3 @@
-# 84 Designing schema evolution
+# 084 Designing Schema Evolution
 
-Updated version.
+Automated structural standardization.
