@@ -1,3 +1,3 @@
-# 729 Building robust systems
+# 729 Building Robust Systems
 
-Updated version.
+Automated structural standardization.
