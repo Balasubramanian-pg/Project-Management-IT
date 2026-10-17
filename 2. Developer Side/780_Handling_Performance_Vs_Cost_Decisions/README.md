@@ -1,3 +1,3 @@
-# 780 Handling performance vs cost decisions
+# 780 Handling Performance Vs Cost Decisions
 
-Updated version.
+Automated structural standardization.
