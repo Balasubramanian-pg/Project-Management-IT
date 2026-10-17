@@ -1,3 +1,3 @@
-# 712 Managing on-call rotations
+# 712 Managing Oncall Rotations
 
-Updated version.
+Automated structural standardization.
