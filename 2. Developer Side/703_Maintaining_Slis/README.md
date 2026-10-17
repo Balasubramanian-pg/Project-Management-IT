@@ -1,3 +1,3 @@
-# 703 Maintaining SLIs
+# 703 Maintaining Slis
 
-Updated version.
+Automated structural standardization.
