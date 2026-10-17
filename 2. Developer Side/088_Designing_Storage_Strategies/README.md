@@ -1,3 +1,3 @@
-# 88 Designing storage strategies
+# 088 Designing Storage Strategies
 
-Updated version.
+Automated structural standardization.
