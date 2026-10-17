@@ -1,3 +1,3 @@
-# 622 Becoming a tech lead
+# 622 Becoming A Tech Lead
 
-Updated version.
+Automated structural standardization.
