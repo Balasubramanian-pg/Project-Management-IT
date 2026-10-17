@@ -1,3 +1,3 @@
-# 701 Maintaining SLAs
+# 701 Maintaining Slas
 
-Updated version.
+Automated structural standardization.
