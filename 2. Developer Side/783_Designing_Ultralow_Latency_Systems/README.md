@@ -1,3 +1,3 @@
-# 783 Designing ultra-low latency systems
+# 783 Designing Ultralow Latency Systems
 
-Updated version.
+Automated structural standardization.
