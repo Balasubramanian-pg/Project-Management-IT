@@ -1,3 +1,3 @@
-# 603 Embedded systems development
+# 603 Embedded Systems Development
 
-Updated version.
+Automated structural standardization.
