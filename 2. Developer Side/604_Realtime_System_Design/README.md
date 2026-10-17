@@ -1,3 +1,3 @@
-# 604 Real-time system design
+# 604 Realtime System Design
 
-Updated version.
+Automated structural standardization.
