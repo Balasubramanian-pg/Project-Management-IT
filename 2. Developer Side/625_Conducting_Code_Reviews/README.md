@@ -1,3 +1,3 @@
-# 625 Conducting code reviews
+# 625 Conducting Code Reviews
 
-Updated version.
+Automated structural standardization.
