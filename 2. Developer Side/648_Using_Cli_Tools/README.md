@@ -1,3 +1,3 @@
-# 648 Using CLI tools
+# 648 Using Cli Tools
 
-Updated version.
+Automated structural standardization.
