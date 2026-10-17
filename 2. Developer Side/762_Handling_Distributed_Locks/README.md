@@ -1,3 +1,3 @@
-# 762 Handling distributed locks
+# 762 Handling Distributed Locks
 
-Updated version.
+Automated structural standardization.
