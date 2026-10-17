@@ -1,3 +1,3 @@
-# 68 Designing rate limiting
+# 068 Designing Rate Limiting
 
-Updated version.
+Automated structural standardization.
