@@ -1,3 +1,3 @@
-# 751 Handling edge deployments
+# 751 Handling Edge Deployments
 
-Updated version.
+Automated structural standardization.
