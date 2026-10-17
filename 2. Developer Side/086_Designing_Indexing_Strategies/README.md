@@ -1,3 +1,3 @@
-# 86 Designing indexing strategies
+# 086 Designing Indexing Strategies
 
-Updated version.
+Automated structural standardization.
