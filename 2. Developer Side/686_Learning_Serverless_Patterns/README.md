@@ -1,3 +1,3 @@
-# 686 Learning serverless patterns
+# 686 Learning Serverless Patterns
 
-Updated version.
+Automated structural standardization.
