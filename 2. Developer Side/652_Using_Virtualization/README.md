@@ -1,3 +1,3 @@
-# 652 Using virtualization
+# 652 Using Virtualization
 
-Updated version.
+Automated structural standardization.
