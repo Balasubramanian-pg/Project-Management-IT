@@ -1,3 +1,3 @@
-# 606 Financial systems engineering
+# 606 Financial Systems Engineering
 
-Updated version.
+Automated structural standardization.
