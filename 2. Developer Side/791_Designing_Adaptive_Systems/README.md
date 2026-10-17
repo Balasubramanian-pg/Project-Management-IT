@@ -1,3 +1,3 @@
-# 791 Designing adaptive systems
+# 791 Designing Adaptive Systems
 
-Updated version.
+Automated structural standardization.
