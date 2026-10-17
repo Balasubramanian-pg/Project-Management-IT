@@ -1,3 +1,3 @@
-# 781 Designing systems for millions of users
+# 781 Designing Systems For Millions Of Users
 
-Updated version.
+Automated structural standardization.
