@@ -1,3 +1,3 @@
-# 779 Handling cost optimization tradeoffs
+# 779 Handling Cost Optimization Tradeoffs
 
-Updated version.
+Automated structural standardization.
