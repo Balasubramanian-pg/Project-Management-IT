@@ -1,3 +1,3 @@
-# 615 Recommendation systems
+# 615 Recommendation Systems
 
-Updated version.
+Automated structural standardization.
