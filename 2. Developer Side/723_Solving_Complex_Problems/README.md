@@ -1,3 +1,3 @@
-# 723 Solving complex problems
+# 723 Solving Complex Problems
 
-Updated version.
+Automated structural standardization.
