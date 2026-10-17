@@ -1,3 +1,3 @@
-# 790 Designing autonomous systems
+# 790 Designing Autonomous Systems
 
-Updated version.
+Automated structural standardization.
