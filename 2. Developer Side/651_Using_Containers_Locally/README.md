@@ -1,3 +1,3 @@
-# 651 Using containers locally
+# 651 Using Containers Locally
 
-Updated version.
+Automated structural standardization.
