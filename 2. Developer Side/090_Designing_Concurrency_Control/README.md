@@ -1,3 +1,3 @@
-# 90 Designing concurrency control
+# 090 Designing Concurrency Control
 
-Updated version.
+Automated structural standardization.
