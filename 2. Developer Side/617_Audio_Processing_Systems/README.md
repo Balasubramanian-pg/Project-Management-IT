@@ -1,3 +1,3 @@
-# 617 Audio processing systems
+# 617 Audio Processing Systems
 
-Updated version.
+Automated structural standardization.
