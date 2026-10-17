@@ -1,3 +1,3 @@
-# 673 Handling timeouts
+# 673 Handling Timeouts
 
-Updated version.
+Automated structural standardization.
