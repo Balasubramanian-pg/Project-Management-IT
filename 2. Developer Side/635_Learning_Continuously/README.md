@@ -1,3 +1,3 @@
-# 635 Learning continuously
+# 635 Learning Continuously
 
-Updated version.
+Automated structural standardization.
