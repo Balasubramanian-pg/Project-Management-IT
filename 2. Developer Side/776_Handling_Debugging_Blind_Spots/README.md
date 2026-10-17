@@ -1,3 +1,3 @@
-# 776 Handling debugging blind spots
+# 776 Handling Debugging Blind Spots
 
-Updated version.
+Automated structural standardization.
