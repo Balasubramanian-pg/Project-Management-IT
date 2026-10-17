@@ -1,3 +1,3 @@
-# 653 Improving build times
+# 653 Improving Build Times
 
-Updated version.
+Automated structural standardization.
