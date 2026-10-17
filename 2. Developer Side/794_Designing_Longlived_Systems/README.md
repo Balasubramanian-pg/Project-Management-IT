@@ -1,3 +1,3 @@
-# 794 Designing long-lived systems
+# 794 Designing Longlived Systems
 
-Updated version.
+Automated structural standardization.
