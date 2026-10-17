@@ -1,3 +1,3 @@
-# 87 Designing query optimization
+# 087 Designing Query Optimization
 
-Updated version.
+Automated structural standardization.
