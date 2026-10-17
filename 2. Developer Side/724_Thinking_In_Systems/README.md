@@ -1,3 +1,3 @@
-# 724 Thinking in systems
+# 724 Thinking In Systems
 
-Updated version.
+Automated structural standardization.
