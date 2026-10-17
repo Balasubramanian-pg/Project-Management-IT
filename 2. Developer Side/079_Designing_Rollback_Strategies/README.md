@@ -1,3 +1,3 @@
-# 79 Designing rollback strategies
+# 079 Designing Rollback Strategies
 
-Updated version.
+Automated structural standardization.
