@@ -1,3 +1,3 @@
-# 691 Learning security engineering deeply
+# 691 Learning Security Engineering Deeply
 
-Updated version.
+Automated structural standardization.
