@@ -1,3 +1,3 @@
-# 638 Building portfolio
+# 638 Building Portfolio
 
-Updated version.
+Automated structural standardization.
