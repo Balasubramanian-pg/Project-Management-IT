@@ -1,3 +1,3 @@
-# 789 Designing self-healing systems
+# 789 Designing Selfhealing Systems
 
-Updated version.
+Automated structural standardization.
