@@ -1,3 +1,3 @@
-# 752 Handling CDN invalidation
+# 752 Handling Cdn Invalidation
 
-Updated version.
+Automated structural standardization.
