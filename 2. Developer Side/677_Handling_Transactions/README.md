@@ -1,3 +1,3 @@
-# 677 Handling transactions
+# 677 Handling Transactions
 
-Updated version.
+Automated structural standardization.
