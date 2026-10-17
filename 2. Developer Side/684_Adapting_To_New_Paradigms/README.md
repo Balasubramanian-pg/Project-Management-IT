@@ -1,3 +1,3 @@
-# 684 Adapting to new paradigms
+# 684 Adapting To New Paradigms
 
-Updated version.
+Automated structural standardization.
