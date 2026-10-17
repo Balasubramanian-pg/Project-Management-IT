@@ -1,3 +1,3 @@
-# 720 Improving resilience
+# 720 Improving Resilience
 
-Updated version.
+Automated structural standardization.
