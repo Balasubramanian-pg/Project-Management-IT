@@ -1,3 +1,3 @@
-# 627 Balancing business and tech
+# 627 Balancing Business And Tech
 
-Updated version.
+Automated structural standardization.
