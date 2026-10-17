@@ -1,3 +1,3 @@
-# 60 Choosing database types
+# 060 Choosing Database Types
 
-Updated version.
+Automated structural standardization.
