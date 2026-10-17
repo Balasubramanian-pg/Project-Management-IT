@@ -1,3 +1,3 @@
-# 670 Handling alerting systems
+# 670 Handling Alerting Systems
 
-Updated version.
+Automated structural standardization.
