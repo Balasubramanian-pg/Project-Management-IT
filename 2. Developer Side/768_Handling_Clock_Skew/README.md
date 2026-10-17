@@ -1,3 +1,3 @@
-# 768 Handling clock skew
+# 768 Handling Clock Skew
 
-Updated version.
+Automated structural standardization.
