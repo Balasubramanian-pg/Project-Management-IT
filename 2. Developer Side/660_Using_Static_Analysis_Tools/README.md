@@ -1,3 +1,3 @@
-# 660 Using static analysis tools
+# 660 Using Static Analysis Tools
 
-Updated version.
+Automated structural standardization.
