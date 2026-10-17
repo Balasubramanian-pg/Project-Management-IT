@@ -1,3 +1,3 @@
-# 690 Learning performance engineering deeply
+# 690 Learning Performance Engineering Deeply
 
-Updated version.
+Automated structural standardization.
