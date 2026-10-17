@@ -1,3 +1,3 @@
-# 608 E-commerce systems engineering
+# 608 Ecommerce Systems Engineering
 
-Updated version.
+Automated structural standardization.
