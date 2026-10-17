@@ -1,3 +1,3 @@
-# 601 Mobile development practices
+# 601 Mobile Development Practices
 
-Updated version.
+Automated structural standardization.
