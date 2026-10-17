@@ -1,3 +1,3 @@
-# 616 Video processing systems
+# 616 Video Processing Systems
 
-Updated version.
+Automated structural standardization.
