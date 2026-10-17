@@ -1,3 +1,3 @@
-# 668 Handling tracing
+# 668 Handling Tracing
 
-Updated version.
+Automated structural standardization.
