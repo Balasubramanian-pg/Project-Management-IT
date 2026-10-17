@@ -1,3 +1,3 @@
-# 725 Thinking in abstractions
+# 725 Thinking In Abstractions
 
-Updated version.
+Automated structural standardization.
