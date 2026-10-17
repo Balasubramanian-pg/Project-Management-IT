@@ -1,3 +1,3 @@
-# 605 High-frequency systems
+# 605 Highfrequency Systems
 
-Updated version.
+Automated structural standardization.
