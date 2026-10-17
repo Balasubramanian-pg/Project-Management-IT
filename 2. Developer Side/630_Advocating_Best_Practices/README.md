@@ -1,3 +1,3 @@
-# 630 Advocating best practices
+# 630 Advocating Best Practices
 
-Updated version.
+Automated structural standardization.
