@@ -1,3 +1,3 @@
-# 726 Thinking in tradeoffs
+# 726 Thinking In Tradeoffs
 
-Updated version.
+Automated structural standardization.
