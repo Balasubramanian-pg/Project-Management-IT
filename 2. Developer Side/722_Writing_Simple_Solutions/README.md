@@ -1,3 +1,3 @@
-# 722 Writing simple solutions
+# 722 Writing Simple Solutions
 
-Updated version.
+Automated structural standardization.
