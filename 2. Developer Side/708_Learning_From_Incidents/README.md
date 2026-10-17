@@ -1,3 +1,3 @@
-# 708 Learning from incidents
+# 708 Learning From Incidents
 
-Updated version.
+Automated structural standardization.
