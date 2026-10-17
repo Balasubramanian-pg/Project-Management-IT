@@ -1,3 +1,3 @@
-# 772 Handling backup corruption
+# 772 Handling Backup Corruption
 
-Updated version.
+Automated structural standardization.
