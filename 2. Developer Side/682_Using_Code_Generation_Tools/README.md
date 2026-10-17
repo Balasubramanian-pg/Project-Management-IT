@@ -1,3 +1,3 @@
-# 682 Using code generation tools
+# 682 Using Code Generation Tools
 
-Updated version.
+Automated structural standardization.
