@@ -1,3 +1,3 @@
-# 624 Mentoring juniors
+# 624 Mentoring Juniors
 
-Updated version.
+Automated structural standardization.
