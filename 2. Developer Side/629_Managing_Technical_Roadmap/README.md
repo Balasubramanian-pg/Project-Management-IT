@@ -1,3 +1,3 @@
-# 629 Managing technical roadmap
+# 629 Managing Technical Roadmap
 
-Updated version.
+Automated structural standardization.
