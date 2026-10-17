@@ -1,3 +1,3 @@
-# 672 Handling retries
+# 672 Handling Retries
 
-Updated version.
+Automated structural standardization.
