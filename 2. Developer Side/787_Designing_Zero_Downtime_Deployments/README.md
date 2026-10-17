@@ -1,3 +1,3 @@
-# 787 Designing zero downtime deployments
+# 787 Designing Zero Downtime Deployments
 
-Updated version.
+Automated structural standardization.
