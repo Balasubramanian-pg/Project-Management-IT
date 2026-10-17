@@ -1,3 +1,3 @@
-# 764 Handling gossip protocols
+# 764 Handling Gossip Protocols
 
-Updated version.
+Automated structural standardization.
