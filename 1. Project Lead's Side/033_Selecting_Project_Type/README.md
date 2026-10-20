@@ -1,3 +1,3 @@
-# 33 Selecting project type
+# 033 Selecting Project Type
 
-Updated version.
+Automated structural standardization.
