@@ -1,3 +1,3 @@
-# 481 Planning test strategy
+# 481 Planning Test Strategy
 
-Updated version.
+Automated structural standardization.
