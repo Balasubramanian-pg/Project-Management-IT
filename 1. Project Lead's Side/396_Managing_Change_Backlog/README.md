@@ -1,3 +1,3 @@
-# 396 Managing change backlog
+# 396 Managing Change Backlog
 
-Updated version.
+Automated structural standardization.
