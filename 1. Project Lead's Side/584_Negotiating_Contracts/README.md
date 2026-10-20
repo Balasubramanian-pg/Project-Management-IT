@@ -1,3 +1,3 @@
-# 584 Negotiating contracts
+# 584 Negotiating Contracts
 
-Updated version.
+Automated structural standardization.
