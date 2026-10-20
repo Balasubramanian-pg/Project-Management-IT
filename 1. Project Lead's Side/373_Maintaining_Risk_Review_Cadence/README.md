@@ -1,3 +1,3 @@
-# 373 Maintaining risk review cadence
+# 373 Maintaining Risk Review Cadence
 
-Updated version.
+Automated structural standardization.
