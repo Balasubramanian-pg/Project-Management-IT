@@ -1,3 +1,3 @@
-# 04 Creating the project charter
+# 004 Creating The Project Charter
 
-Updated version.
+Automated structural standardization.
