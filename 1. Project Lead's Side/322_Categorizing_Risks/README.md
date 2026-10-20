@@ -1,3 +1,3 @@
-# 322 Categorizing risks
+# 322 Categorizing Risks
 
-Updated version.
+Automated structural standardization.
