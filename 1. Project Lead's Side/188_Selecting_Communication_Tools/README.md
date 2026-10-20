@@ -1,3 +1,3 @@
-# 188 Selecting communication tools
+# 188 Selecting Communication Tools
 
-Updated version.
+Automated structural standardization.
