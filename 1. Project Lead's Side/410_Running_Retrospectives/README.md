@@ -1,3 +1,3 @@
-# 410 Running retrospectives
+# 410 Running Retrospectives
 
-Updated version.
+Automated structural standardization.
