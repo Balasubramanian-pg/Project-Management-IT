@@ -1,3 +1,3 @@
-# 312 Planning project management effort
+# 312 Planning Project Management Effort
 
-Updated version.
+Automated structural standardization.
