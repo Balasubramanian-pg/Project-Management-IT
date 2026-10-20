@@ -1,3 +1,3 @@
-# 321 Identifying project risks
+# 321 Identifying Project Risks
 
-Updated version.
+Automated structural standardization.
