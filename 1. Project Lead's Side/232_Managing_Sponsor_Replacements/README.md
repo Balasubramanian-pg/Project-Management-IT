@@ -1,3 +1,3 @@
-# 232 Managing sponsor replacements
+# 232 Managing Sponsor Replacements
 
-Updated version.
+Automated structural standardization.
