@@ -1,3 +1,3 @@
-# 80 Establishing escalation path
+# 080 Establishing Escalation Path
 
-Updated version.
+Automated structural standardization.
