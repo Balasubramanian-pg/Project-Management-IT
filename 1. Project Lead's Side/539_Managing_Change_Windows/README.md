@@ -1,3 +1,3 @@
-# 539 Managing change windows
+# 539 Managing Change Windows
 
-Updated version.
+Automated structural standardization.
