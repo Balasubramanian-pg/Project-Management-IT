@@ -1,3 +1,3 @@
-# 616 Managing threat modeling
+# 616 Managing Threat Modeling
 
-Updated version.
+Automated structural standardization.
