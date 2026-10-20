@@ -1,3 +1,3 @@
-# 434 Managing peer accountability
+# 434 Managing Peer Accountability
 
-Updated version.
+Automated structural standardization.
