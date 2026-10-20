@@ -1,3 +1,3 @@
-# 370 Managing compliance gaps
+# 370 Managing Compliance Gaps
 
-Updated version.
+Automated structural standardization.
