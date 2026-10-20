@@ -1,3 +1,3 @@
-# 318 Tracking purchase orders
+# 318 Tracking Purchase Orders
 
-Updated version.
+Automated structural standardization.
