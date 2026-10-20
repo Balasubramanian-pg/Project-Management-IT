@@ -1,3 +1,3 @@
-# 237 Running weekly project reviews
+# 237 Running Weekly Project Reviews
 
-Updated version.
+Automated structural standardization.
