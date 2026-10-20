@@ -1,3 +1,3 @@
-# 172 Maintaining decision logs
+# 172 Maintaining Decision Logs
 
-Updated version.
+Automated structural standardization.
