@@ -1,3 +1,3 @@
-# 333 Managing issue escalation
+# 333 Managing Issue Escalation
 
-Updated version.
+Automated structural standardization.
