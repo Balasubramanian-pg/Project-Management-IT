@@ -1,3 +1,3 @@
-# 360 Running peer reviews
+# 360 Running Peer Reviews
 
-Updated version.
+Automated structural standardization.
