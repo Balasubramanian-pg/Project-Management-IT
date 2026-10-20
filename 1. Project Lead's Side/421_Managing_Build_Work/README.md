@@ -1,3 +1,3 @@
-# 421 Managing build work
+# 421 Managing Build Work
 
-Updated version.
+Automated structural standardization.
