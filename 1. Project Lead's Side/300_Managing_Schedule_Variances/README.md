@@ -1,3 +1,3 @@
-# 300 Managing schedule variances
+# 300 Managing Schedule Variances
 
-Updated version.
+Automated structural standardization.
