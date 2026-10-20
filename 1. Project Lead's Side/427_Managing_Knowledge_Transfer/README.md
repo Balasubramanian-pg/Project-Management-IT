@@ -1,3 +1,3 @@
-# 427 Managing knowledge transfer
+# 427 Managing Knowledge Transfer
 
-Updated version.
+Automated structural standardization.
