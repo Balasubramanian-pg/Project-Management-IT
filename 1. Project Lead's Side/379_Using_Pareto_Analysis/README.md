@@ -1,3 +1,3 @@
-# 379 Using Pareto analysis
+# 379 Using Pareto Analysis
 
-Updated version.
+Automated structural standardization.
