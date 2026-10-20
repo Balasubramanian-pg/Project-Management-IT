@@ -1,3 +1,3 @@
-# 602 Managing access for vendors
+# 602 Managing Access For Vendors
 
-Updated version.
+Automated structural standardization.
