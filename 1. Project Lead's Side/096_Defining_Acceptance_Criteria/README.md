@@ -1,3 +1,3 @@
-# 96 Defining acceptance criteria
+# 096 Defining Acceptance Criteria
 
-Updated version.
+Automated structural standardization.
