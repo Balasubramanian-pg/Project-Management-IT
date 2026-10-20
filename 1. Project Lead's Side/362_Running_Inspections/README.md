@@ -1,3 +1,3 @@
-# 362 Running inspections
+# 362 Running Inspections
 
-Updated version.
+Automated structural standardization.
