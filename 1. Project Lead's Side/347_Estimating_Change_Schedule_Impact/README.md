@@ -1,3 +1,3 @@
-# 347 Estimating change schedule impact
+# 347 Estimating Change Schedule Impact
 
-Updated version.
+Automated structural standardization.
