@@ -1,3 +1,3 @@
-# 645 Defining schedule KPIs
+# 645 Defining Schedule Kpis
 
-Updated version.
+Automated structural standardization.
