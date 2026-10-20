@@ -1,3 +1,3 @@
-# 189 Managing distributed teams
+# 189 Managing Distributed Teams
 
-Updated version.
+Automated structural standardization.
