@@ -1,3 +1,3 @@
-# 615 Managing secure coding standards
+# 615 Managing Secure Coding Standards
 
-Updated version.
+Automated structural standardization.
