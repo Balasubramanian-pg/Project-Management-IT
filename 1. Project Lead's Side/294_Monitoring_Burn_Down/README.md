@@ -1,3 +1,3 @@
-# 294 Monitoring burn down
+# 294 Monitoring Burn Down
 
-Updated version.
+Automated structural standardization.
