@@ -1,3 +1,3 @@
-# 550 Managing launch communications
+# 550 Managing Launch Communications
 
-Updated version.
+Automated structural standardization.
