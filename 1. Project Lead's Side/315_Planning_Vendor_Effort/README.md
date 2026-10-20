@@ -1,3 +1,3 @@
-# 315 Planning vendor effort
+# 315 Planning Vendor Effort
 
-Updated version.
+Automated structural standardization.
