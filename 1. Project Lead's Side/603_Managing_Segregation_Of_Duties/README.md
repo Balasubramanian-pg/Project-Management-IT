@@ -1,3 +1,3 @@
-# 603 Managing segregation of duties
+# 603 Managing Segregation Of Duties
 
-Updated version.
+Automated structural standardization.
