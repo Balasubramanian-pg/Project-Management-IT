@@ -1,3 +1,3 @@
-# 358 Defining test entry criteria
+# 358 Defining Test Entry Criteria
 
-Updated version.
+Automated structural standardization.
