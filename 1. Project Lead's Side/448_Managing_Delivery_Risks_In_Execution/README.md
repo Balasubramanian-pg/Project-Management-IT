@@ -1,3 +1,3 @@
-# 448 Managing delivery risks in execution
+# 448 Managing Delivery Risks In Execution
 
-Updated version.
+Automated structural standardization.
