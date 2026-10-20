@@ -1,3 +1,3 @@
-# 654 Tracking planned versus actual
+# 654 Tracking Planned Versus Actual
 
-Updated version.
+Automated structural standardization.
