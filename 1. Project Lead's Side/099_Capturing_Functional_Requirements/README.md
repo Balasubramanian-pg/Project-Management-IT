@@ -1,3 +1,3 @@
-# 99 Capturing functional requirements
+# 099 Capturing Functional Requirements
 
-Updated version.
+Automated structural standardization.
