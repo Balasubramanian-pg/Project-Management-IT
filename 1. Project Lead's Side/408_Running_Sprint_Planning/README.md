@@ -1,3 +1,3 @@
-# 408 Running sprint planning
+# 408 Running Sprint Planning
 
-Updated version.
+Automated structural standardization.
