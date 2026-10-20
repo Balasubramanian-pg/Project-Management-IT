@@ -1,3 +1,3 @@
-# 15 Establishing project objectives
+# 015 Establishing Project Objectives
 
-Updated version.
+Automated structural standardization.
