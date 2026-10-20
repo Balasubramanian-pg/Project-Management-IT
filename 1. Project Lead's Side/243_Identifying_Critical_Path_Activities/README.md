@@ -1,3 +1,3 @@
-# 243 Identifying critical path activities
+# 243 Identifying Critical Path Activities
 
-Updated version.
+Automated structural standardization.
