@@ -1,3 +1,3 @@
-# 78 Assigning the project manager
+# 078 Assigning The Project Manager
 
-Updated version.
+Automated structural standardization.
