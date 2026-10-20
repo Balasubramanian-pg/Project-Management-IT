@@ -1,3 +1,3 @@
-# 509 Preparing cutover plan
+# 509 Preparing Cutover Plan
 
-Updated version.
+Automated structural standardization.
