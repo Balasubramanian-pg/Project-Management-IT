@@ -1,3 +1,3 @@
-# 88 Sequencing project activities
+# 088 Sequencing Project Activities
 
-Updated version.
+Automated structural standardization.
