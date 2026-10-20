@@ -1,3 +1,3 @@
-# 214 Managing vendor expectations
+# 214 Managing Vendor Expectations
 
-Updated version.
+Automated structural standardization.
