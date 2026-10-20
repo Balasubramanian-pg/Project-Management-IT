@@ -1,3 +1,3 @@
-# 520 Managing business readiness
+# 520 Managing Business Readiness
 
-Updated version.
+Automated structural standardization.
