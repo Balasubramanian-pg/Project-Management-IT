@@ -1,3 +1,3 @@
-# 60 Assessing operational impacts
+# 060 Assessing Operational Impacts
 
-Updated version.
+Automated structural standardization.
