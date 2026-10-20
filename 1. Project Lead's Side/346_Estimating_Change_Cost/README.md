@@ -1,3 +1,3 @@
-# 346 Estimating change cost
+# 346 Estimating Change Cost
 
-Updated version.
+Automated structural standardization.
