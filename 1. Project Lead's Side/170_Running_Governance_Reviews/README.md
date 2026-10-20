@@ -1,3 +1,3 @@
-# 170 Running governance reviews
+# 170 Running Governance Reviews
 
-Updated version.
+Automated structural standardization.
