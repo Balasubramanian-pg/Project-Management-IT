@@ -1,3 +1,3 @@
-# 40 Mapping impacted departments
+# 040 Mapping Impacted Departments
 
-Updated version.
+Automated structural standardization.
