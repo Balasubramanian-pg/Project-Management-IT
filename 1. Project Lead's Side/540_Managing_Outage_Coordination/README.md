@@ -1,3 +1,3 @@
-# 540 Managing outage coordination
+# 540 Managing Outage Coordination
 
-Updated version.
+Automated structural standardization.
