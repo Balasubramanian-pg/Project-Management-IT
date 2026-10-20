@@ -1,3 +1,3 @@
-# 495 Triaging defects
+# 495 Triaging Defects
 
-Updated version.
+Automated structural standardization.
