@@ -1,3 +1,3 @@
-# 49 Defining measurable outcomes
+# 049 Defining Measurable Outcomes
 
-Updated version.
+Automated structural standardization.
