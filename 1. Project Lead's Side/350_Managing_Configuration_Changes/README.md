@@ -1,3 +1,3 @@
-# 350 Managing configuration changes
+# 350 Managing Configuration Changes
 
-Updated version.
+Automated structural standardization.
