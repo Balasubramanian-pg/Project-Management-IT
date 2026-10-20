@@ -1,3 +1,3 @@
-# 621 Managing vendor service quality
+# 621 Managing Vendor Service Quality
 
-Updated version.
+Automated structural standardization.
