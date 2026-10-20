@@ -1,3 +1,3 @@
-# 10 Identifying executive stakeholders
+# 010 Identifying Executive Stakeholders
 
-Updated version.
+Automated structural standardization.
