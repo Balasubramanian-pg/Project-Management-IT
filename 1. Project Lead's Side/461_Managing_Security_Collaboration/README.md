@@ -1,3 +1,3 @@
-# 461 Managing security collaboration
+# 461 Managing Security Collaboration
 
-Updated version.
+Automated structural standardization.
