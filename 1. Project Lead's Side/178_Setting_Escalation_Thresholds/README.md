@@ -1,3 +1,3 @@
-# 178 Setting escalation thresholds
+# 178 Setting Escalation Thresholds
 
-Updated version.
+Automated structural standardization.
