@@ -1,3 +1,3 @@
-# 317 Tracking invoices
+# 317 Tracking Invoices
 
-Updated version.
+Automated structural standardization.
