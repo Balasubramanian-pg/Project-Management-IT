@@ -1,3 +1,3 @@
-# 201 Confirming decision accountability
+# 201 Confirming Decision Accountability
 
-Updated version.
+Automated structural standardization.
