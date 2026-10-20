@@ -1,3 +1,3 @@
-# 313 Planning business owner effort
+# 313 Planning Business Owner Effort
 
-Updated version.
+Automated structural standardization.
