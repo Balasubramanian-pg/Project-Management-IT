@@ -1,3 +1,3 @@
-# 366 Monitoring defect leakage
+# 366 Monitoring Defect Leakage
 
-Updated version.
+Automated structural standardization.
