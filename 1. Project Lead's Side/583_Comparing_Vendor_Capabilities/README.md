@@ -1,3 +1,3 @@
-# 583 Comparing vendor capabilities
+# 583 Comparing Vendor Capabilities
 
-Updated version.
+Automated structural standardization.
