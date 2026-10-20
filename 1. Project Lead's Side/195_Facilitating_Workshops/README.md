@@ -1,3 +1,3 @@
-# 195 Facilitating workshops
+# 195 Facilitating Workshops
 
-Updated version.
+Automated structural standardization.
