@@ -1,3 +1,3 @@
-# 139 Estimating schedule contingency
+# 139 Estimating Schedule Contingency
 
-Updated version.
+Automated structural standardization.
