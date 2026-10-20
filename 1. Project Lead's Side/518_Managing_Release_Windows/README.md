@@ -1,3 +1,3 @@
-# 518 Managing release windows
+# 518 Managing Release Windows
 
-Updated version.
+Automated structural standardization.
