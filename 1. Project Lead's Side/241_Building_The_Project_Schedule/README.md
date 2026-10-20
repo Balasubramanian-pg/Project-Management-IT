@@ -1,3 +1,3 @@
-# 241 Building the project schedule
+# 241 Building The Project Schedule
 
-Updated version.
+Automated structural standardization.
