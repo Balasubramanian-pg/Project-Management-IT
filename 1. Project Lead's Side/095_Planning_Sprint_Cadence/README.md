@@ -1,3 +1,3 @@
-# 95 Planning sprint cadence
+# 095 Planning Sprint Cadence
 
-Updated version.
+Automated structural standardization.
