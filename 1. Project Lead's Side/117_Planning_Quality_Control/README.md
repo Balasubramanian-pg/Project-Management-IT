@@ -1,3 +1,3 @@
-# 117 Planning quality control
+# 117 Planning Quality Control
 
-Updated version.
+Automated structural standardization.
