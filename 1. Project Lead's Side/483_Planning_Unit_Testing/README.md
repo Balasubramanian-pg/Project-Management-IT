@@ -1,3 +1,3 @@
-# 483 Planning unit testing
+# 483 Planning Unit Testing
 
-Updated version.
+Automated structural standardization.
