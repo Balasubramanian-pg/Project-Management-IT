@@ -1,3 +1,3 @@
-# 432 Managing code reviews
+# 432 Managing Code Reviews
 
-Updated version.
+Automated structural standardization.
