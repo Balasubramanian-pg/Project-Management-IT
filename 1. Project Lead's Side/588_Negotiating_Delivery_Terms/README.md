@@ -1,3 +1,3 @@
-# 588 Negotiating delivery terms
+# 588 Negotiating Delivery Terms
 
-Updated version.
+Automated structural standardization.
