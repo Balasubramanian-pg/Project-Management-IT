@@ -1,3 +1,3 @@
-# 378 Using impact analysis
+# 378 Using Impact Analysis
 
-Updated version.
+Automated structural standardization.
