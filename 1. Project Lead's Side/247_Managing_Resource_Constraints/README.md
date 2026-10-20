@@ -1,3 +1,3 @@
-# 247 Managing resource constraints
+# 247 Managing Resource Constraints
 
-Updated version.
+Automated structural standardization.
