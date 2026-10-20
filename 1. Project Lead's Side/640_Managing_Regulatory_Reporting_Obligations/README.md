@@ -1,3 +1,3 @@
-# 640 Managing regulatory reporting obligations
+# 640 Managing Regulatory Reporting Obligations
 
-Updated version.
+Automated structural standardization.
