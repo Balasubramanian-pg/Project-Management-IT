@@ -1,3 +1,3 @@
-# 664 Tracking cycle time
+# 664 Tracking Cycle Time
 
-Updated version.
+Automated structural standardization.
