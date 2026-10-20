@@ -1,3 +1,3 @@
-# 618 Managing incident reporting requirements
+# 618 Managing Incident Reporting Requirements
 
-Updated version.
+Automated structural standardization.
