@@ -1,3 +1,3 @@
-# 103 Creating requirement catalog
+# 103 Creating Requirement Catalog
 
-Updated version.
+Automated structural standardization.
