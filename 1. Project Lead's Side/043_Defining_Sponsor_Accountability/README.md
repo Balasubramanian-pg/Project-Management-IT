@@ -1,3 +1,3 @@
-# 43 Defining sponsor accountability
+# 043 Defining Sponsor Accountability
 
-Updated version.
+Automated structural standardization.
