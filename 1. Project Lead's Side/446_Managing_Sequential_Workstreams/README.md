@@ -1,3 +1,3 @@
-# 446 Managing sequential workstreams
+# 446 Managing Sequential Workstreams
 
-Updated version.
+Automated structural standardization.
