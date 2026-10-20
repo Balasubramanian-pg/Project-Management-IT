@@ -1,3 +1,3 @@
-# 574 Running architecture reviews
+# 574 Running Architecture Reviews
 
-Updated version.
+Automated structural standardization.
