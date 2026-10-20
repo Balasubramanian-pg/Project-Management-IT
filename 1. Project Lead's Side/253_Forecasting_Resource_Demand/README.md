@@ -1,3 +1,3 @@
-# 253 Forecasting resource demand
+# 253 Forecasting Resource Demand
 
-Updated version.
+Automated structural standardization.
