@@ -1,3 +1,3 @@
-# 413 Managing agile delivery
+# 413 Managing Agile Delivery
 
-Updated version.
+Automated structural standardization.
