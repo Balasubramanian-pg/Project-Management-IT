@@ -1,3 +1,3 @@
-# 209 Communicating wins and milestones
+# 209 Communicating Wins And Milestones
 
-Updated version.
+Automated structural standardization.
