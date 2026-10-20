@@ -1,3 +1,3 @@
-# 416 Managing incremental delivery
+# 416 Managing Incremental Delivery
 
-Updated version.
+Automated structural standardization.
