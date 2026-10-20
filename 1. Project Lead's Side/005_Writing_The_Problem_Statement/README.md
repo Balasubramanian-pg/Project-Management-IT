@@ -1,3 +1,3 @@
-# 05 Writing the problem statement
+# 005 Writing The Problem Statement
 
-Updated version.
+Automated structural standardization.
