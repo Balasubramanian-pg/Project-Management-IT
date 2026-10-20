@@ -1,3 +1,3 @@
-# 343 Managing scope creep
+# 343 Managing Scope Creep
 
-Updated version.
+Automated structural standardization.
