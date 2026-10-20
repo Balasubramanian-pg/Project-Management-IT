@@ -1,3 +1,3 @@
-# 438 Coordinating among support teams
+# 438 Coordinating Among Support Teams
 
-Updated version.
+Automated structural standardization.
