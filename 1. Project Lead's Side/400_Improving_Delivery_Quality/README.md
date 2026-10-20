@@ -1,3 +1,3 @@
-# 400 Improving delivery quality
+# 400 Improving Delivery Quality
 
-Updated version.
+Automated structural standardization.
