@@ -1,3 +1,3 @@
-# 107 Defining in scope items
+# 107 Defining In Scope Items
 
-Updated version.
+Automated structural standardization.
