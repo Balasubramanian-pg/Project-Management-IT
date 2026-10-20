@@ -1,3 +1,3 @@
-# 24 Preparing a concept note
+# 024 Preparing A Concept Note
 
-Updated version.
+Automated structural standardization.
