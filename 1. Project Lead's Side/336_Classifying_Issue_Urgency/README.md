@@ -1,3 +1,3 @@
-# 336 Classifying issue urgency
+# 336 Classifying Issue Urgency
 
-Updated version.
+Automated structural standardization.
