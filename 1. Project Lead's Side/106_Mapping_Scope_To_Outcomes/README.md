@@ -1,3 +1,3 @@
-# 106 Mapping scope to outcomes
+# 106 Mapping Scope To Outcomes
 
-Updated version.
+Automated structural standardization.
