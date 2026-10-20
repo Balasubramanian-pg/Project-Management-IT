@@ -1,3 +1,3 @@
-# 652 Building portfolio dashboards
+# 652 Building Portfolio Dashboards
 
-Updated version.
+Automated structural standardization.
