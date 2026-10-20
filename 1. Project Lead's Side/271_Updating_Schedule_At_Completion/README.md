@@ -1,3 +1,3 @@
-# 271 Updating schedule at completion
+# 271 Updating Schedule At Completion
 
-Updated version.
+Automated structural standardization.
