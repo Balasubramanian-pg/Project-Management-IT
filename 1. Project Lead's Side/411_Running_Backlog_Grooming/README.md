@@ -1,3 +1,3 @@
-# 411 Running backlog grooming
+# 411 Running Backlog Grooming
 
-Updated version.
+Automated structural standardization.
