@@ -1,3 +1,3 @@
-# 359 Defining test exit criteria
+# 359 Defining Test Exit Criteria
 
-Updated version.
+Automated structural standardization.
