@@ -1,3 +1,3 @@
-# 07 Mapping business outcomes
+# 007 Mapping Business Outcomes
 
-Updated version.
+Automated structural standardization.
