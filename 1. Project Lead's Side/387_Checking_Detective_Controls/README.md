@@ -1,3 +1,3 @@
-# 387 Checking detective controls
+# 387 Checking Detective Controls
 
-Updated version.
+Automated structural standardization.
