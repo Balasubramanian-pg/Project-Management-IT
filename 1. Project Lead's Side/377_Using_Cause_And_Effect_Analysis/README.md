@@ -1,3 +1,3 @@
-# 377 Using cause and effect analysis
+# 377 Using Cause And Effect Analysis
 
-Updated version.
+Automated structural standardization.
