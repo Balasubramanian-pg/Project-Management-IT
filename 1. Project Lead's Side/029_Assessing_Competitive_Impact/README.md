@@ -1,3 +1,3 @@
-# 29 Assessing competitive impact
+# 029 Assessing Competitive Impact
 
-Updated version.
+Automated structural standardization.
