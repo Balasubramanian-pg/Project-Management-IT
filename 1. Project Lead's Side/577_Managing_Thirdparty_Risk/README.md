@@ -1,3 +1,3 @@
-# 577 Managing third-party risk
+# 577 Managing Thirdparty Risk
 
-Updated version.
+Automated structural standardization.
