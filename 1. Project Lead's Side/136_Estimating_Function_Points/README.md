@@ -1,3 +1,3 @@
-# 136 Estimating function points
+# 136 Estimating Function Points
 
-Updated version.
+Automated structural standardization.
