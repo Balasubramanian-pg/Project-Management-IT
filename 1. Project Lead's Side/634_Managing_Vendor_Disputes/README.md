@@ -1,3 +1,3 @@
-# 634 Managing vendor disputes
+# 634 Managing Vendor Disputes
 
-Updated version.
+Automated structural standardization.
