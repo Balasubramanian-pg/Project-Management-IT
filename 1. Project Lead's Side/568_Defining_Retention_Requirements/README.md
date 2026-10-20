@@ -1,3 +1,3 @@
-# 568 Defining retention requirements
+# 568 Defining Retention Requirements
 
-Updated version.
+Automated structural standardization.
