@@ -1,3 +1,3 @@
-# 630 Managing acceptance-based billing
+# 630 Managing Acceptancebased Billing
 
-Updated version.
+Automated structural standardization.
