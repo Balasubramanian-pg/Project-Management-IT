@@ -1,3 +1,3 @@
-# 548 Managing business signoff
+# 548 Managing Business Signoff
 
-Updated version.
+Automated structural standardization.
