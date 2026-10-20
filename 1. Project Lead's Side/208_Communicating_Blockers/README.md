@@ -1,3 +1,3 @@
-# 208 Communicating blockers
+# 208 Communicating Blockers
 
-Updated version.
+Automated structural standardization.
