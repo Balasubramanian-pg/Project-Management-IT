@@ -1,3 +1,3 @@
-# 131 Creating the procurement management plan
+# 131 Creating The Procurement Management Plan
 
-Updated version.
+Automated structural standardization.
