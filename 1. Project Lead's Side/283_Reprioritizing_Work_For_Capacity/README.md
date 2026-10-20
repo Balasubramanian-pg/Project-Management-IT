@@ -1,3 +1,3 @@
-# 283 Reprioritizing work for capacity
+# 283 Reprioritizing Work For Capacity
 
-Updated version.
+Automated structural standardization.
