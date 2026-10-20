@@ -1,3 +1,3 @@
-# 388 Checking corrective controls
+# 388 Checking Corrective Controls
 
-Updated version.
+Automated structural standardization.
