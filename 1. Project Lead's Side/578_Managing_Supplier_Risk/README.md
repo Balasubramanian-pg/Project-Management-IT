@@ -1,3 +1,3 @@
-# 578 Managing supplier risk
+# 578 Managing Supplier Risk
 
-Updated version.
+Automated structural standardization.
