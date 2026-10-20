@@ -1,3 +1,3 @@
-# 477 Managing performance issues
+# 477 Managing Performance Issues
 
-Updated version.
+Automated structural standardization.
