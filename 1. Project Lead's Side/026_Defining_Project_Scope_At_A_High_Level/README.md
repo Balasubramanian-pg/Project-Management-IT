@@ -1,3 +1,3 @@
-# 26 Defining project scope at a high level
+# 026 Defining Project Scope At A High Level
 
-Updated version.
+Automated structural standardization.
