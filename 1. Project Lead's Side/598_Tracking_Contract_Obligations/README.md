@@ -1,3 +1,3 @@
-# 598 Tracking contract obligations
+# 598 Tracking Contract Obligations
 
-Updated version.
+Automated structural standardization.
