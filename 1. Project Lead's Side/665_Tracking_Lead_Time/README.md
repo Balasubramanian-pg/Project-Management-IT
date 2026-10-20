@@ -1,3 +1,3 @@
-# 665 Tracking lead time
+# 665 Tracking Lead Time
 
-Updated version.
+Automated structural standardization.
