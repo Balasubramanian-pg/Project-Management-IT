@@ -1,3 +1,3 @@
-# 613 Managing patch compliance
+# 613 Managing Patch Compliance
 
-Updated version.
+Automated structural standardization.
