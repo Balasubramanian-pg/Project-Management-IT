@@ -1,3 +1,3 @@
-# 383 Managing crisis response
+# 383 Managing Crisis Response
 
-Updated version.
+Automated structural standardization.
