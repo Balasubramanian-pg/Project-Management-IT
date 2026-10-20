@@ -1,3 +1,3 @@
-# 194 Managing cross-functional coordination
+# 194 Managing Crossfunctional Coordination
 
-Updated version.
+Automated structural standardization.
