@@ -1,3 +1,3 @@
-# 429 Managing solution design
+# 429 Managing Solution Design
 
-Updated version.
+Automated structural standardization.
