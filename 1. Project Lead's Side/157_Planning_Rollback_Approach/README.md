@@ -1,3 +1,3 @@
-# 157 Planning rollback approach
+# 157 Planning Rollback Approach
 
-Updated version.
+Automated structural standardization.
