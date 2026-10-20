@@ -1,3 +1,3 @@
-# 265 Controlling hardware costs
+# 265 Controlling Hardware Costs
 
-Updated version.
+Automated structural standardization.
