@@ -1,3 +1,3 @@
-# 399 Improving process quality
+# 399 Improving Process Quality
 
-Updated version.
+Automated structural standardization.
