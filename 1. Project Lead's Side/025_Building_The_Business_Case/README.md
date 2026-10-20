@@ -1,3 +1,3 @@
-# 25 Building the business case
+# 025 Building The Business Case
 
-Updated version.
+Automated structural standardization.
