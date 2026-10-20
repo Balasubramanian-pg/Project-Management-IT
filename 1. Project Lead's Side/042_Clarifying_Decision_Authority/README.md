@@ -1,3 +1,3 @@
-# 42 Clarifying decision authority
+# 042 Clarifying Decision Authority
 
-Updated version.
+Automated structural standardization.
