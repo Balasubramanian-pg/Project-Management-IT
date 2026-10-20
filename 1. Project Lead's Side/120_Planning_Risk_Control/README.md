@@ -1,3 +1,3 @@
-# 120 Planning risk control
+# 120 Planning Risk Control
 
-Updated version.
+Automated structural standardization.
