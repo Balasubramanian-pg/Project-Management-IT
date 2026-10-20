@@ -1,3 +1,3 @@
-# 211 Managing sponsor expectations
+# 211 Managing Sponsor Expectations
 
-Updated version.
+Automated structural standardization.
