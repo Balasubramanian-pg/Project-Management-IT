@@ -1,3 +1,3 @@
-# 491 Planning data validation
+# 491 Planning Data Validation
 
-Updated version.
+Automated structural standardization.
