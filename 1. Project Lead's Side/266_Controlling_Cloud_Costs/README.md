@@ -1,3 +1,3 @@
-# 266 Controlling cloud costs
+# 266 Controlling Cloud Costs
 
-Updated version.
+Automated structural standardization.
