@@ -1,3 +1,3 @@
-# 293 Managing spending thresholds
+# 293 Managing Spending Thresholds
 
-Updated version.
+Automated structural standardization.
