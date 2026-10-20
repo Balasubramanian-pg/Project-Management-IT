@@ -1,3 +1,3 @@
-# 325 Calculating risk exposure
+# 325 Calculating Risk Exposure
 
-Updated version.
+Automated structural standardization.
