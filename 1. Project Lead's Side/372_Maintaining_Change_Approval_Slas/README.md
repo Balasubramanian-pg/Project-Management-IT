@@ -1,3 +1,3 @@
-# 372 Maintaining change approval SLAs
+# 372 Maintaining Change Approval Slas
 
-Updated version.
+Automated structural standardization.
