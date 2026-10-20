@@ -1,3 +1,3 @@
-# 61 Defining project objectives by phase
+# 061 Defining Project Objectives By Phase
 
-Updated version.
+Automated structural standardization.
