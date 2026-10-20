@@ -1,3 +1,3 @@
-# 227 Conducting stakeholder interviews
+# 227 Conducting Stakeholder Interviews
 
-Updated version.
+Automated structural standardization.
