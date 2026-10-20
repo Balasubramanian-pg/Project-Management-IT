@@ -1,3 +1,3 @@
-# 450 Managing rework in execution
+# 450 Managing Rework In Execution
 
-Updated version.
+Automated structural standardization.
