@@ -1,3 +1,3 @@
-# 282 Negotiating resource tradeoffs
+# 282 Negotiating Resource Tradeoffs
 
-Updated version.
+Automated structural standardization.
