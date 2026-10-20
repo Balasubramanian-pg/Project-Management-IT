@@ -1,3 +1,3 @@
-# 430 Managing detailed design
+# 430 Managing Detailed Design
 
-Updated version.
+Automated structural standardization.
