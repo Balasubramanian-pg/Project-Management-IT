@@ -1,3 +1,3 @@
-# 98 Running requirement workshops
+# 098 Running Requirement Workshops
 
-Updated version.
+Automated structural standardization.
