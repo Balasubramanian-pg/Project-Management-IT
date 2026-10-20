@@ -1,3 +1,3 @@
-# 393 Managing policy exceptions
+# 393 Managing Policy Exceptions
 
-Updated version.
+Automated structural standardization.
