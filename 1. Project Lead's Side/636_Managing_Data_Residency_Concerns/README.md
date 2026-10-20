@@ -1,3 +1,3 @@
-# 636 Managing data residency concerns
+# 636 Managing Data Residency Concerns
 
-Updated version.
+Automated structural standardization.
