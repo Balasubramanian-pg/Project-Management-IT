@@ -1,3 +1,3 @@
-# 395 Managing issue aging
+# 395 Managing Issue Aging
 
-Updated version.
+Automated structural standardization.
