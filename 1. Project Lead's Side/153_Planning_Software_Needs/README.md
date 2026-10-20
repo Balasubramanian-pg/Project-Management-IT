@@ -1,3 +1,3 @@
-# 153 Planning software needs
+# 153 Planning Software Needs
 
-Updated version.
+Automated structural standardization.
