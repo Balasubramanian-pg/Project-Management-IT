@@ -1,3 +1,3 @@
-# 126 Creating the cost management plan
+# 126 Creating The Cost Management Plan
 
-Updated version.
+Automated structural standardization.
