@@ -1,3 +1,3 @@
-# 268 Controlling contingency reserves
+# 268 Controlling Contingency Reserves
 
-Updated version.
+Automated structural standardization.
