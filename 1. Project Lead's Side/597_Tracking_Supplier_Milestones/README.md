@@ -1,3 +1,3 @@
-# 597 Tracking supplier milestones
+# 597 Tracking Supplier Milestones
 
-Updated version.
+Automated structural standardization.
