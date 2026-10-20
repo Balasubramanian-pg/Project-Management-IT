@@ -1,3 +1,3 @@
-# 286 Updating project calendar
+# 286 Updating Project Calendar
 
-Updated version.
+Automated structural standardization.
