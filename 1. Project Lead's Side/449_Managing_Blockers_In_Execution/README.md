@@ -1,3 +1,3 @@
-# 449 Managing blockers in execution
+# 449 Managing Blockers In Execution
 
-Updated version.
+Automated structural standardization.
