@@ -1,3 +1,3 @@
-# 187 Planning communication channels
+# 187 Planning Communication Channels
 
-Updated version.
+Automated structural standardization.
