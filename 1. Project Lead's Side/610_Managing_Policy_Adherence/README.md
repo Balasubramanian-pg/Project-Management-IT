@@ -1,3 +1,3 @@
-# 610 Managing policy adherence
+# 610 Managing Policy Adherence
 
-Updated version.
+Automated structural standardization.
