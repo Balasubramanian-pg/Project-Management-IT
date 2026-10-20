@@ -1,3 +1,3 @@
-# 563 Identifying compliance requirements
+# 563 Identifying Compliance Requirements
 
-Updated version.
+Automated structural standardization.
