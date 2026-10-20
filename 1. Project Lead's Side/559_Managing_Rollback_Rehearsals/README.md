@@ -1,3 +1,3 @@
-# 559 Managing rollback rehearsals
+# 559 Managing Rollback Rehearsals
 
-Updated version.
+Automated structural standardization.
