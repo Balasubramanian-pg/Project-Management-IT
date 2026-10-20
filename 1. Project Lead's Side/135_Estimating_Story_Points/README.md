@@ -1,3 +1,3 @@
-# 135 Estimating story points
+# 135 Estimating Story Points
 
-Updated version.
+Automated structural standardization.
