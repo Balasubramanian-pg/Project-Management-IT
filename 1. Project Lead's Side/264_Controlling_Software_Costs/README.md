@@ -1,3 +1,3 @@
-# 264 Controlling software costs
+# 264 Controlling Software Costs
 
-Updated version.
+Automated structural standardization.
