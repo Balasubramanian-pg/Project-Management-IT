@@ -1,3 +1,3 @@
-# 327 Creating risk responses
+# 327 Creating Risk Responses
 
-Updated version.
+Automated structural standardization.
