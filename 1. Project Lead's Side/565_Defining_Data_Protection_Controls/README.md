@@ -1,3 +1,3 @@
-# 565 Defining data protection controls
+# 565 Defining Data Protection Controls
 
-Updated version.
+Automated structural standardization.
