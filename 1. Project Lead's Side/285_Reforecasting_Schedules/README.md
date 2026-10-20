@@ -1,3 +1,3 @@
-# 285 Reforecasting schedules
+# 285 Reforecasting Schedules
 
-Updated version.
+Automated structural standardization.
