@@ -1,3 +1,3 @@
-# 339 Implementing corrective actions
+# 339 Implementing Corrective Actions
 
-Updated version.
+Automated structural standardization.
