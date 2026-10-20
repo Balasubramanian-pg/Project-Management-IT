@@ -1,3 +1,3 @@
-# 114 Planning change control
+# 114 Planning Change Control
 
-Updated version.
+Automated structural standardization.
