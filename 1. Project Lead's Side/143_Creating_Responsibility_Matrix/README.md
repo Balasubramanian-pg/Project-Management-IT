@@ -1,3 +1,3 @@
-# 143 Creating responsibility matrix
+# 143 Creating Responsibility Matrix
 
-Updated version.
+Automated structural standardization.
