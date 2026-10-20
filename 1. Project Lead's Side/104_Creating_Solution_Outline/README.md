@@ -1,3 +1,3 @@
-# 104 Creating solution outline
+# 104 Creating Solution Outline
 
-Updated version.
+Automated structural standardization.
