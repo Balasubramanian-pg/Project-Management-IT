@@ -1,3 +1,3 @@
-# 635 Managing procurement risk
+# 635 Managing Procurement Risk
 
-Updated version.
+Automated structural standardization.
