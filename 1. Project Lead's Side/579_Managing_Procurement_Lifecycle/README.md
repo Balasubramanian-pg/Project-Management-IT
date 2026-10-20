@@ -1,3 +1,3 @@
-# 579 Managing procurement lifecycle
+# 579 Managing Procurement Lifecycle
 
-Updated version.
+Automated structural standardization.
