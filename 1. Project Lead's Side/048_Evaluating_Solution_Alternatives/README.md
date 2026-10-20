@@ -1,3 +1,3 @@
-# 48 Evaluating solution alternatives
+# 048 Evaluating Solution Alternatives
 
-Updated version.
+Automated structural standardization.
