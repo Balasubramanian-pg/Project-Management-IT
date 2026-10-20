@@ -1,3 +1,3 @@
-# 631 Managing invoice validation
+# 631 Managing Invoice Validation
 
-Updated version.
+Automated structural standardization.
