@@ -1,3 +1,3 @@
-# 12 Documenting constraints
+# 012 Documenting Constraints
 
-Updated version.
+Automated structural standardization.
