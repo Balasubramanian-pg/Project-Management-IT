@@ -1,3 +1,3 @@
-# 121 Planning procurement control
+# 121 Planning Procurement Control
 
-Updated version.
+Automated structural standardization.
