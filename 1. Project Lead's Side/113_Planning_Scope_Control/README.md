@@ -1,3 +1,3 @@
-# 113 Planning scope control
+# 113 Planning Scope Control
 
-Updated version.
+Automated structural standardization.
