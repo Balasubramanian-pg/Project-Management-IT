@@ -1,3 +1,3 @@
-# 596 Tracking vendor deliverables
+# 596 Tracking Vendor Deliverables
 
-Updated version.
+Automated structural standardization.
