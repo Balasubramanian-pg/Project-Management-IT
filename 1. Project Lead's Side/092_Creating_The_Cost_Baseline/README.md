@@ -1,3 +1,3 @@
-# 92 Creating the cost baseline
+# 092 Creating The Cost Baseline
 
-Updated version.
+Automated structural standardization.
