@@ -1,3 +1,3 @@
-# 524 Managing hypercare planning
+# 524 Managing Hypercare Planning
 
-Updated version.
+Automated structural standardization.
