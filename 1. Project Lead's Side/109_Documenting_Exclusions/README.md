@@ -1,3 +1,3 @@
-# 109 Documenting exclusions
+# 109 Documenting Exclusions
 
-Updated version.
+Automated structural standardization.
