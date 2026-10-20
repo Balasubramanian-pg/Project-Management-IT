@@ -1,3 +1,3 @@
-# 278 Managing contractor engagement
+# 278 Managing Contractor Engagement
 
-Updated version.
+Automated structural standardization.
