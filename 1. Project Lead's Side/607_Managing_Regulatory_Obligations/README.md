@@ -1,3 +1,3 @@
-# 607 Managing regulatory obligations
+# 607 Managing Regulatory Obligations
 
-Updated version.
+Automated structural standardization.
