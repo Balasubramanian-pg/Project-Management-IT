@@ -1,3 +1,3 @@
-# 280 Monitoring overallocated resources
+# 280 Monitoring Overallocated Resources
 
-Updated version.
+Automated structural standardization.
