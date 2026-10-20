@@ -1,3 +1,3 @@
-# 28 Capturing stakeholder expectations
+# 028 Capturing Stakeholder Expectations
 
-Updated version.
+Automated structural standardization.
