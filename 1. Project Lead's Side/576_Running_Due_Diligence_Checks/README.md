@@ -1,3 +1,3 @@
-# 576 Running due diligence checks
+# 576 Running Due Diligence Checks
 
-Updated version.
+Automated structural standardization.
