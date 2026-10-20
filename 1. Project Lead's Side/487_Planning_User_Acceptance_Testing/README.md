@@ -1,3 +1,3 @@
-# 487 Planning user acceptance testing
+# 487 Planning User Acceptance Testing
 
-Updated version.
+Automated structural standardization.
