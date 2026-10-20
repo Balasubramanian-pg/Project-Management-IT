@@ -1,3 +1,3 @@
-# 426 Managing access provisioning
+# 426 Managing Access Provisioning
 
-Updated version.
+Automated structural standardization.
