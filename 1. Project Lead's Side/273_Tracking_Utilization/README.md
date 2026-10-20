@@ -1,3 +1,3 @@
-# 273 Tracking utilization
+# 273 Tracking Utilization
 
-Updated version.
+Automated structural standardization.
