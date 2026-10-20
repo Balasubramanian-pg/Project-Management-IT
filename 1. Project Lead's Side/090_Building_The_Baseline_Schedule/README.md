@@ -1,3 +1,3 @@
-# 90 Building the baseline schedule
+# 090 Building The Baseline Schedule
 
-Updated version.
+Automated structural standardization.
