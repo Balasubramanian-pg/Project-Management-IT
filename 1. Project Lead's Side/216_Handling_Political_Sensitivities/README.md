@@ -1,3 +1,3 @@
-# 216 Handling political sensitivities
+# 216 Handling Political Sensitivities
 
-Updated version.
+Automated structural standardization.
