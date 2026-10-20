@@ -1,3 +1,3 @@
-# 314 Planning SME effort
+# 314 Planning Sme Effort
 
-Updated version.
+Automated structural standardization.
