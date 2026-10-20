@@ -1,3 +1,3 @@
-# 593 Managing compliance signoff
+# 593 Managing Compliance Signoff
 
-Updated version.
+Automated structural standardization.
