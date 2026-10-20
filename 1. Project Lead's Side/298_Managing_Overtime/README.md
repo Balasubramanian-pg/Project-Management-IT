@@ -1,3 +1,3 @@
-# 298 Managing overtime
+# 298 Managing Overtime
 
-Updated version.
+Automated structural standardization.
