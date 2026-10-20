@@ -1,3 +1,3 @@
-# 381 Managing fallback plans
+# 381 Managing Fallback Plans
 
-Updated version.
+Automated structural standardization.
