@@ -1,3 +1,3 @@
-# 110 Documenting constraints in planning
+# 110 Documenting Constraints In Planning
 
-Updated version.
+Automated structural standardization.
