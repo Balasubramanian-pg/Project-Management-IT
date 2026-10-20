@@ -1,3 +1,3 @@
-# 159 Planning proof of concept
+# 159 Planning Proof Of Concept
 
-Updated version.
+Automated structural standardization.
