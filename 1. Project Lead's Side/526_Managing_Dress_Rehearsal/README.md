@@ -1,3 +1,3 @@
-# 526 Managing dress rehearsal
+# 526 Managing Dress Rehearsal
 
-Updated version.
+Automated structural standardization.
