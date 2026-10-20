@@ -1,3 +1,3 @@
-# 656 Tracking cost variance
+# 656 Tracking Cost Variance
 
-Updated version.
+Automated structural standardization.
