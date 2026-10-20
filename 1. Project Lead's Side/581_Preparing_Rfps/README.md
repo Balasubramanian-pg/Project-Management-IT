@@ -1,3 +1,3 @@
-# 581 Preparing RFPs
+# 581 Preparing Rfps
 
-Updated version.
+Automated structural standardization.
