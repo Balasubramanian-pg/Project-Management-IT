@@ -1,3 +1,3 @@
-# 655 Tracking schedule variance
+# 655 Tracking Schedule Variance
 
-Updated version.
+Automated structural standardization.
