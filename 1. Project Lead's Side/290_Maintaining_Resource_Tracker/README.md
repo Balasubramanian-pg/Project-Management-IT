@@ -1,3 +1,3 @@
-# 290 Maintaining resource tracker
+# 290 Maintaining Resource Tracker
 
-Updated version.
+Automated structural standardization.
