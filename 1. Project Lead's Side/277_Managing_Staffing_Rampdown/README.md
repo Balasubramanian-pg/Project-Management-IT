@@ -1,3 +1,3 @@
-# 277 Managing staffing ramp-down
+# 277 Managing Staffing Rampdown
 
-Updated version.
+Automated structural standardization.
