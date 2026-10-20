@@ -1,3 +1,3 @@
-# 108 Defining out of scope items
+# 108 Defining Out Of Scope Items
 
-Updated version.
+Automated structural standardization.
