@@ -1,3 +1,3 @@
-# 385 Running lessons from incidents
+# 385 Running Lessons From Incidents
 
-Updated version.
+Automated structural standardization.
