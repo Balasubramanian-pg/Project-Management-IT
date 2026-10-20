@@ -1,3 +1,3 @@
-# 369 Managing audit findings
+# 369 Managing Audit Findings
 
-Updated version.
+Automated structural standardization.
