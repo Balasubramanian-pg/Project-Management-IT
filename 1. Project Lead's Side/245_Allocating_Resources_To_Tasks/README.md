@@ -1,3 +1,3 @@
-# 245 Allocating resources to tasks
+# 245 Allocating Resources To Tasks
 
-Updated version.
+Automated structural standardization.
