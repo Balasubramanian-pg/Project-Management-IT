@@ -1,3 +1,3 @@
-# 276 Managing staffing ramp-up
+# 276 Managing Staffing Rampup
 
-Updated version.
+Automated structural standardization.
