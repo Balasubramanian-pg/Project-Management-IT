@@ -1,3 +1,3 @@
-# 641 Defining project KPIs
+# 641 Defining Project Kpis
 
-Updated version.
+Automated structural standardization.
