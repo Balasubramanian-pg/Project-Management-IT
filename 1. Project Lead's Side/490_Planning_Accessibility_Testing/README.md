@@ -1,3 +1,3 @@
-# 490 Planning accessibility testing
+# 490 Planning Accessibility Testing
 
-Updated version.
+Automated structural standardization.
