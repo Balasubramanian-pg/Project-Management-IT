@@ -1,3 +1,3 @@
-# 267 Controlling travel costs
+# 267 Controlling Travel Costs
 
-Updated version.
+Automated structural standardization.
