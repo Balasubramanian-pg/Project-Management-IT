@@ -1,3 +1,3 @@
-# 203 Communicating schedule changes
+# 203 Communicating Schedule Changes
 
-Updated version.
+Automated structural standardization.
