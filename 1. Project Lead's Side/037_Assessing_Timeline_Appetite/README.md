@@ -1,3 +1,3 @@
-# 37 Assessing timeline appetite
+# 037 Assessing Timeline Appetite
 
-Updated version.
+Automated structural standardization.
