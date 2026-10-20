@@ -1,3 +1,3 @@
-# 261 Offboarding project resources
+# 261 Offboarding Project Resources
 
-Updated version.
+Automated structural standardization.
