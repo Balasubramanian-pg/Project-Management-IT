@@ -1,3 +1,3 @@
-# 76 Recording initiation decisions
+# 076 Recording Initiation Decisions
 
-Updated version.
+Automated structural standardization.
