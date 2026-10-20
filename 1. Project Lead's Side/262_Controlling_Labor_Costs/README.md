@@ -1,3 +1,3 @@
-# 262 Controlling labor costs
+# 262 Controlling Labor Costs
 
-Updated version.
+Automated structural standardization.
