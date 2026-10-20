@@ -1,3 +1,3 @@
-# 254 Managing resource availability
+# 254 Managing Resource Availability
 
-Updated version.
+Automated structural standardization.
