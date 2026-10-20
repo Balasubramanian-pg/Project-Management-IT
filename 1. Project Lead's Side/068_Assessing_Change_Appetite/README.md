@@ -1,3 +1,3 @@
-# 68 Assessing change appetite
+# 068 Assessing Change Appetite
 
-Updated version.
+Automated structural standardization.
