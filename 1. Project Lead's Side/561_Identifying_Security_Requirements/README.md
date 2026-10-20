@@ -1,3 +1,3 @@
-# 561 Identifying security requirements
+# 561 Identifying Security Requirements
 
-Updated version.
+Automated structural standardization.
