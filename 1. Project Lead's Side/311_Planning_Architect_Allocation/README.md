@@ -1,3 +1,3 @@
-# 311 Planning architect allocation
+# 311 Planning Architect Allocation
 
-Updated version.
+Automated structural standardization.
