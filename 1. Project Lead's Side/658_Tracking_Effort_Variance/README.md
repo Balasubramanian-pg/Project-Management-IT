@@ -1,3 +1,3 @@
-# 658 Tracking effort variance
+# 658 Tracking Effort Variance
 
-Updated version.
+Automated structural standardization.
