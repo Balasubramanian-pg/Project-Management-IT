@@ -1,3 +1,3 @@
-# 338 Running root cause analysis
+# 338 Running Root Cause Analysis
 
-Updated version.
+Automated structural standardization.
