@@ -1,3 +1,3 @@
-# 599 Tracking license usage
+# 599 Tracking License Usage
 
-Updated version.
+Automated structural standardization.
