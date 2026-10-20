@@ -1,3 +1,3 @@
-# 647 Defining risk KPIs
+# 647 Defining Risk Kpis
 
-Updated version.
+Automated structural standardization.
