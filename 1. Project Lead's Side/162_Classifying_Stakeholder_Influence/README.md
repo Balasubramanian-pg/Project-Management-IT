@@ -1,3 +1,3 @@
-# 162 Classifying stakeholder influence
+# 162 Classifying Stakeholder Influence
 
-Updated version.
+Automated structural standardization.
