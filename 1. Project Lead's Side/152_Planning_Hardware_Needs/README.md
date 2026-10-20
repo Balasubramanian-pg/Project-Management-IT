@@ -1,3 +1,3 @@
-# 152 Planning hardware needs
+# 152 Planning Hardware Needs
 
-Updated version.
+Automated structural standardization.
