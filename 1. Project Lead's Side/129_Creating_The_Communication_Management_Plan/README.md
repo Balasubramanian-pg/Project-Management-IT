@@ -1,3 +1,3 @@
-# 129 Creating the communication management plan
+# 129 Creating The Communication Management Plan
 
-Updated version.
+Automated structural standardization.
