@@ -1,3 +1,3 @@
-# 505 Managing synthetic data
+# 505 Managing Synthetic Data
 
-Updated version.
+Automated structural standardization.
