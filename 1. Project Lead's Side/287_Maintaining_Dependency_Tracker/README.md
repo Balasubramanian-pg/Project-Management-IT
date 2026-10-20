@@ -1,3 +1,3 @@
-# 287 Maintaining dependency tracker
+# 287 Maintaining Dependency Tracker
 
-Updated version.
+Automated structural standardization.
