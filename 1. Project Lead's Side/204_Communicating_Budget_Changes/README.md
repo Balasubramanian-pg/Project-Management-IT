@@ -1,3 +1,3 @@
-# 204 Communicating budget changes
+# 204 Communicating Budget Changes
 
-Updated version.
+Automated structural standardization.
