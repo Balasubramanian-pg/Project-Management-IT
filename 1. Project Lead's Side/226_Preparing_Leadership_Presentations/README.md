@@ -1,3 +1,3 @@
-# 226 Preparing leadership presentations
+# 226 Preparing Leadership Presentations
 
-Updated version.
+Automated structural standardization.
