@@ -1,3 +1,3 @@
-# 330 Tracking risk triggers
+# 330 Tracking Risk Triggers
 
-Updated version.
+Automated structural standardization.
