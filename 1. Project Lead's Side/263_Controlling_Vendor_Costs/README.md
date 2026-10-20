@@ -1,3 +1,3 @@
-# 263 Controlling vendor costs
+# 263 Controlling Vendor Costs
 
-Updated version.
+Automated structural standardization.
