@@ -1,3 +1,3 @@
-# 500 Tracking defect closure
+# 500 Tracking Defect Closure
 
-Updated version.
+Automated structural standardization.
