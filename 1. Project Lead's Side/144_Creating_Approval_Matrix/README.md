@@ -1,3 +1,3 @@
-# 144 Creating approval matrix
+# 144 Creating Approval Matrix
 
-Updated version.
+Automated structural standardization.
