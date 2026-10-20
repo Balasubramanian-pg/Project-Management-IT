@@ -1,3 +1,3 @@
-# 650 Building executive dashboards
+# 650 Building Executive Dashboards
 
-Updated version.
+Automated structural standardization.
