@@ -1,3 +1,3 @@
-# 403 Managing task assignments
+# 403 Managing Task Assignments
 
-Updated version.
+Automated structural standardization.
