@@ -1,3 +1,3 @@
-# 289 Maintaining cost tracker
+# 289 Maintaining Cost Tracker
 
-Updated version.
+Automated structural standardization.
