@@ -1,3 +1,3 @@
-# 66 Evaluating build versus configure options
+# 066 Evaluating Build Versus Configure Options
 
-Updated version.
+Automated structural standardization.
