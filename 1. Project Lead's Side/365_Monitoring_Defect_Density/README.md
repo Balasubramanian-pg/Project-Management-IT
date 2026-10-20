@@ -1,3 +1,3 @@
-# 365 Monitoring defect density
+# 365 Monitoring Defect Density
 
-Updated version.
+Automated structural standardization.
