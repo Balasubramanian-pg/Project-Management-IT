@@ -1,3 +1,3 @@
-# 435 Coordinating among squads
+# 435 Coordinating Among Squads
 
-Updated version.
+Automated structural standardization.
