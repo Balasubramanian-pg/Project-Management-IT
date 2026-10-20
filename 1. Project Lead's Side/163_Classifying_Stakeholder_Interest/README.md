@@ -1,3 +1,3 @@
-# 163 Classifying stakeholder interest
+# 163 Classifying Stakeholder Interest
 
-Updated version.
+Automated structural standardization.
