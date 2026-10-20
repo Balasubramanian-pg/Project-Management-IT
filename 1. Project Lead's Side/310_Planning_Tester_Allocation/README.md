@@ -1,3 +1,3 @@
-# 310 Planning tester allocation
+# 310 Planning Tester Allocation
 
-Updated version.
+Automated structural standardization.
