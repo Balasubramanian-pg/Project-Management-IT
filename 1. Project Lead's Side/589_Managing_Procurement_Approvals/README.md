@@ -1,3 +1,3 @@
-# 589 Managing procurement approvals
+# 589 Managing Procurement Approvals
 
-Updated version.
+Automated structural standardization.
