@@ -1,3 +1,3 @@
-# 595 Managing vendor offboarding
+# 595 Managing Vendor Offboarding
 
-Updated version.
+Automated structural standardization.
