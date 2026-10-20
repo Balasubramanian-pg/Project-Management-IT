@@ -1,3 +1,3 @@
-# 75 Approving project initiation
+# 075 Approving Project Initiation
 
-Updated version.
+Automated structural standardization.
