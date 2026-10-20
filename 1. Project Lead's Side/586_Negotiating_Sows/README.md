@@ -1,3 +1,3 @@
-# 586 Negotiating SOWs
+# 586 Negotiating Sows
 
-Updated version.
+Automated structural standardization.
