@@ -1,3 +1,3 @@
-# 01 Defining the project vision
+# 001 Defining The Project Vision
 
-Updated version.
+Automated structural standardization.
