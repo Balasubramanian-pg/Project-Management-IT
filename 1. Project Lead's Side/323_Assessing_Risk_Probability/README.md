@@ -1,3 +1,3 @@
-# 323 Assessing risk probability
+# 323 Assessing Risk Probability
 
-Updated version.
+Automated structural standardization.
