@@ -1,3 +1,3 @@
-# 594 Managing vendor onboarding
+# 594 Managing Vendor Onboarding
 
-Updated version.
+Automated structural standardization.
