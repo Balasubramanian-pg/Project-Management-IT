@@ -1,3 +1,3 @@
-# 458 Managing UX collaboration
+# 458 Managing UX Collaboration
 
-Updated version.
+Automated structural standardization.
