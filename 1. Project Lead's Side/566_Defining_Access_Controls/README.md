@@ -1,3 +1,3 @@
-# 566 Defining access controls
+# 566 Defining Access Controls
 
-Updated version.
+Automated structural standardization.
