@@ -1,3 +1,3 @@
-# 154 Planning data needs
+# 154 Planning Data Needs
 
-Updated version.
+Automated structural standardization.
