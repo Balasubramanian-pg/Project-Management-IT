@@ -1,3 +1,3 @@
-# 308 Planning developer allocation
+# 308 Planning Developer Allocation
 
-Updated version.
+Automated structural standardization.
