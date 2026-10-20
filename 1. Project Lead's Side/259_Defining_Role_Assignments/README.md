@@ -1,3 +1,3 @@
-# 259 Defining role assignments
+# 259 Defining Role Assignments
 
-Updated version.
+Automated structural standardization.
