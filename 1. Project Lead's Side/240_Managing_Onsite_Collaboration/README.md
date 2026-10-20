@@ -1,3 +1,3 @@
-# 240 Managing onsite collaboration
+# 240 Managing Onsite Collaboration
 
-Updated version.
+Automated structural standardization.
