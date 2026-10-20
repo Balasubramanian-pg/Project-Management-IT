@@ -1,3 +1,3 @@
-# 392 Managing process deviations
+# 392 Managing Process Deviations
 
-Updated version.
+Automated structural standardization.
