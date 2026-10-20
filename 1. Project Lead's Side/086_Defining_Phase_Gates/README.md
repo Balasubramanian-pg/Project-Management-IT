@@ -1,3 +1,3 @@
-# 86 Defining phase gates
+# 086 Defining Phase Gates
 
-Updated version.
+Automated structural standardization.
