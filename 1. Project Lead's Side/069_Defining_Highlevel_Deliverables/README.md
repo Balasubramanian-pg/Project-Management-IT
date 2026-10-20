@@ -1,3 +1,3 @@
-# 69 Defining high-level deliverables
+# 069 Defining Highlevel Deliverables
 
-Updated version.
+Automated structural standardization.
