@@ -1,3 +1,3 @@
-# 307 Planning support coverage
+# 307 Planning Support Coverage
 
-Updated version.
+Automated structural standardization.
