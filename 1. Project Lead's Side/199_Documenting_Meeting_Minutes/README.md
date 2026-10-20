@@ -1,3 +1,3 @@
-# 199 Documenting meeting minutes
+# 199 Documenting Meeting Minutes
 
-Updated version.
+Automated structural standardization.
