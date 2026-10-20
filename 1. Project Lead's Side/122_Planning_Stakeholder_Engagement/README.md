@@ -1,3 +1,3 @@
-# 122 Planning stakeholder engagement
+# 122 Planning Stakeholder Engagement
 
-Updated version.
+Automated structural standardization.
