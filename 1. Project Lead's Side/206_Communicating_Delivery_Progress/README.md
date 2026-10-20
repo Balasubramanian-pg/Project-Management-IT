@@ -1,3 +1,3 @@
-# 206 Communicating delivery progress
+# 206 Communicating Delivery Progress
 
-Updated version.
+Automated structural standardization.
