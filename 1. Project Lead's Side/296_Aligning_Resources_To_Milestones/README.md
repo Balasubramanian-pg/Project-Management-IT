@@ -1,3 +1,3 @@
-# 296 Aligning resources to milestones
+# 296 Aligning Resources To Milestones
 
-Updated version.
+Automated structural standardization.
