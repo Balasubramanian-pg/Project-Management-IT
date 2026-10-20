@@ -1,3 +1,3 @@
-# 580 Defining sourcing strategy
+# 580 Defining Sourcing Strategy
 
-Updated version.
+Automated structural standardization.
