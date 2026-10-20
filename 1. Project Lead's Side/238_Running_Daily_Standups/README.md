@@ -1,3 +1,3 @@
-# 238 Running daily standups
+# 238 Running Daily Standups
 
-Updated version.
+Automated structural standardization.
