@@ -1,3 +1,3 @@
-# 18 Evaluating strategic fit
+# 018 Evaluating Strategic Fit
 
-Updated version.
+Automated structural standardization.
