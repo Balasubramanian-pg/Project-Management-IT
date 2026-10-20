@@ -1,3 +1,3 @@
-# 639 Managing ISO considerations
+# 639 Managing Iso Considerations
 
-Updated version.
+Automated structural standardization.
