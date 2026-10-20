@@ -1,3 +1,3 @@
-# 65 Determining make or buy options
+# 065 Determining Make Or Buy Options
 
-Updated version.
+Automated structural standardization.
