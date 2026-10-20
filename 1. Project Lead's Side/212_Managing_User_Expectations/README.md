@@ -1,3 +1,3 @@
-# 212 Managing user expectations
+# 212 Managing User Expectations
 
-Updated version.
+Automated structural standardization.
