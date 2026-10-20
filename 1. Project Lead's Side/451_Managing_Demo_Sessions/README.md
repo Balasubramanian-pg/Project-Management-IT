@@ -1,3 +1,3 @@
-# 451 Managing demo sessions
+# 451 Managing Demo Sessions
 
-Updated version.
+Automated structural standardization.
