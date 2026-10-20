@@ -1,3 +1,3 @@
-# 272 Updating burn rate
+# 272 Updating Burn Rate
 
-Updated version.
+Automated structural standardization.
