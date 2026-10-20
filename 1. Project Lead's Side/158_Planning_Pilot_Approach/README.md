@@ -1,3 +1,3 @@
-# 158 Planning pilot approach
+# 158 Planning Pilot Approach
 
-Updated version.
+Automated structural standardization.
