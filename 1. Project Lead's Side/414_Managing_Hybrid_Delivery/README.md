@@ -1,3 +1,3 @@
-# 414 Managing hybrid delivery
+# 414 Managing Hybrid Delivery
 
-Updated version.
+Automated structural standardization.
