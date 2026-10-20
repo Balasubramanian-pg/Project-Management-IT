@@ -1,3 +1,3 @@
-# 428 Managing technical walkthroughs
+# 428 Managing Technical Walkthroughs
 
-Updated version.
+Automated structural standardization.
