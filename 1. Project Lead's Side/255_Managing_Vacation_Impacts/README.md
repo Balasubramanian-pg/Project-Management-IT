@@ -1,3 +1,3 @@
-# 255 Managing vacation impacts
+# 255 Managing Vacation Impacts
 
-Updated version.
+Automated structural standardization.
