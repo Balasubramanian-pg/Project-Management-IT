@@ -1,3 +1,3 @@
-# 142 Creating RACI matrix
+# 142 Creating Raci Matrix
 
-Updated version.
+Automated structural standardization.
