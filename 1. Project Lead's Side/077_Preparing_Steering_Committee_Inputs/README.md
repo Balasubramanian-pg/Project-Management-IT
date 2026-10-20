@@ -1,3 +1,3 @@
-# 77 Preparing steering committee inputs
+# 077 Preparing Steering Committee Inputs
 
-Updated version.
+Automated structural standardization.
