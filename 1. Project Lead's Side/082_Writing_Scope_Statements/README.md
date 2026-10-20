@@ -1,3 +1,3 @@
-# 82 Writing scope statements
+# 082 Writing Scope Statements
 
-Updated version.
+Automated structural standardization.
