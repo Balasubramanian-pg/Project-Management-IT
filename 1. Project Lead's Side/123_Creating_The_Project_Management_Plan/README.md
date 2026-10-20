@@ -1,3 +1,3 @@
-# 123 Creating the project management plan
+# 123 Creating The Project Management Plan
 
-Updated version.
+Automated structural standardization.
