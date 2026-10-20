@@ -1,3 +1,3 @@
-# 337 Resolving blockers
+# 337 Resolving Blockers
 
-Updated version.
+Automated structural standardization.
