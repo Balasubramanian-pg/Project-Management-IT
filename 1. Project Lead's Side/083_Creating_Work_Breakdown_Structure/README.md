@@ -1,3 +1,3 @@
-# 83 Creating work breakdown structure
+# 083 Creating Work Breakdown Structure
 
-Updated version.
+Automated structural standardization.
