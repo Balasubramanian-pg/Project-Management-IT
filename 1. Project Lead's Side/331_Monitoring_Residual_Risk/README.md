@@ -1,3 +1,3 @@
-# 331 Monitoring residual risk
+# 331 Monitoring Residual Risk
 
-Updated version.
+Automated structural standardization.
