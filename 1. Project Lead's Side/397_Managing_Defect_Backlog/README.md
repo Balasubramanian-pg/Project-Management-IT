@@ -1,3 +1,3 @@
-# 397 Managing defect backlog
+# 397 Managing Defect Backlog
 
-Updated version.
+Automated structural standardization.
