@@ -1,3 +1,3 @@
-# 544 Managing certification testing
+# 544 Managing Certification Testing
 
-Updated version.
+Automated structural standardization.
