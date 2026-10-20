@@ -1,3 +1,3 @@
-# 619 Managing disaster recovery requirements
+# 619 Managing Disaster Recovery Requirements
 
-Updated version.
+Automated structural standardization.
