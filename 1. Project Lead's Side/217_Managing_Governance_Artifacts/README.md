@@ -1,3 +1,3 @@
-# 217 Managing governance artifacts
+# 217 Managing Governance Artifacts
 
-Updated version.
+Automated structural standardization.
