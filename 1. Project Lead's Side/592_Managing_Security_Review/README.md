@@ -1,3 +1,3 @@
-# 592 Managing security review
+# 592 Managing Security Review
 
-Updated version.
+Automated structural standardization.
