@@ -1,3 +1,3 @@
-# 274 Tracking throughput
+# 274 Tracking Throughput
 
-Updated version.
+Automated structural standardization.
