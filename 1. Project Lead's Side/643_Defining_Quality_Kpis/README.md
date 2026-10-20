@@ -1,3 +1,3 @@
-# 643 Defining quality KPIs
+# 643 Defining Quality Kpis
 
-Updated version.
+Automated structural standardization.
