@@ -1,3 +1,3 @@
-# 460 Managing cloud collaboration
+# 460 Managing Cloud Collaboration
 
-Updated version.
+Automated structural standardization.
