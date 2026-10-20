@@ -1,3 +1,3 @@
-# 374 Using RAID logs effectively
+# 374 Using Raid Logs Effectively
 
-Updated version.
+Automated structural standardization.
