@@ -1,3 +1,3 @@
-# 486 Planning regression testing
+# 486 Planning Regression Testing
 
-Updated version.
+Automated structural standardization.
