@@ -1,3 +1,3 @@
-# 624 Managing offshore teams
+# 624 Managing Offshore Teams
 
-Updated version.
+Automated structural standardization.
