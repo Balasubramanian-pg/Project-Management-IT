@@ -1,3 +1,3 @@
-# 140 Defining planning assumptions
+# 140 Defining Planning Assumptions
 
-Updated version.
+Automated structural standardization.
