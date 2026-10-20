@@ -1,3 +1,3 @@
-# 02 Identifying business problems
+# 002 Identifying Business Problems
 
-Updated version.
+Automated structural standardization.
