@@ -1,3 +1,3 @@
-# 384 Managing escalation protocols
+# 384 Managing Escalation Protocols
 
-Updated version.
+Automated structural standardization.
