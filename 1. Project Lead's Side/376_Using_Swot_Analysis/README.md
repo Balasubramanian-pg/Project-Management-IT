@@ -1,3 +1,3 @@
-# 376 Using SWOT analysis
+# 376 Using Swot Analysis
 
-Updated version.
+Automated structural standardization.
