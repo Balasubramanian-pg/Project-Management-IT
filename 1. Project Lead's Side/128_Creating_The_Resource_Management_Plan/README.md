@@ -1,3 +1,3 @@
-# 128 Creating the resource management plan
+# 128 Creating The Resource Management Plan
 
-Updated version.
+Automated structural standardization.
