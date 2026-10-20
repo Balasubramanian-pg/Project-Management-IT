@@ -1,3 +1,3 @@
-# 436 Coordinating among vendors
+# 436 Coordinating Among Vendors
 
-Updated version.
+Automated structural standardization.
