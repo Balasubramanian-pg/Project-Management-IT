@@ -1,3 +1,3 @@
-# 64 Selecting delivery approach
+# 064 Selecting Delivery Approach
 
-Updated version.
+Automated structural standardization.
