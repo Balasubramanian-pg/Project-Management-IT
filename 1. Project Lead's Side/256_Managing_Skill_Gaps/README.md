@@ -1,3 +1,3 @@
-# 256 Managing skill gaps
+# 256 Managing Skill Gaps
 
-Updated version.
+Automated structural standardization.
