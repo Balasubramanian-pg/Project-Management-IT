@@ -1,3 +1,3 @@
-# 304 Managing backup coverage
+# 304 Managing Backup Coverage
 
-Updated version.
+Automated structural standardization.
