@@ -1,3 +1,3 @@
-# 409 Running sprint reviews
+# 409 Running Sprint Reviews
 
-Updated version.
+Automated structural standardization.
