@@ -1,3 +1,3 @@
-# 405 Removing blockers
+# 405 Removing Blockers
 
-Updated version.
+Automated structural standardization.
