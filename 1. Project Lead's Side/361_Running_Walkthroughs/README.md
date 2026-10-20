@@ -1,3 +1,3 @@
-# 361 Running walkthroughs
+# 361 Running Walkthroughs
 
-Updated version.
+Automated structural standardization.
