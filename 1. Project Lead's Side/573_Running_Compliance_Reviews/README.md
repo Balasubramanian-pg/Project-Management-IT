@@ -1,3 +1,3 @@
-# 573 Running compliance reviews
+# 573 Running Compliance Reviews
 
-Updated version.
+Automated structural standardization.
