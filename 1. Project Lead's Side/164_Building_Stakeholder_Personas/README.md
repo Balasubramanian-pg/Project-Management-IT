@@ -1,3 +1,3 @@
-# 164 Building stakeholder personas
+# 164 Building Stakeholder Personas
 
-Updated version.
+Automated structural standardization.
