@@ -1,3 +1,3 @@
-# 115 Planning schedule control
+# 115 Planning Schedule Control
 
-Updated version.
+Automated structural standardization.
