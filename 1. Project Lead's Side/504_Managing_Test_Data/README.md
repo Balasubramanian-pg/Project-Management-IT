@@ -1,3 +1,3 @@
-# 504 Managing test data
+# 504 Managing Test Data
 
-Updated version.
+Automated structural standardization.
