@@ -1,3 +1,3 @@
-# 649 Building project dashboards
+# 649 Building Project Dashboards
 
-Updated version.
+Automated structural standardization.
