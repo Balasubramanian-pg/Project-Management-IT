@@ -1,3 +1,3 @@
-# 582 Evaluating proposals
+# 582 Evaluating Proposals
 
-Updated version.
+Automated structural standardization.
