@@ -1,3 +1,3 @@
-# 342 Managing rework
+# 342 Managing Rework
 
-Updated version.
+Automated structural standardization.
