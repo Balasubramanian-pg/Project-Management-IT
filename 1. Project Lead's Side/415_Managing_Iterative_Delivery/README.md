@@ -1,3 +1,3 @@
-# 415 Managing iterative delivery
+# 415 Managing Iterative Delivery
 
-Updated version.
+Automated structural standardization.
