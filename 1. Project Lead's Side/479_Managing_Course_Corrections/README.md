@@ -1,3 +1,3 @@
-# 479 Managing course corrections
+# 479 Managing Course Corrections
 
-Updated version.
+Automated structural standardization.
