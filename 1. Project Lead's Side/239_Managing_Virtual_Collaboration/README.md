@@ -1,3 +1,3 @@
-# 239 Managing virtual collaboration
+# 239 Managing Virtual Collaboration
 
-Updated version.
+Automated structural standardization.
