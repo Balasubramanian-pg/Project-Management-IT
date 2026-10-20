@@ -1,3 +1,3 @@
-# 230 Measuring stakeholder satisfaction
+# 230 Measuring Stakeholder Satisfaction
 
-Updated version.
+Automated structural standardization.
