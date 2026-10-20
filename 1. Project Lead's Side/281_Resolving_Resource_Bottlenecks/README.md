@@ -1,3 +1,3 @@
-# 281 Resolving resource bottlenecks
+# 281 Resolving Resource Bottlenecks
 
-Updated version.
+Automated structural standardization.
