@@ -1,3 +1,3 @@
-# 345 Evaluating change impact
+# 345 Evaluating Change Impact
 
-Updated version.
+Automated structural standardization.
