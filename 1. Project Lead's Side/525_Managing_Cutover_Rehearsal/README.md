@@ -1,3 +1,3 @@
-# 525 Managing cutover rehearsal
+# 525 Managing Cutover Rehearsal
 
-Updated version.
+Automated structural standardization.
