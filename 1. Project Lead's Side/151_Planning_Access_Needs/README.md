@@ -1,3 +1,3 @@
-# 151 Planning access needs
+# 151 Planning Access Needs
 
-Updated version.
+Automated structural standardization.
