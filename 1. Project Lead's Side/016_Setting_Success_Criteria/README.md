@@ -1,3 +1,3 @@
-# 16 Setting success criteria
+# 016 Setting Success Criteria
 
-Updated version.
+Automated structural standardization.
