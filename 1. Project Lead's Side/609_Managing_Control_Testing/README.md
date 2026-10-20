@@ -1,3 +1,3 @@
-# 609 Managing control testing
+# 609 Managing Control Testing
 
-Updated version.
+Automated structural standardization.
