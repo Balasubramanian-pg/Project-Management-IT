@@ -1,3 +1,3 @@
-# 663 Tracking throughput trends
+# 663 Tracking Throughput Trends
 
-Updated version.
+Automated structural standardization.
