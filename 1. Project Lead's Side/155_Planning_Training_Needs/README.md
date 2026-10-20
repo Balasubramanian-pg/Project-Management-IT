@@ -1,3 +1,3 @@
-# 155 Planning training needs
+# 155 Planning Training Needs
 
-Updated version.
+Automated structural standardization.
