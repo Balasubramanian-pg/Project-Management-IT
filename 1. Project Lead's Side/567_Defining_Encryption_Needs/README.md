@@ -1,3 +1,3 @@
-# 567 Defining encryption needs
+# 567 Defining Encryption Needs
 
-Updated version.
+Automated structural standardization.
