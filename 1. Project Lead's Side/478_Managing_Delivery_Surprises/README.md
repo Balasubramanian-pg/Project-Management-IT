@@ -1,3 +1,3 @@
-# 478 Managing delivery surprises
+# 478 Managing Delivery Surprises
 
-Updated version.
+Automated structural standardization.
