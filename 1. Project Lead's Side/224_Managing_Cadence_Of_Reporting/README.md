@@ -1,3 +1,3 @@
-# 224 Managing cadence of reporting
+# 224 Managing Cadence Of Reporting
 
-Updated version.
+Automated structural standardization.
