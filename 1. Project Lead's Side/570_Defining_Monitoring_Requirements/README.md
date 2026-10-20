@@ -1,3 +1,3 @@
-# 570 Defining monitoring requirements
+# 570 Defining Monitoring Requirements
 
-Updated version.
+Automated structural standardization.
