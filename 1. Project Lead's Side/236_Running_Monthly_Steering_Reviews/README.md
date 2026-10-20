@@ -1,3 +1,3 @@
-# 236 Running monthly steering reviews
+# 236 Running Monthly Steering Reviews
 
-Updated version.
+Automated structural standardization.
