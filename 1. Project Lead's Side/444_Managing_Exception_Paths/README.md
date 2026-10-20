@@ -1,3 +1,3 @@
-# 444 Managing exception paths
+# 444 Managing Exception Paths
 
-Updated version.
+Automated structural standardization.
