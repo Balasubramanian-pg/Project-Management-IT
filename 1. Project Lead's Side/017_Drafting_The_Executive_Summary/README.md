@@ -1,3 +1,3 @@
-# 17 Drafting the executive summary
+# 017 Drafting The Executive Summary
 
-Updated version.
+Automated structural standardization.
