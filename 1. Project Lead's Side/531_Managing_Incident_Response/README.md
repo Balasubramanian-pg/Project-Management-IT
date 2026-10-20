@@ -1,3 +1,3 @@
-# 531 Managing incident response
+# 531 Managing Incident Response
 
-Updated version.
+Automated structural standardization.
