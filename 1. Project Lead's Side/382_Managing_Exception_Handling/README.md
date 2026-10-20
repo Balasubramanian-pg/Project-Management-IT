@@ -1,3 +1,3 @@
-# 382 Managing exception handling
+# 382 Managing Exception Handling
 
-Updated version.
+Automated structural standardization.
