@@ -1,3 +1,3 @@
-# 161 Identifying stakeholder groups
+# 161 Identifying Stakeholder Groups
 
-Updated version.
+Automated structural standardization.
