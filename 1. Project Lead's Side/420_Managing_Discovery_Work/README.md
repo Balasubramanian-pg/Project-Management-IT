@@ -1,3 +1,3 @@
-# 420 Managing discovery work
+# 420 Managing Discovery Work
 
-Updated version.
+Automated structural standardization.
