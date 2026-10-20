@@ -1,3 +1,3 @@
-# 112 Planning assumption management
+# 112 Planning Assumption Management
 
-Updated version.
+Automated structural standardization.
