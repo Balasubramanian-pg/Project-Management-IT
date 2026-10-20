@@ -1,3 +1,3 @@
-# 305 Managing escalation for shortages
+# 305 Managing Escalation For Shortages
 
-Updated version.
+Automated structural standardization.
