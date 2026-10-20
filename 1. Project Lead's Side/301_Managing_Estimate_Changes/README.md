@@ -1,3 +1,3 @@
-# 301 Managing estimate changes
+# 301 Managing Estimate Changes
 
-Updated version.
+Automated structural standardization.
