@@ -1,3 +1,3 @@
-# 440 Managing delivery checkpoints
+# 440 Managing Delivery Checkpoints
 
-Updated version.
+Automated structural standardization.
