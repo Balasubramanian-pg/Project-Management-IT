@@ -1,3 +1,3 @@
-# 536 Managing patch releases
+# 536 Managing Patch Releases
 
-Updated version.
+Automated structural standardization.
