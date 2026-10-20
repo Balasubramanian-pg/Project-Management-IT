@@ -1,3 +1,3 @@
-# 81 Defining detailed scope
+# 081 Defining Detailed Scope
 
-Updated version.
+Automated structural standardization.
