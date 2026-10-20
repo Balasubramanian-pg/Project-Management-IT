@@ -1,3 +1,3 @@
-# 184 Tailoring communications by audience
+# 184 Tailoring Communications By Audience
 
-Updated version.
+Automated structural standardization.
