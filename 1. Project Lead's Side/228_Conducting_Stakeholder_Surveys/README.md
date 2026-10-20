@@ -1,3 +1,3 @@
-# 228 Conducting stakeholder surveys
+# 228 Conducting Stakeholder Surveys
 
-Updated version.
+Automated structural standardization.
