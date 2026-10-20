@@ -1,3 +1,3 @@
-# 445 Managing parallel workstreams
+# 445 Managing Parallel Workstreams
 
-Updated version.
+Automated structural standardization.
