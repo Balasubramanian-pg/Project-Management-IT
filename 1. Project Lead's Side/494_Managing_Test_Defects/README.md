@@ -1,3 +1,3 @@
-# 494 Managing test defects
+# 494 Managing Test Defects
 
-Updated version.
+Automated structural standardization.
