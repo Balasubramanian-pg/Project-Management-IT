@@ -1,3 +1,3 @@
-# 380 Managing contingency plans
+# 380 Managing Contingency Plans
 
-Updated version.
+Automated structural standardization.
