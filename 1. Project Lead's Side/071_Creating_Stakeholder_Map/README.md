@@ -1,3 +1,3 @@
-# 71 Creating stakeholder map
+# 071 Creating Stakeholder Map
 
-Updated version.
+Automated structural standardization.
