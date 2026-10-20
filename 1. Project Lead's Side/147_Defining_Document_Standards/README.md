@@ -1,3 +1,3 @@
-# 147 Defining document standards
+# 147 Defining Document Standards
 
-Updated version.
+Automated structural standardization.
