@@ -1,3 +1,3 @@
-# 124 Creating the scope management plan
+# 124 Creating The Scope Management Plan
 
-Updated version.
+Automated structural standardization.
