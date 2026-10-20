@@ -1,3 +1,3 @@
-# 417 Managing release trains
+# 417 Managing Release Trains
 
-Updated version.
+Automated structural standardization.
