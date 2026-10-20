@@ -1,3 +1,3 @@
-# 506 Managing production-like data
+# 506 Managing Productionlike Data
 
-Updated version.
+Automated structural standardization.
