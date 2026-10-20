@@ -1,3 +1,3 @@
-# 348 Approving or rejecting change
+# 348 Approving Or Rejecting Change
 
-Updated version.
+Automated structural standardization.
