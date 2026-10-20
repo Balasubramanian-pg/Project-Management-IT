@@ -1,3 +1,3 @@
-# 320 Managing capex and opex split
+# 320 Managing Capex And Opex Split
 
-Updated version.
+Automated structural standardization.
