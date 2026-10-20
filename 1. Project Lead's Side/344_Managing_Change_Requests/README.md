@@ -1,3 +1,3 @@
-# 344 Managing change requests
+# 344 Managing Change Requests
 
-Updated version.
+Automated structural standardization.
