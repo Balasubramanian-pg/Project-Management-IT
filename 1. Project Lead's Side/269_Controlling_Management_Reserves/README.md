@@ -1,3 +1,3 @@
-# 269 Controlling management reserves
+# 269 Controlling Management Reserves
 
-Updated version.
+Automated structural standardization.
