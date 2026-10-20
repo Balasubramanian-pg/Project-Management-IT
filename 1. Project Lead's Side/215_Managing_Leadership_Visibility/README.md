@@ -1,3 +1,3 @@
-# 215 Managing leadership visibility
+# 215 Managing Leadership Visibility
 
-Updated version.
+Automated structural standardization.
