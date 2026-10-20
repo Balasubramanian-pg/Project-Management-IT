@@ -1,3 +1,3 @@
-# 364 Applying quality control
+# 364 Applying Quality Control
 
-Updated version.
+Automated structural standardization.
