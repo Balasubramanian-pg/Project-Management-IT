@@ -1,3 +1,3 @@
-# 319 Validating budget consumption
+# 319 Validating Budget Consumption
 
-Updated version.
+Automated structural standardization.
