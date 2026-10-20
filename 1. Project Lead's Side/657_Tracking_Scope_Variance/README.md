@@ -1,3 +1,3 @@
-# 657 Tracking scope variance
+# 657 Tracking Scope Variance
 
-Updated version.
+Automated structural standardization.
