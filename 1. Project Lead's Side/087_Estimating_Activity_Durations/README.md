@@ -1,3 +1,3 @@
-# 87 Estimating activity durations
+# 087 Estimating Activity Durations
 
-Updated version.
+Automated structural standardization.
