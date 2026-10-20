@@ -1,3 +1,3 @@
-# 418 Managing development sprints
+# 418 Managing Development Sprints
 
-Updated version.
+Automated structural standardization.
