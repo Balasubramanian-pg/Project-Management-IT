@@ -1,3 +1,3 @@
-# 299 Managing cost variances
+# 299 Managing Cost Variances
 
-Updated version.
+Automated structural standardization.
