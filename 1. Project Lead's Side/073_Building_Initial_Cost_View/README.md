@@ -1,3 +1,3 @@
-# 73 Building initial cost view
+# 073 Building Initial Cost View
 
-Updated version.
+Automated structural standardization.
