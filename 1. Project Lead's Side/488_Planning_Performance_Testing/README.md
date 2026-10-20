@@ -1,3 +1,3 @@
-# 488 Planning performance testing
+# 488 Planning Performance Testing
 
-Updated version.
+Automated structural standardization.
