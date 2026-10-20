@@ -1,3 +1,3 @@
-# 244 Estimating effort accurately
+# 244 Estimating Effort Accurately
 
-Updated version.
+Automated structural standardization.
