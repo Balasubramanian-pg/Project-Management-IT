@@ -1,3 +1,3 @@
-# 516 Planning feature toggles
+# 516 Planning Feature Toggles
 
-Updated version.
+Automated structural standardization.
