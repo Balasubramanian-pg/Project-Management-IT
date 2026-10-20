@@ -1,3 +1,3 @@
-# 91 Creating the scope baseline
+# 091 Creating The Scope Baseline
 
-Updated version.
+Automated structural standardization.
