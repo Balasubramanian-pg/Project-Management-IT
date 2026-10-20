@@ -1,3 +1,3 @@
-# 437 Coordinating among business users
+# 437 Coordinating Among Business Users
 
-Updated version.
+Automated structural standardization.
