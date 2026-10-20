@@ -1,3 +1,3 @@
-# 251 Forecasting completion dates
+# 251 Forecasting Completion Dates
 
-Updated version.
+Automated structural standardization.
