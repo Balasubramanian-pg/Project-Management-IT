@@ -1,3 +1,3 @@
-# 626 Managing pricing models
+# 626 Managing Pricing Models
 
-Updated version.
+Automated structural standardization.
