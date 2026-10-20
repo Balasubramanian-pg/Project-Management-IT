@@ -1,3 +1,3 @@
-# 629 Managing milestone billing
+# 629 Managing Milestone Billing
 
-Updated version.
+Automated structural standardization.
