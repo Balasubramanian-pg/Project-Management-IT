@@ -1,3 +1,3 @@
-# 498 Managing defect priority
+# 498 Managing Defect Priority
 
-Updated version.
+Automated structural standardization.
