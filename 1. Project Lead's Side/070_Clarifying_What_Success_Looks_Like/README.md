@@ -1,3 +1,3 @@
-# 70 Clarifying what success looks like
+# 070 Clarifying What Success Looks Like
 
-Updated version.
+Automated structural standardization.
