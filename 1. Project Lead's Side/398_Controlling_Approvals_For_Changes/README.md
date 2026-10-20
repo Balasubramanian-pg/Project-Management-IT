@@ -1,3 +1,3 @@
-# 398 Controlling approvals for changes
+# 398 Controlling Approvals For Changes
 
-Updated version.
+Automated structural standardization.
