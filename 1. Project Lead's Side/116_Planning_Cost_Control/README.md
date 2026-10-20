@@ -1,3 +1,3 @@
-# 116 Planning cost control
+# 116 Planning Cost Control
 
-Updated version.
+Automated structural standardization.
