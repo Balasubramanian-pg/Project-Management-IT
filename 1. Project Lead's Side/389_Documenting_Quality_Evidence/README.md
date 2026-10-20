@@ -1,3 +1,3 @@
-# 389 Documenting quality evidence
+# 389 Documenting Quality Evidence
 
-Updated version.
+Automated structural standardization.
