@@ -1,3 +1,3 @@
-# 328 Assigning risk owners
+# 328 Assigning Risk Owners
 
-Updated version.
+Automated structural standardization.
