@@ -1,3 +1,3 @@
-# 513 Planning phased rollout
+# 513 Planning Phased Rollout
 
-Updated version.
+Automated structural standardization.
