@@ -1,3 +1,3 @@
-# 295 Managing delivery cadence
+# 295 Managing Delivery Cadence
 
-Updated version.
+Automated structural standardization.
