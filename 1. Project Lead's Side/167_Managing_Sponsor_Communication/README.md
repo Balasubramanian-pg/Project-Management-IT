@@ -1,3 +1,3 @@
-# 167 Managing sponsor communication
+# 167 Managing Sponsor Communication
 
-Updated version.
+Automated structural standardization.
