@@ -1,3 +1,3 @@
-# 638 Managing SOX considerations
+# 638 Managing Sox Considerations
 
-Updated version.
+Automated structural standardization.
