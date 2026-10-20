@@ -1,3 +1,3 @@
-# 183 Preparing executive summaries
+# 183 Preparing Executive Summaries
 
-Updated version.
+Automated structural standardization.
