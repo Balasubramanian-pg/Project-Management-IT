@@ -1,3 +1,3 @@
-# 546 Managing acceptance signoff
+# 546 Managing Acceptance Signoff
 
-Updated version.
+Automated structural standardization.
