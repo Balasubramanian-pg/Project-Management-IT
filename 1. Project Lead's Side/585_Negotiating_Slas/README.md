@@ -1,3 +1,3 @@
-# 585 Negotiating SLAs
+# 585 Negotiating Slas
 
-Updated version.
+Automated structural standardization.
