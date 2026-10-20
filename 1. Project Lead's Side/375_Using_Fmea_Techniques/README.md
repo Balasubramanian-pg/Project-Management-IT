@@ -1,3 +1,3 @@
-# 375 Using FMEA techniques
+# 375 Using Fmea Techniques
 
-Updated version.
+Automated structural standardization.
