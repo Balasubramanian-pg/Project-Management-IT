@@ -1,3 +1,3 @@
-# 186 Building communication matrix
+# 186 Building Communication Matrix
 
-Updated version.
+Automated structural standardization.
