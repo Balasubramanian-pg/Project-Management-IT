@@ -1,3 +1,3 @@
-# 564 Identifying audit requirements
+# 564 Identifying Audit Requirements
 
-Updated version.
+Automated structural standardization.
