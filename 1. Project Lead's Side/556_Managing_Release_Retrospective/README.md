@@ -1,3 +1,3 @@
-# 556 Managing release retrospective
+# 556 Managing Release Retrospective
 
-Updated version.
+Automated structural standardization.
