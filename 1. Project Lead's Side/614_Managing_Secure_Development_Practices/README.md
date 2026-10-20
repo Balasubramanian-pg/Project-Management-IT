@@ -1,3 +1,3 @@
-# 614 Managing secure development practices
+# 614 Managing Secure Development Practices
 
-Updated version.
+Automated structural standardization.
