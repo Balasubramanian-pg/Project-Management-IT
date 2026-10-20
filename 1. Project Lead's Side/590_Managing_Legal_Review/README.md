@@ -1,3 +1,3 @@
-# 590 Managing legal review
+# 590 Managing Legal Review
 
-Updated version.
+Automated structural standardization.
