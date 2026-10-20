@@ -1,3 +1,3 @@
-# 497 Managing defect severity
+# 497 Managing Defect Severity
 
-Updated version.
+Automated structural standardization.
