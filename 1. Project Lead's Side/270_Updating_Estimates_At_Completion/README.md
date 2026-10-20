@@ -1,3 +1,3 @@
-# 270 Updating estimates at completion
+# 270 Updating Estimates At Completion
 
-Updated version.
+Automated structural standardization.
