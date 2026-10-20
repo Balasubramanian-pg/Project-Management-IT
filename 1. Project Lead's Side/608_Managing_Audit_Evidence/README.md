@@ -1,3 +1,3 @@
-# 608 Managing audit evidence
+# 608 Managing Audit Evidence
 
-Updated version.
+Automated structural standardization.
