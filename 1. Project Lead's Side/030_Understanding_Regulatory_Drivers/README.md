@@ -1,3 +1,3 @@
-# 30 Understanding regulatory drivers
+# 030 Understanding Regulatory Drivers
 
-Updated version.
+Automated structural standardization.
