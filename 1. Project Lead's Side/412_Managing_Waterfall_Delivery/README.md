@@ -1,3 +1,3 @@
-# 412 Managing waterfall delivery
+# 412 Managing Waterfall Delivery
 
-Updated version.
+Automated structural standardization.
