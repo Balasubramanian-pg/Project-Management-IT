@@ -1,3 +1,3 @@
-# 391 Reviewing signoff quality
+# 391 Reviewing Signoff Quality
 
-Updated version.
+Automated structural standardization.
