@@ -1,3 +1,3 @@
-# 197 Facilitating approvals
+# 197 Facilitating Approvals
 
-Updated version.
+Automated structural standardization.
