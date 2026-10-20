@@ -1,3 +1,3 @@
-# 89 Identifying task dependencies
+# 089 Identifying Task Dependencies
 
-Updated version.
+Automated structural standardization.
