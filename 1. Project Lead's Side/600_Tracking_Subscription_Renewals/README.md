@@ -1,3 +1,3 @@
-# 600 Tracking subscription renewals
+# 600 Tracking Subscription Renewals
 
-Updated version.
+Automated structural standardization.
