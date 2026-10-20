@@ -1,3 +1,3 @@
-# 644 Defining financial KPIs
+# 644 Defining Financial Kpis
 
-Updated version.
+Automated structural standardization.
