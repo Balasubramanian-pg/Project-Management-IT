@@ -1,3 +1,3 @@
-# 480 Managing velocity shifts
+# 480 Managing Velocity Shifts
 
-Updated version.
+Automated structural standardization.
