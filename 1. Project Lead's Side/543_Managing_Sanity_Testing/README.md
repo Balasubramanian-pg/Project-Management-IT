@@ -1,3 +1,3 @@
-# 543 Managing sanity testing
+# 543 Managing Sanity Testing
 
-Updated version.
+Automated structural standardization.
