@@ -1,3 +1,3 @@
-# 249 Tracking planned versus actual cost
+# 249 Tracking Planned Versus Actual Cost
 
-Updated version.
+Automated structural standardization.
