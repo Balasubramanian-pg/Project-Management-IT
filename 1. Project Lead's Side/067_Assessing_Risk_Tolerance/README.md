@@ -1,3 +1,3 @@
-# 67 Assessing risk tolerance
+# 067 Assessing Risk Tolerance
 
-Updated version.
+Automated structural standardization.
