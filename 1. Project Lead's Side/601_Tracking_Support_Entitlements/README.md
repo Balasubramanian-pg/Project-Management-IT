@@ -1,3 +1,3 @@
-# 601 Tracking support entitlements
+# 601 Tracking Support Entitlements
 
-Updated version.
+Automated structural standardization.
