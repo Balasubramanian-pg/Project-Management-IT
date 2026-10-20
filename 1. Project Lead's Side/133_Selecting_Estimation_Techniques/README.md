@@ -1,3 +1,3 @@
-# 133 Selecting estimation techniques
+# 133 Selecting Estimation Techniques
 
-Updated version.
+Automated structural standardization.
