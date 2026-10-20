@@ -1,3 +1,3 @@
-# 632 Managing change orders with vendors
+# 632 Managing Change Orders With Vendors
 
-Updated version.
+Automated structural standardization.
