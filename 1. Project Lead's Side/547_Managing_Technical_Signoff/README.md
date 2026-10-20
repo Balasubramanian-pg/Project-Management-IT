@@ -1,3 +1,3 @@
-# 547 Managing technical signoff
+# 547 Managing Technical Signoff
 
-Updated version.
+Automated structural standardization.
