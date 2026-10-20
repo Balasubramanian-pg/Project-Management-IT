@@ -1,3 +1,3 @@
-# 119 Planning resource control
+# 119 Planning Resource Control
 
-Updated version.
+Automated structural standardization.
