@@ -1,3 +1,3 @@
-# 03 Framing the opportunity statement
+# 003 Framing The Opportunity Statement
 
-Updated version.
+Automated structural standardization.
