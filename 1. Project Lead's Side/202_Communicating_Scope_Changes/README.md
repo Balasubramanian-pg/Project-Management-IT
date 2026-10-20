@@ -1,3 +1,3 @@
-# 202 Communicating scope changes
+# 202 Communicating Scope Changes
 
-Updated version.
+Automated structural standardization.
