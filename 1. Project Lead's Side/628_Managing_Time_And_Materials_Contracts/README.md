@@ -1,3 +1,3 @@
-# 628 Managing time and materials contracts
+# 628 Managing Time And Materials Contracts
 
-Updated version.
+Automated structural standardization.
