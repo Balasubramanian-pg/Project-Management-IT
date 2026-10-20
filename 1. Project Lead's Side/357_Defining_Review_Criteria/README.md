@@ -1,3 +1,3 @@
-# 357 Defining review criteria
+# 357 Defining Review Criteria
 
-Updated version.
+Automated structural standardization.
