@@ -1,3 +1,3 @@
-# 36 Assessing budget appetite
+# 036 Assessing Budget Appetite
 
-Updated version.
+Automated structural standardization.
