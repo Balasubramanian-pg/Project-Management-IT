@@ -1,3 +1,3 @@
-# 248 Tracking planned versus actual effort
+# 248 Tracking Planned Versus Actual Effort
 
-Updated version.
+Automated structural standardization.
