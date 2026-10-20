@@ -1,3 +1,3 @@
-# 572 Running privacy reviews
+# 572 Running Privacy Reviews
 
-Updated version.
+Automated structural standardization.
