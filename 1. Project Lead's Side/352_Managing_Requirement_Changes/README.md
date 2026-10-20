@@ -1,3 +1,3 @@
-# 352 Managing requirement changes
+# 352 Managing Requirement Changes
 
-Updated version.
+Automated structural standardization.
