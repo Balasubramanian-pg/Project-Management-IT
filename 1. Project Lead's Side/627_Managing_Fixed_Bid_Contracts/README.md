@@ -1,3 +1,3 @@
-# 627 Managing fixed bid contracts
+# 627 Managing Fixed Bid Contracts
 
-Updated version.
+Automated structural standardization.
