@@ -1,3 +1,3 @@
-# 514 Planning blue green deployment
+# 514 Planning Blue Green Deployment
 
-Updated version.
+Automated structural standardization.
