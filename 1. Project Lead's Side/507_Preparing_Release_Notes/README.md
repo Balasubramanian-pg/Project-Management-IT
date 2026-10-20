@@ -1,3 +1,3 @@
-# 507 Preparing release notes
+# 507 Preparing Release Notes
 
-Updated version.
+Automated structural standardization.
