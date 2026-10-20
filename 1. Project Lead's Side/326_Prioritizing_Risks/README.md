@@ -1,3 +1,3 @@
-# 326 Prioritizing risks
+# 326 Prioritizing Risks
 
-Updated version.
+Automated structural standardization.
