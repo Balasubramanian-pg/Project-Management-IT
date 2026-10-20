@@ -1,3 +1,3 @@
-# 291 Managing budget approvals
+# 291 Managing Budget Approvals
 
-Updated version.
+Automated structural standardization.
