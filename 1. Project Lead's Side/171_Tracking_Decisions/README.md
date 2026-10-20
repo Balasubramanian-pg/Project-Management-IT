@@ -1,3 +1,3 @@
-# 171 Tracking decisions
+# 171 Tracking Decisions
 
-Updated version.
+Automated structural standardization.
