@@ -1,3 +1,3 @@
-# 591 Managing finance review
+# 591 Managing Finance Review
 
-Updated version.
+Automated structural standardization.
