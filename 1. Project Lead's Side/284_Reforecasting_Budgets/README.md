@@ -1,3 +1,3 @@
-# 284 Reforecasting budgets
+# 284 Reforecasting Budgets
 
-Updated version.
+Automated structural standardization.
