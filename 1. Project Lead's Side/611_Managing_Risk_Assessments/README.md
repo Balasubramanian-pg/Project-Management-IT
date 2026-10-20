@@ -1,3 +1,3 @@
-# 611 Managing risk assessments
+# 611 Managing Risk Assessments
 
-Updated version.
+Automated structural standardization.
