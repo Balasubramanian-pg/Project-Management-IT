@@ -1,3 +1,3 @@
-# 62 Setting the project mandate
+# 062 Setting The Project Mandate
 
-Updated version.
+Automated structural standardization.
