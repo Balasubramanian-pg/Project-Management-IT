@@ -1,3 +1,3 @@
-# 145 Setting planning standards
+# 145 Setting Planning Standards
 
-Updated version.
+Automated structural standardization.
