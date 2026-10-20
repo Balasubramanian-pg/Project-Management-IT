@@ -1,3 +1,3 @@
-# 231 Adjusting communication strategy
+# 231 Adjusting Communication Strategy
 
-Updated version.
+Automated structural standardization.
