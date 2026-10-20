@@ -1,3 +1,3 @@
-# 324 Assessing risk impact
+# 324 Assessing Risk Impact
 
-Updated version.
+Automated structural standardization.
