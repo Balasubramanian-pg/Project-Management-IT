@@ -1,3 +1,3 @@
-# 390 Tracking nonconformities
+# 390 Tracking Nonconformities
 
-Updated version.
+Automated structural standardization.
