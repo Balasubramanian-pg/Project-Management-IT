@@ -1,3 +1,3 @@
-# 620 Managing business continuity requirements
+# 620 Managing Business Continuity Requirements
 
-Updated version.
+Automated structural standardization.
