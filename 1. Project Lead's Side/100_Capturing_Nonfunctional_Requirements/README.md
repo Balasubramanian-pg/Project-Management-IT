@@ -1,3 +1,3 @@
-# 100 Capturing nonfunctional requirements
+# 100 Capturing Nonfunctional Requirements
 
-Updated version.
+Automated structural standardization.
