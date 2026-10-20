@@ -1,3 +1,3 @@
-# 466 Managing task closure
+# 466 Managing Task Closure
 
-Updated version.
+Automated structural standardization.
