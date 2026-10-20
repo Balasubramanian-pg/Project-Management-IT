@@ -1,3 +1,3 @@
-# 367 Monitoring escaped defects
+# 367 Monitoring Escaped Defects
 
-Updated version.
+Automated structural standardization.
