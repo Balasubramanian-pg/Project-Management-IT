@@ -1,3 +1,3 @@
-# 402 Coordinating workstreams
+# 402 Coordinating Workstreams
 
-Updated version.
+Automated structural standardization.
