@@ -1,3 +1,3 @@
-# 260 Onboarding project resources
+# 260 Onboarding Project Resources
 
-Updated version.
+Automated structural standardization.
