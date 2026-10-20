@@ -1,3 +1,3 @@
-# 134 Estimating effort by task
+# 134 Estimating Effort By Task
 
-Updated version.
+Automated structural standardization.
