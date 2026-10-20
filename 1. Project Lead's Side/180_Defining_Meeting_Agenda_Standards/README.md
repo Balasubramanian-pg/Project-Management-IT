@@ -1,3 +1,3 @@
-# 180 Defining meeting agenda standards
+# 180 Defining Meeting Agenda Standards
 
-Updated version.
+Automated structural standardization.
