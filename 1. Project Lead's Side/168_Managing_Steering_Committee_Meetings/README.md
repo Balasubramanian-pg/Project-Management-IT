@@ -1,3 +1,3 @@
-# 168 Managing steering committee meetings
+# 168 Managing Steering Committee Meetings
 
-Updated version.
+Automated structural standardization.
