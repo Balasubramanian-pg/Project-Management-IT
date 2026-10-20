@@ -1,3 +1,3 @@
-# 527 Managing go-live command center
+# 527 Managing Golive Command Center
 
-Updated version.
+Automated structural standardization.
