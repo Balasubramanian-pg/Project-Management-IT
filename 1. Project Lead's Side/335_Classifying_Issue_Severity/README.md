@@ -1,3 +1,3 @@
-# 335 Classifying issue severity
+# 335 Classifying Issue Severity
 
-Updated version.
+Automated structural standardization.
