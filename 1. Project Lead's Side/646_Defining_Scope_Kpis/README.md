@@ -1,3 +1,3 @@
-# 646 Defining scope KPIs
+# 646 Defining Scope Kpis
 
-Updated version.
+Automated structural standardization.
