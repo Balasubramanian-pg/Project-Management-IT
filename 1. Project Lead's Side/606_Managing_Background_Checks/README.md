@@ -1,3 +1,3 @@
-# 606 Managing background checks
+# 606 Managing Background Checks
 
-Updated version.
+Automated structural standardization.
