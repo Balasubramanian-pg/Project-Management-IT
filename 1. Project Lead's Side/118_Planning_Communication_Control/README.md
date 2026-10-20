@@ -1,3 +1,3 @@
-# 118 Planning communication control
+# 118 Planning Communication Control
 
-Updated version.
+Automated structural standardization.
