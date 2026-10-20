@@ -1,3 +1,3 @@
-# 571 Running security reviews
+# 571 Running Security Reviews
 
-Updated version.
+Automated structural standardization.
