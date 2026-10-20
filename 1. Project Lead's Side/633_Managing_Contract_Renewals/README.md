@@ -1,3 +1,3 @@
-# 633 Managing contract renewals
+# 633 Managing Contract Renewals
 
-Updated version.
+Automated structural standardization.
