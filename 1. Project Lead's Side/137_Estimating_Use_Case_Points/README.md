@@ -1,3 +1,3 @@
-# 137 Estimating use case points
+# 137 Estimating Use Case Points
 
-Updated version.
+Automated structural standardization.
