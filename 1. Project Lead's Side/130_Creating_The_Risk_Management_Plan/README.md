@@ -1,3 +1,3 @@
-# 130 Creating the risk management plan
+# 130 Creating The Risk Management Plan
 
-Updated version.
+Automated structural standardization.
