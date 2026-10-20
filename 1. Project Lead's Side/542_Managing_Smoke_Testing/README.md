@@ -1,3 +1,3 @@
-# 542 Managing smoke testing
+# 542 Managing Smoke Testing
 
-Updated version.
+Automated structural standardization.
