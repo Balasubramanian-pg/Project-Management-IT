@@ -1,3 +1,3 @@
-# 353 Managing design changes
+# 353 Managing Design Changes
 
-Updated version.
+Automated structural standardization.
