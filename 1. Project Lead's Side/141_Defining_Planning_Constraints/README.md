@@ -1,3 +1,3 @@
-# 141 Defining planning constraints
+# 141 Defining Planning Constraints
 
-Updated version.
+Automated structural standardization.
