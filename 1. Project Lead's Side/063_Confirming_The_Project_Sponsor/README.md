@@ -1,3 +1,3 @@
-# 63 Confirming the project sponsor
+# 063 Confirming The Project Sponsor
 
-Updated version.
+Automated structural standardization.
