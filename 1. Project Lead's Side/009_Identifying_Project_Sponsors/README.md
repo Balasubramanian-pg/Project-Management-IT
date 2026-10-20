@@ -1,3 +1,3 @@
-# 09 Identifying project sponsors
+# 009 Identifying Project Sponsors
 
-Updated version.
+Automated structural standardization.
