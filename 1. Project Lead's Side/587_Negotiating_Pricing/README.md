@@ -1,3 +1,3 @@
-# 587 Negotiating pricing
+# 587 Negotiating Pricing
 
-Updated version.
+Automated structural standardization.
