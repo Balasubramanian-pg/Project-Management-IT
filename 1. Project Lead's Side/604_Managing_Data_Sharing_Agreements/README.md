@@ -1,3 +1,3 @@
-# 604 Managing data sharing agreements
+# 604 Managing Data Sharing Agreements
 
-Updated version.
+Automated structural standardization.
