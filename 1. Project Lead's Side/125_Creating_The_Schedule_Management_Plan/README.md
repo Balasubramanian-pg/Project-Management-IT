@@ -1,3 +1,3 @@
-# 125 Creating the schedule management plan
+# 125 Creating The Schedule Management Plan
 
-Updated version.
+Automated structural standardization.
