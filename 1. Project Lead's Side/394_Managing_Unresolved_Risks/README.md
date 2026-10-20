@@ -1,3 +1,3 @@
-# 394 Managing unresolved risks
+# 394 Managing Unresolved Risks
 
-Updated version.
+Automated structural standardization.
