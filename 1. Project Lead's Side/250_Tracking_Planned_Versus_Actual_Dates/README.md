@@ -1,3 +1,3 @@
-# 250 Tracking planned versus actual dates
+# 250 Tracking Planned Versus Actual Dates
 
-Updated version.
+Automated structural standardization.
