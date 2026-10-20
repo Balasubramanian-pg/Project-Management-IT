@@ -1,3 +1,3 @@
-# 558 Managing post-release monitoring
+# 558 Managing Postrelease Monitoring
 
-Updated version.
+Automated structural standardization.
