@@ -1,3 +1,3 @@
-# 166 Managing executive communication
+# 166 Managing Executive Communication
 
-Updated version.
+Automated structural standardization.
