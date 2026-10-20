@@ -1,3 +1,3 @@
-# 160 Planning minimum viable release
+# 160 Planning Minimum Viable Release
 
-Updated version.
+Automated structural standardization.
