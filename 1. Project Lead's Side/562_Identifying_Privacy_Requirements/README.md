@@ -1,3 +1,3 @@
-# 562 Identifying privacy requirements
+# 562 Identifying Privacy Requirements
 
-Updated version.
+Automated structural standardization.
