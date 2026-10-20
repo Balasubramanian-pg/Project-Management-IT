@@ -1,3 +1,3 @@
-# 341 Managing defects
+# 341 Managing Defects
 
-Updated version.
+Automated structural standardization.
