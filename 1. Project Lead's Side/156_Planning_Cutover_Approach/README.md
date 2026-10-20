@@ -1,3 +1,3 @@
-# 156 Planning cutover approach
+# 156 Planning Cutover Approach
 
-Updated version.
+Automated structural standardization.
