@@ -1,3 +1,3 @@
-# 309 Planning analyst allocation
+# 309 Planning Analyst Allocation
 
-Updated version.
+Automated structural standardization.
