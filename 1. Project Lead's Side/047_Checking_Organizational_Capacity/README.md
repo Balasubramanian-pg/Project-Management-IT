@@ -1,3 +1,3 @@
-# 47 Checking organizational capacity
+# 047 Checking Organizational Capacity
 
-Updated version.
+Automated structural standardization.
