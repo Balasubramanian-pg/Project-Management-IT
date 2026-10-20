@@ -1,3 +1,3 @@
-# 102 Managing requirement traceability
+# 102 Managing Requirement Traceability
 
-Updated version.
+Automated structural standardization.
