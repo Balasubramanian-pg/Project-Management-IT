@@ -1,3 +1,3 @@
-# 622 Managing outsourced delivery
+# 622 Managing Outsourced Delivery
 
-Updated version.
+Automated structural standardization.
