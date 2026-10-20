@@ -1,3 +1,3 @@
-# 279 Managing outsourcing effort
+# 279 Managing Outsourcing Effort
 
-Updated version.
+Automated structural standardization.
