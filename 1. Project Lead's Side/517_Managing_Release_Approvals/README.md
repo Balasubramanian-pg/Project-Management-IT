@@ -1,3 +1,3 @@
-# 517 Managing release approvals
+# 517 Managing Release Approvals
 
-Updated version.
+Automated structural standardization.
