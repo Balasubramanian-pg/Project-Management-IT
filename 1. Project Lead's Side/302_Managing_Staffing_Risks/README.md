@@ -1,3 +1,3 @@
-# 302 Managing staffing risks
+# 302 Managing Staffing Risks
 
-Updated version.
+Automated structural standardization.
