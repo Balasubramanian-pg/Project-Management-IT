@@ -1,3 +1,3 @@
-# 218 Maintaining communication archives
+# 218 Maintaining Communication Archives
 
-Updated version.
+Automated structural standardization.
