@@ -1,3 +1,3 @@
-# 275 Tracking velocity
+# 275 Tracking Velocity
 
-Updated version.
+Automated structural standardization.
