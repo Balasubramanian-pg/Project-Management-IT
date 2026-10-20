@@ -1,3 +1,3 @@
-# 288 Maintaining milestone tracker
+# 288 Maintaining Milestone Tracker
 
-Updated version.
+Automated structural standardization.
