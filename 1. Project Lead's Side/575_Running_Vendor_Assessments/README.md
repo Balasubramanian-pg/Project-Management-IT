@@ -1,3 +1,3 @@
-# 575 Running vendor assessments
+# 575 Running Vendor Assessments
 
-Updated version.
+Automated structural standardization.
