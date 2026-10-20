@@ -1,3 +1,3 @@
-# 419 Managing design sprints
+# 419 Managing Design Sprints
 
-Updated version.
+Automated structural standardization.
