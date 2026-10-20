@@ -1,3 +1,3 @@
-# 623 Managing nearshore teams
+# 623 Managing Nearshore Teams
 
-Updated version.
+Automated structural standardization.
