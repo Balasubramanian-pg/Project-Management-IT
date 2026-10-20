@@ -1,3 +1,3 @@
-# 13 Understanding the current state
+# 013 Understanding The Current State
 
-Updated version.
+Automated structural standardization.
