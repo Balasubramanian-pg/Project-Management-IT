@@ -1,3 +1,3 @@
-# 198 Running checkpoint reviews
+# 198 Running Checkpoint Reviews
 
-Updated version.
+Automated structural standardization.
