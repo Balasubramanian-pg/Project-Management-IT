@@ -1,3 +1,3 @@
-# 316 Tracking financial commitments
+# 316 Tracking Financial Commitments
 
-Updated version.
+Automated structural standardization.
