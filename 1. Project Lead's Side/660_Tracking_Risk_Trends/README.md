@@ -1,3 +1,3 @@
-# 660 Tracking risk trends
+# 660 Tracking Risk Trends
 
-Updated version.
+Automated structural standardization.
