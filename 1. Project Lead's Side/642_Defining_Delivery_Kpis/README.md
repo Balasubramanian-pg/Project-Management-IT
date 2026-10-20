@@ -1,3 +1,3 @@
-# 642 Defining delivery KPIs
+# 642 Defining Delivery Kpis
 
-Updated version.
+Automated structural standardization.
