@@ -1,3 +1,3 @@
-# 148 Defining version control approach
+# 148 Defining Version Control Approach
 
-Updated version.
+Automated structural standardization.
