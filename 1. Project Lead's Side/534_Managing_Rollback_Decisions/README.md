@@ -1,3 +1,3 @@
-# 534 Managing rollback decisions
+# 534 Managing Rollback Decisions
 
-Updated version.
+Automated structural standardization.
