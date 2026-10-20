@@ -1,3 +1,3 @@
-# 648 Defining stakeholder KPIs
+# 648 Defining Stakeholder Kpis
 
-Updated version.
+Automated structural standardization.
