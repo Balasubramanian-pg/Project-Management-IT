@@ -1,3 +1,3 @@
-# 356 Defining quality standards
+# 356 Defining Quality Standards
 
-Updated version.
+Automated structural standardization.
