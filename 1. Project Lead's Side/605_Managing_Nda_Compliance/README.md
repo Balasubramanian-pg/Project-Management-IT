@@ -1,3 +1,3 @@
-# 605 Managing NDA compliance
+# 605 Managing Nda Compliance
 
-Updated version.
+Automated structural standardization.
