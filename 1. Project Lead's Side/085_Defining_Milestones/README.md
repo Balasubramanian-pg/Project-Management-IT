@@ -1,3 +1,3 @@
-# 85 Defining milestones
+# 085 Defining Milestones
 
-Updated version.
+Automated structural standardization.
