@@ -1,3 +1,3 @@
-# 617 Managing penetration testing
+# 617 Managing Penetration Testing
 
-Updated version.
+Automated structural standardization.
