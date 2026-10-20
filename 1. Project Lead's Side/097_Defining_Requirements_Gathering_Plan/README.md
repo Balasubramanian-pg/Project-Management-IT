@@ -1,3 +1,3 @@
-# 97 Defining requirements gathering plan
+# 097 Defining Requirements Gathering Plan
 
-Updated version.
+Automated structural standardization.
