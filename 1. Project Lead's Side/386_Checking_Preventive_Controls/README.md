@@ -1,3 +1,3 @@
-# 386 Checking preventive controls
+# 386 Checking Preventive Controls
 
-Updated version.
+Automated structural standardization.
