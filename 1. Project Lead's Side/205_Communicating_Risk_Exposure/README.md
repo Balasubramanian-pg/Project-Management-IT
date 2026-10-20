@@ -1,3 +1,3 @@
-# 205 Communicating risk exposure
+# 205 Communicating Risk Exposure
 
-Updated version.
+Automated structural standardization.
