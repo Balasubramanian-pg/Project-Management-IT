@@ -1,3 +1,3 @@
-# 234 Managing stakeholder offboarding
+# 234 Managing Stakeholder Offboarding
 
-Updated version.
+Automated structural standardization.
