@@ -1,3 +1,3 @@
-# 127 Creating the quality management plan
+# 127 Creating The Quality Management Plan
 
-Updated version.
+Automated structural standardization.
