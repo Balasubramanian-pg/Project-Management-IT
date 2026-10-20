@@ -1,3 +1,3 @@
-# 150 Planning environment needs
+# 150 Planning Environment Needs
 
-Updated version.
+Automated structural standardization.
