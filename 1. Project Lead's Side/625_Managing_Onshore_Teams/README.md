@@ -1,3 +1,3 @@
-# 625 Managing onshore teams
+# 625 Managing Onshore Teams
 
-Updated version.
+Automated structural standardization.
