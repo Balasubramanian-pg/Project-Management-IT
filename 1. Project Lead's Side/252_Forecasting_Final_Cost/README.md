@@ -1,3 +1,3 @@
-# 252 Forecasting final cost
+# 252 Forecasting Final Cost
 
-Updated version.
+Automated structural standardization.
