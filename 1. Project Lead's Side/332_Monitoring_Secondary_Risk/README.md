@@ -1,3 +1,3 @@
-# 332 Monitoring secondary risk
+# 332 Monitoring Secondary Risk
 
-Updated version.
+Automated structural standardization.
