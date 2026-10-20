@@ -1,3 +1,3 @@
-# 207 Communicating dependencies
+# 207 Communicating Dependencies
 
-Updated version.
+Automated structural standardization.
