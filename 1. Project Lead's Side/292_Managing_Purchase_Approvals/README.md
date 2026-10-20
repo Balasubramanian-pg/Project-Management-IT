@@ -1,3 +1,3 @@
-# 292 Managing purchase approvals
+# 292 Managing Purchase Approvals
 
-Updated version.
+Automated structural standardization.
