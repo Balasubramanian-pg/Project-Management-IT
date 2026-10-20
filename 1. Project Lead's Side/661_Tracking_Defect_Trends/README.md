@@ -1,3 +1,3 @@
-# 661 Tracking defect trends
+# 661 Tracking Defect Trends
 
-Updated version.
+Automated structural standardization.
