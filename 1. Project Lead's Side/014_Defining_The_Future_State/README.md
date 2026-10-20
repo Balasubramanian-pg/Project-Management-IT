@@ -1,3 +1,3 @@
-# 14 Defining the future state
+# 014 Defining The Future State
 
-Updated version.
+Automated structural standardization.
