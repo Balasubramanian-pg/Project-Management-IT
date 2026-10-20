@@ -1,3 +1,3 @@
-# 193 Aligning business and IT stakeholders
+# 193 Aligning Business And IT Stakeholders
 
-Updated version.
+Automated structural standardization.
